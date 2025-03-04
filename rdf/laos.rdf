@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:city="http://example.org/schema/city"
+    xmlns:dc="http://purl.org/dc/terms/">
+ 
+ <city:laos rdf:about="https://dbpedia.org/page/Luang_Prabang">
+        <city:number>1</city:number>
+        <rdfs:label>Luang_Prabang</rdfs:label>
+        <city:country>Laos</city:country>
+        <city:abstract>
+        Luang Phabang, (Lao: ຫລວງພະບາງ/ຫຼວງພະບາງ) atau Louangphabang (diucapkan [lǔaŋ pʰa.bàːŋ]), biasanya ditransliterasikan ke dalam bahasa-bahasa Barat dari ejaan Laos sebelum tahun 1975 ຫຼ ວງພຣະບາງ (ຣ = diam r) sebagai Luang Prabang, secara harfiah berarti "Buddha Kerajaan Image", adalah sebuah kota di utara tengah Laos, terdiri dari 58 desa yang berdekatan, 33 di antaranya merupakan Situs Warisan Dunia Kota Luang Prabang UNESCO. Itu terdaftar pada tahun 1995 untuk warisan arsitektur, agama dan budaya yang unik dan "sangat" terpelihara dengan baik, perpaduan antara perkembangan pedesaan dan perkotaan selama beberapa abad, termasuk pengaruh kolonial Perancis selama abad ke-19 dan ke-20. Pusat kota terdiri dari empat jalan utama dan terletak di semenanjung di pertemuan Sungai Nam Khan dan Sungai Mekong. Luang Prabang terkenal dengan banyak kuil dan biara Buddha. Setiap pagi, ratusan biksu dari berbagai biara berjalan di jalan mengumpulkan dana makanan. Salah satu landmark utama kota ini adalah Gunung Phou Si; sebuah bukit besar yang curam meskipun skala kotanya terbatas, tingginya 150 meter (490 kaki); tangga curam mengarah ke kuil Wat Chom Si dan pemandangan kota dan sungai. Kota ini dulunya adalah ibu kota kerajaan dengan nama yang sama. Ia juga dikenal dengan nama kuno Xieng Thong. Kota ini merupakan ibu kota kerajaan dan pusat pemerintahan Kerajaan Laos, hingga pengambilalihan Pathet Lao pada tahun 1975. Kota ini merupakan bagian dari Distrik Luang Prabang di Provinsi Luang Prabang dan merupakan ibu kota dan pusat administrasi provinsi tersebut. Letaknya sekitar 300 km (186 mil) di utara ibu kota Vientiane. Saat ini, populasi kota secara keseluruhan berjumlah sekitar 56.000 jiwa dengan situs yang dilindungi UNESCO dihuni oleh sekitar 24.000 jiwa.
+        </city:abstract>
+        <city:areaTotalKm> .... </city:areaTotalKm>
+        <city:populationTotal>55.027</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Luang_Prabang"/>
+    </city:laos>
+
+     <city:laos rdf:about="https://dbpedia.org/page/Pakxe">
+        <city:number>2</city:number>
+        <rdfs:label>Pakxe</rdfs:label>
+        <city:country>Laos</city:country>
+        <city:abstract>
+        Luang Phabang, (Lao: ຫລວງພະບາງ/ຫຼວງພະບາງ) atau Louangphabang (diucapkan [lǔaŋ pʰa.bàːŋ]), biasanya ditransliterasikan ke dalam bahasa-bahasa Barat dari ejaan Laos sebelum tahun 1975 ຫຼ ວງພຣະບາງ (ຣ = diam r) sebagai Luang Prabang, secara harfiah berarti "Buddha Kerajaan Image", adalah sebuah kota di utara tengah Laos, terdiri dari 58 desa yang berdekatan, 33 di antaranya merupakan Situs Warisan Dunia Kota Luang Prabang UNESCO. Itu terdaftar pada tahun 1995 untuk warisan arsitektur, agama dan budaya yang unik dan "sangat" terpelihara dengan baik, perpaduan antara perkembangan pedesaan dan perkotaan selama beberapa abad, termasuk pengaruh kolonial Perancis selama abad ke-19 dan ke-20. Pusat kota terdiri dari empat jalan utama dan terletak di semenanjung di pertemuan Sungai Nam Khan dan Sungai Mekong. Luang Prabang terkenal dengan banyak kuil dan biara Buddha. Setiap pagi, ratusan biksu dari berbagai biara berjalan di jalan mengumpulkan dana makanan. Salah satu landmark utama kota ini adalah Gunung Phou Si; sebuah bukit besar yang curam meskipun skala kotanya terbatas, tingginya 150 meter (490 kaki); tangga curam mengarah ke kuil Wat Chom Si dan pemandangan kota dan sungai. Kota ini dulunya adalah ibu kota kerajaan dengan nama yang sama. Ia juga dikenal dengan nama kuno Xieng Thong. Kota ini merupakan ibu kota kerajaan dan pusat pemerintahan Kerajaan Laos, hingga pengambilalihan Pathet Lao pada tahun 1975. Kota ini merupakan bagian dari Distrik Luang Prabang di Provinsi Luang Prabang dan merupakan ibu kota dan pusat administrasi provinsi tersebut. Letaknya sekitar 300 km (186 mil) di utara ibu kota Vientiane. Saat ini, populasi kota secara keseluruhan berjumlah sekitar 56.000 jiwa dengan situs yang dilindungi UNESCO dihuni oleh sekitar 24.000 jiwa.
+        </city:abstract>
+        <city:areaTotalKm> .... </city:areaTotalKm>
+        <city:populationTotal>119.848</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pakxe"/>
+    </city:laos>
+
+     <city:laos rdf:about="https://dbpedia.org/page/Savannakhet">
+        <city:number>3</city:number>
+        <rdfs:label>Savannakhet</rdfs:label>
+        <city:country>Laos</city:country>
+        <city:abstract>
+        Savannakhet (ສະຫວັນນະເຂດ), secara resmi bernama Kaysone Phomvihane (Lao: ໄກສອນ ພົມວິຫານ; Thai: ไกสอน พม วิหาน) sejak tahun 2005 dan sebelumnya dikenal sebagai Khanthaboury (ຄັນທະບູລີ), adalah sebuah kota di Laos barat. Ini adalah ibu kota Provinsi Savannakhet. Dengan jumlah penduduk 125.760 jiwa (2018), kota ini merupakan kota terbesar kedua di Laos, setelah Vientiane. Meskipun kawasan kota lama kolonial Perancis, di sepanjang tepian Sungai Mekong, mengalami depresi dan runtuh, kedekatan kota ini dengan perekonomian Thailand yang sedang berkembang pesat telah membawa perkembangan komersial baru di bagian utara kota, dekat penyeberangan sungai dan jalan raya. terminal bus. Seperti semua kota di Laos, Savannakhet memiliki populasi campuran Laos, Thailand, Vietnam dan Cina, serta masyarakat minoritas dari pedalaman Laos. Ini memiliki kuil Buddha besar abad ke-15, Wat Sainyaphum, kuil Cina, Katedral Katolik St. Therese, dan sebuah masjid. Jembatan Persahabatan Thailand-Lao Kedua di atas Sungai Mekong menghubungkan ke Provinsi Mukdahan di Thailand. Jembatan dua jalur, lebar 12 meter (39 kaki), panjang 1.600 meter (5.250 kaki) dibuka untuk umum pada 9 Januari 2007. Pendapatan per kapita tahunan Kota Kaysone Phomvihane adalah US$2.041 (2018)
+        </city:abstract>
+        <city:areaTotalKm> .... </city:areaTotalKm>
+        <city:populationTotal>125.760</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Savannakhet"/>
+    </city:laos>
+
+     <city:laos rdf:about="https://dbpedia.org/page/Thakhek">
+        <city:number>4</city:number>
+        <rdfs:label>Thakhek</rdfs:label>
+        <city:country>Laos</city:country>
+        <city:abstract>
+        Thakhek (bahasa Laos: ທ່າແຂກ), ibu kota Provinsi Khammouane, adalah sebuah kota di Laos tengah-selatan di Sungai Mekong. Jembatan Persahabatan Thailand-Lao Ketiga, yang menghubungkan Thakhek dan Nakhon Phanom, Thailand, di seberang sungai, dimulai pada tahun 2009 dan dibuka pada 11 November 2011. Kota ini memiliki banyak bangunan resmi, vila, dan toko bergaya kolonial Prancis. Pada tahun 1943, 85% penduduk Thakhek adalah orang Vietnam karena kebijakan Perancis yang mendorong imigran Vietnam ke Laos. Sisa-sisa jalur kereta Thakhek-Tan Ap yang gagal dapat dilihat di dalam dan dekat kota. Kereta api ini akan beroperasi antara Thakhek dan Stasiun Kereta Tân Ấp, Provinsi Quảng Bình, Vietnam melalui Mụ Giạ Pass. Ilmuwan Barat pertama kali bertemu dengan tikus batu Laos, kha nyou (Laonastes aenigmamus), di pasar Thakhek.
+        </city:abstract>
+        <city:areaTotalKm> .... </city:areaTotalKm>
+        <city:populationTotal>85.000</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Thakhek"/>
+    </city:laos>
+
+     <city:laos rdf:about="https://dbpedia.org/page/Vang_Vieng">
+        <city:number>5</city:number>
+        <rdfs:label>Vang Vieng</rdfs:label>
+        <city:country>Laos</city:country>
+        <city:abstract>
+       Vang Vieng (Lao: ວັງວຽງ) adalah kota berorientasi wisata di Laos di Provinsi Vientiane, sekitar empat jam perjalanan bus ke utara ibu kota negara, Vientiane. Kota ini terletak di Sungai Nam Song. Ciri yang paling menonjol dari kawasan ini adalah topografi karst yang mengelilingi kota.
+        </city:abstract>
+        <city:areaTotalKm> .... </city:areaTotalKm>
+        <city:populationTotal>25.000</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Vang_Vieng"/>
+    </city:laos>
+
+     <city:laos rdf:about="https://dbpedia.org/page/Vientiane">
+        <city:number>6</city:number>
+        <rdfs:label>Vientiane</rdfs:label>
+        <city:country>Laos</city:country>
+        <city:abstract>
+       Vientiane (/viˌɛntiˈɑːn/ vee-EN-tee-AHN, Perancis: [vjɛ̃tjan]; Laos: ວຽງຈັນ, Viangchan, diucapkan [ʋíːəŋ tɕàn]) adalah ibu kota dan kota terbesar di Laos. Vientiane secara administratif terbagi menjadi 9 kota dengan luas total hanya sekitar. 3.920 kilometer persegi dan terletak di tepi sungai Mekong, dekat perbatasan Thailand. Vientiane adalah ibu kota administratif pada masa pemerintahan Perancis dan, karena pertumbuhan ekonomi belakangan ini, kini menjadi pusat ekonomi Laos. Kota ini memiliki populasi 948.477 jiwa pada Sensus 2020. Vientiane tercatat sebagai rumah bagi monumen nasional paling penting di Laos – That Luang – yang merupakan simbol Laos dan ikon agama Buddha di Laos. Kuil Buddha penting lainnya di Laos juga dapat ditemukan di sana, seperti Haw Phra Kaew, yang dulunya merupakan rumah bagi Buddha Zamrud. Kota ini menjadi tuan rumah Pesta Olahraga Asia Tenggara ke-25 pada bulan Desember 2009, merayakan 50 tahun Pesta Olahraga Asia Tenggara.
+        </city:abstract>
+        <city:areaTotalKm> 3.920 km2 </city:areaTotalKm>
+        <city:populationTotal>948.477</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Vientiane"/>
+    </city:laos>
+
+    </rdf:RDF>

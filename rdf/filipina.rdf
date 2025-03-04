@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:city="http://example.org/schema/city"
+    xmlns:dc="http://purl.org/dc/terms/">
+
+<city:filipina rdf:about="https://dbpedia.org/page/Quezon_City">
+        <city:number>1</city:number>
+        <rdfs:label>Quezon City</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Quezon City adalah kota terpadat di Filipina. Kota ini secara resmi dinyatakan
+        sebagai Ibu Kota negara pada 12 Oktober 1949, yang menggantikan Manila
+        dikarenakan kota Manila mengalami kepadatan yang berlebihan, kurangnya
+        perumahan, sanitasi yang buruk dan kemacetan lalu lintas.
+        </city:abstract>
+        <city:areaTotalKm>161.1200 km2 </city:areaTotalKm>
+        <city:populationTotal>2.5 juta jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Quezon_City"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Manila">
+        <city:number>2</city:number>
+        <rdfs:label>Manila</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Manila adalah ibu kota dari filipina yang terletak di tepi timur Teluk Manila
+        di pulau Luzon. Manila sering disebut Mutiara
+        Orient daerah metropolitannya merupakan pusat ekonomi, budaya, pendidikan dan industri
+        </city:abstract>
+        <city:areaTotalKm>38.55 km2 </city:areaTotalKm>
+        <city:populationTotal>2.360.714 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Manila"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Davao_City">
+        <city:number>3</city:number>
+        <rdfs:label>Davao City</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Kota Davao adalah pusat Metro Davao, wilayah metropolitan terpadat kedua
+        di Filipina. Kota ini berfungsi sebagai pusat perdagangan, dan industri utama
+        di Mindanao, dan pusat regional wilayah Davao.
+        </city:abstract>
+        <city:areaTotalKm>2,433.61 km2 </city:areaTotalKm>
+        <city:populationTotal>1,776,949 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Davao_City"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Caloocan">
+        <city:number>4</city:number>
+        <rdfs:label>Caloocan</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Caloocan adalah kota yang terletak di Metro Manila, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>55.80 km2 </city:areaTotalKm>
+        <city:populationTotal>1.177.604 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Caloocan"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Cebu_City">
+        <city:number>5</city:number>
+        <rdfs:label>Cebu City</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Cebu City adalah ibu kota Provinsi
+        Cebu di filipina yang terletak di pulau
+        Cebu bagian timur
+        </city:abstract>
+        <city:areaTotalKm>315 km2 </city:areaTotalKm>
+        <city:populationTotal>822.628 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Cebu_City"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Zamboanga_City">
+        <city:number>6</city:number>
+        <rdfs:label>Zamboanga City</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Zamboanga City adalah kota yang terletak di sebelah selatan Filipina 
+        </city:abstract>
+        <city:areaTotalKm>1,453.27 km2 </city:areaTotalKm>
+        <city:populationTotal>644.000 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Zamboanga_City"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Taguig">
+        <city:number>7</city:number>
+        <rdfs:label>Taguig</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Taguig adalah kota yang terletak di Metro Manil, Filipina
+        </city:abstract>
+        <city:areaTotalKm>45.21 km2 </city:areaTotalKm>
+        <city:populationTotal>613.343 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Taguig"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Antipolo">
+        <city:number>8</city:number>
+        <rdfs:label>Antipolo</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Antipolo City adalah kota yang terletak di provinsi Rizal, Filipina
+        </city:abstract>
+        <city:areaTotalKm>306.10 km2 </city:areaTotalKm>
+        <city:populationTotal>789,781 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Antipolo"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Pasig">
+        <city:number>9</city:number>
+        <rdfs:label>Pasig</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Pasig City adalah kota yang terletak di Metro Manila, Filipina
+        </city:abstract>
+        <city:areaTotalKm>48.46 km2 </city:areaTotalKm>
+        <city:populationTotal>803,159 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pasig"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Cagayan_de_Oro">
+        <city:number>10</city:number>
+        <rdfs:label>Cagayan de Oro</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Cagayan de Oro adalah kota yang terletak di provinsi Misamis Oriental
+        </city:abstract>
+        <city:areaTotalKm>412.80 km2 </city:areaTotalKm>
+        <city:populationTotal>602,984 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Cagayan_de_Oro"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Para%C3%B1aque">
+        <city:number>11</city:number>
+        <rdfs:label>Parañaque</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Parañaque adalah kota yang terletak di Metro Manila, Filipina
+        </city:abstract>
+        <city:areaTotalKm>46.57 km2 </city:areaTotalKm>
+        <city:populationTotal>689,992 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Para%C3%B1aque"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Dasmari%C3%B1as">
+        <city:number>12</city:number>
+        <rdfs:label>Dasmariñas</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Dasmariñas adalah kota yang terletak di provinsi Cavite, Filipina
+        </city:abstract>
+        <city:areaTotalKm>90.13 km2 </city:areaTotalKm>
+        <city:populationTotal>556,33 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Dasmari%C3%B1as"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Bacoor">
+        <city:number>13</city:number>
+        <rdfs:label>Bacoor</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Bacoor adalah munisipalitas yang terletak di provinsi Cavite, Filipina
+        </city:abstract>
+        <city:areaTotalKm>46.17 km2 </city:areaTotalKm>
+        <city:populationTotal>441,197 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bacoor"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/General_Santos">
+        <city:number>14</city:number>
+        <rdfs:label>General Santos</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        General Santos adalah kota dengan urbanisasi tinggi kelas satu di wilayah Soccsksargen, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>492.86 km2 </city:areaTotalKm>
+        <city:populationTotal>697,315 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/General_Santos"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Las_Pi%C3%B1as">
+        <city:number>15</city:number>
+        <rdfs:label>Las Piñas</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Las Piñas adalah kota yang terletak di Metro Manila, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>32.69 km2 </city:areaTotalKm>
+        <city:populationTotal>472,78 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Las_Pi%C3%B1as"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Makati">
+        <city:number>16</city:number>
+        <rdfs:label>Makati</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Makati adalah sebuah kota yang membentuk Metro Manila yang merupakan pusat ekonomi, komersial, dan finansial Filipina.
+        </city:abstract>
+        <city:areaTotalKm>21,73 km2 </city:areaTotalKm>
+        <city:populationTotal>629,616 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Makati"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/San_Jose_del_Monte">
+        <city:number>17</city:number>
+        <rdfs:label>San Jose del Monte</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        San Jose del Monte adalah kota komponen kelas 1 di provinsi Bulacan, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>105.53 km2 </city:areaTotalKm>
+        <city:populationTotal>651,813 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/San_Jose_del_Monte"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Bacolod">
+        <city:number>18</city:number>
+        <rdfs:label>Bacolod</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Bacolod adalah ibu kota provinsi Negros Occidental 
+        yang merupakan kota terpadat di Visayas Barat, kota ini dijuluki "Kota Senyuman".
+        </city:abstract>
+        <city:areaTotalKm>161,45 km2 </city:areaTotalKm>
+        <city:populationTotal>499,497 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bacolod"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Muntinlupa">
+        <city:number>19</city:number>
+        <rdfs:label>Muntinlupa</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Muntinlupa adalah kota yang terletak di Metro Manila, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>39,75 km2 </city:areaTotalKm>
+        <city:populationTotal>397,31 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Muntinlupa"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Marikina">
+        <city:number>20</city:number>
+        <rdfs:label>Marikina</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Marikina adalah kota yang terletak di Metro Manila, Filipina
+        </city:abstract>
+        <city:areaTotalKm>21.52 km2 </city:areaTotalKm>
+        <city:populationTotal>479,394 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Marikina"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Iloilo_City">
+        <city:number>21</city:number>
+        <rdfs:label>Iloilo City</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Iloilo City adalah kota yang terletak di sebelah barat Filipina.
+        </city:abstract>
+        <city:areaTotalKm>78,34 km2 </city:areaTotalKm>
+        <city:populationTotal>442,511 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Iloilo_City"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Pasay">
+        <city:number>22</city:number>
+        <rdfs:label>Pasay</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Pasay adalah kota yang terletak di Metro Manila, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>13.97 km2 </city:areaTotalKm>
+        <city:populationTotal>354,908 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pasay"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Lapulapu">
+        <city:number>23</city:number>
+        <rdfs:label>Lapulapu</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Lapulapu adalah salah satu kota yang membentuk Metro Cebu di Filipina.
+        Terletak di provinsi Cebu, secara administratif independen dari provinsi tersebut.
+        </city:abstract>
+        <city:areaTotalKm>58.10 km2 </city:areaTotalKm>
+        <city:populationTotal>497,604 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Lapulapu"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Imus">
+        <city:number>24</city:number>
+        <rdfs:label>Imus</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Imus adalah munisipalitas kelas satu di provinsi Cavite, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>64,7 km2 </city:areaTotalKm>
+        <city:populationTotal>253,158 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Imus"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Mandaluyong">
+        <city:number>25</city:number>
+        <rdfs:label>Mandaluyong</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Mandaluyong adalah kota yang terletak di Metro Manila, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>11.26 km2 </city:areaTotalKm>
+        <city:populationTotal>305,576 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Mandaluyong"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Malabon">
+        <city:number>26</city:number>
+        <rdfs:label>Malabon</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Malabon adalah kota yang terletak di Metro Manila, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>15.71 km2 </city:areaTotalKm>
+        <city:populationTotal>338,855 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Malabon"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Mandaue">
+        <city:number>27</city:number>
+        <rdfs:label>Mandaue</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Mandaue adalah kota yang terletak di Provinsi Cebu, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>34,87 km2 </city:areaTotalKm>
+        <city:populationTotal>346,693 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Mandaue"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Baguio">
+        <city:number>28</city:number>
+        <rdfs:label>Baguio</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Baguio adalah kota urbanisasi kelas satu di wilayah Administratif Cordillera,
+        Filipina. Dikenal sebagai "Ibukota Musim Panas Filipina".
+        </city:abstract>
+        <city:areaTotalKm>57.51 km2 </city:areaTotalKm>
+        <city:populationTotal>366,358 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Baguio"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Iligan">
+        <city:number>29</city:number>
+        <rdfs:label>Iligan</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Iligan adalah kota yang terletak di Provinsi Lanao del Norte, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>813.37 km2 </city:areaTotalKm>
+        <city:populationTotal>318,04 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Iligan"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Tarlac_City">
+        <city:number>30</city:number>
+        <rdfs:label>Tarlac City</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Tarlac adalah kota yang terletak di Provinsi Tarlac, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>274.66 km2 </city:areaTotalKm>
+        <city:populationTotal>318,332 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tarlac"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Butuan">
+        <city:number>31</city:number>
+        <rdfs:label>Butuan</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Butuan adalah kota yang terletak di Provinsi Agusan del Norte, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>816.62 km2 </city:areaTotalKm>
+        <city:populationTotal>317,062 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Butuan"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Bi%C3%B1an">
+        <city:number>32</city:number>
+        <rdfs:label>Biñan</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Biñan adalah kota yang terletak di Provinsi Laguna, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>43,5 km2 </city:areaTotalKm>
+        <city:populationTotal>312,108 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bi%C3%B1an"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Batangas_City">
+        <city:number>33</city:number>
+        <rdfs:label>Batangas City</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Batangas City adalah kota yang terletak di provinsi Batangas, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>282.96 km2 </city:areaTotalKm>
+        <city:populationTotal>295,231 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Batangas_City"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/General_Trias">
+        <city:number>34</city:number>
+        <rdfs:label>General Trias</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        General Trias adalah munisipalitas yang terletak di provinsi Cavite, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>90.01 km2 </city:areaTotalKm>
+        <city:populationTotal>218,387 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/General_Trias"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Cabuyao">
+        <city:number>35</city:number>
+        <rdfs:label>Cabuyao</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Cabuyao adalah munisipalitas yang terletak di provinsi Laguna, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>43,4 km2 </city:areaTotalKm>
+        <city:populationTotal>269,349 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Cabuyao"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Cabanatuan">
+        <city:number>36</city:number>
+        <rdfs:label>Cabanatuan City</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Cabanatuan City adalah kota yang terletak di provinsi Nueva Ecija, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>192.29 km2 </city:areaTotalKm>
+        <city:populationTotal>276,638 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Cabanatuan"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Cotabato_City">
+        <city:number>37</city:number>
+        <rdfs:label>Cotabato City</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Cotabato adalah kota yang terletak di Provinsi Maguindanao, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>176 km2 </city:areaTotalKm>
+        <city:populationTotal>299,438 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Cotabato_City"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Lucena">
+        <city:number>38</city:number>
+        <rdfs:label>Lucena</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Lucena adalah kota urban kelas satu di wilayah Calabarzon, Filipina. Dan 
+        merupakan ibu kota provinsi Quezon yang secara geografis terletak tetapi 
+        secara politik independen dari provinsi tersebut.
+        </city:abstract>
+        <city:areaTotalKm>80.21 km2 </city:areaTotalKm>
+        <city:populationTotal>278,924 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Lucena"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Tagum">
+        <city:number>39</city:number>
+        <rdfs:label>Tagum</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Tagum adalah munisipalitas yang terletak di provinsi Davao del Norte, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>195.8 km2 </city:areaTotalKm>
+        <city:populationTotal>233,254 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tagum"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Puerto_Princesa">
+        <city:number>40</city:number>
+        <rdfs:label>Puerto Princesa</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Puerto Princesa adalah kota yang terletak di provinsi Palawan.
+        </city:abstract>
+        <city:areaTotalKm>2.400 km2 </city:areaTotalKm>
+        <city:populationTotal>210,508 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Puerto_Princesa"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Malolos">
+        <city:number>41</city:number>
+        <rdfs:label>Malolos</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Malolos adalah kota di provinsi Bulacan, Filipina yang dahulu merupakan ibukota
+        Filipina sebelum digantikan oleh Quezon City.
+        </city:abstract>
+        <city:areaTotalKm>67.25 km2 </city:areaTotalKm>
+        <city:populationTotal>223,269 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Malolos"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Mabalacat">
+        <city:number>42</city:number>
+        <rdfs:label>Mabalacat</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Mabalacat adalah kota komponen kelas 3 di provinsi Pampanga, Filipina. Kota ini
+        menjadi kota pada tahun 1792, dan dinamai berdasarkan pohon Balacat yang melimpah.
+        </city:abstract>
+        <city:areaTotalKm>83.18 km2 </city:areaTotalKm>
+        <city:populationTotal>293,244 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Mabalacat"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Navotas">
+        <city:number>43</city:number>
+        <rdfs:label>Navotas</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Navotas adalah kota dengan tingkat urbanisasi tingkat tinggi kelas satu di
+        kawasan Ibu Kota Nasional Filipina. Kota ini dikenal sebagai Pusat Perikanan
+        Komersial Filipina, karena kota ini memiliki pelabuhan ikan terbesar ketiga
+        di Asia dan Asia Tenggara.
+        </city:abstract>
+        <city:areaTotalKm>8.94 km2 </city:areaTotalKm>
+        <city:populationTotal>247,543 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Navotas"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Tacloban">
+        <city:number>44</city:number>
+        <rdfs:label>Tacloban</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Tacloban adalah kota dengan tingkat Urbanisasi tinggi kelas 1 di wilayah Visayas Timur dari Filipina. 
+        Kota paling kompetitif kelima di Filipina, dan kedua dalam kategori kota berkembang.
+        </city:abstract>
+        <city:areaTotalKm>201.72 km2 </city:areaTotalKm>
+        <city:populationTotal>251,881 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tacloban"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Olongapo">
+        <city:number>45</city:number>
+        <rdfs:label>Olongapo</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Olongapo kota yang terletak di provinsi Zambales tetapi diperintah secara independent 
+        dari provinsi tersebut dan juga merupakan kota urban kelas satu di wilayah Luzon Tengah, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>185.00 km2 </city:areaTotalKm>
+        <city:populationTotal>260,317 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Olongapo"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Ormoc">
+        <city:number>46</city:number>
+        <rdfs:label>Ormoc</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Ormoc merupakan kota terpadat kedua di provinsi Leyte setelah ibu kota provinsi
+        Tacloban. Ormoc adalah pusat ekonomi, budaya, komersial dan transportasi di Leyte Barat.
+        </city:abstract>
+        <city:areaTotalKm>613.60 km2 </city:areaTotalKm>
+        <city:populationTotal>230,998 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Ormoc"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Meycauayan">
+        <city:number>47</city:number>
+        <rdfs:label>Meycauayan</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Meycauayan adalah salah satu kota tertua di provinsi ini. Kota ini dibatasi oleh kota 
+        Metro di Utara dan kota komponen kelas 1 di provinsi Bulacan, Filipina.
+        </city:abstract>
+        <city:areaTotalKm>32.10 km2 </city:areaTotalKm>
+        <city:populationTotal>225,673 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Meycauayan"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Marawi">
+        <city:number>48</city:number>
+        <rdfs:label>Marawi</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Marawi adalah kota komponen kelas 4 dan ibu kota provinsi Lanao del Sur, Filipina. 
+        Kota ini terletak di tepi danau Lanao. Dan sering juga disebut sebagai 
+        "ibu kota musim panas di selatan" karena ketinggiannya yang lebih tinggi dan iklim yang lebih sejuk.
+        </city:abstract>
+        <city:areaTotalKm>87.55 km2 </city:areaTotalKm>
+        <city:populationTotal>207,01 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Marawi"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Pagadian">
+        <city:number>49</city:number>
+        <rdfs:label>Pagadian</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Pagadian adalah kota pusat regional Semenanjung Zamboanga dan kota
+        terbesar kedua di wilayah dan provinsi.
+        </city:abstract>
+        <city:areaTotalKm>387.80 km2 </city:areaTotalKm>
+        <city:populationTotal>210,452 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pagadian"/>
+    </city:filipina>
+<city:filipina rdf:about="https://dbpedia.org/page/Panabo">
+        <city:number>50</city:number>
+        <rdfs:label>Panabo</rdfs:label>
+        <city:country>Filipina</city:country>
+        <city:abstract>
+        Panabo adalah kota komponen kelas 3 di provinsi Davao del Norte, Filipina.
+        Dan bagian dari wilayah Metropolitan Davao karena berbatasan dengan kota Davao.
+        </city:abstract>
+        <city:areaTotalKm>251.23 km2 </city:areaTotalKm>
+        <city:populationTotal>209,23 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Panabo"/>
+    </city:filipina>
+</rdf:RDF>

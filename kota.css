@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body{
+    background-image: url(img/thailnd.jpg);
+    background-size: cover;
+    color: #fdf8f8;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(241, 239, 239, 0.1);
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.title {
+    text-align: center;
+}
+
+.underline {
+    border: 0;
+    border-top: 2px solid #fff;
+    width: 100%;
+    margin-bottom: 4px;
+}
+
+#details {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Dua kolom: satu untuk judul, satu untuk nilai */
+    gap: 10px; /* Jarak antar baris dan kolom */
+    line-height: 1.6;
+    grid-column-gap: 1px;
+}
+
+#details h2 {
+    margin: 0;
+}
+
+#details p {
+    margin: 0;
+}
+
+/* #map {
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#details {
+    line-height: 1.6;
+} */
+
+#map {
+    position: relative;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+#map img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}

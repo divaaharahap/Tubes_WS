@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:city="http://example.org/schema/city"
+    xmlns:dc="http://purl.org/dc/terms/">
+    
+ <city:bruneidarus rdf:about="https://dbpedia.org/page/Kuala_Belait">
+        <city:number>1</city:number>
+        <rdfs:label>Kuala Belait</rdfs:label>
+        <city:country>Brunei Darussalam</city:country>
+        <city:abstract>
+       Kuala Belait (KB; Jawi: کوالا بلايت) adalah kota administratif Distrik Belait, Brunei. Jumlah penduduk kota ini adalah 4.259 jiwa pada tahun 2016. Kuala Belait secara resmi merupakan wilayah kotamadya (kawasan bandaran), serta desa di bawah mukim dengan nama yang sama. Kota ini terletak 85 kilometer (53 mil) di sebelah barat ibu kota negara, Bandar Seri Begawan, dan 20 kilometer (12 mil) di sebelah barat Seria, kota lain di distrik tersebut. Letaknya juga di bagian paling barat negara itu, dekat muara Sungai Belait.
+        </city:abstract>
+        <city:areaTotalKm>85</city:areaTotalKm>
+        <city:populationTotal>4.259</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kuala_Belait"/>
+    </city:bruneidarus>
+
+    <city:bruneidarus rdf:about="https://dbpedia.org/page/Bandar_Seri_Begawan">
+        <city:number>2</city:number>
+        <rdfs:label>Bandar Seri Begawan</rdfs:label>
+        <city:country>Brunei Darussalam</city:country>
+        <city:abstract>
+       Bandar Seri Begawan (BSB; Jawi: بندر سري بڬاوان; Melayu: [ˌbandar səˌri bəˈɡawan]) adalah ibu kota Brunei. Secara resmi merupakan wilayah kotamadya (kawasan bandaran) dengan luas 100,36 kilometer persegi (38,75 mil persegi) dan perkiraan populasi 100,700 pada tahun 2007. Ini adalah bagian dari Distrik Brunei-Muara, distrik terkecil namun terpadat yang merupakan rumahnya kepada lebih dari 70 persen populasi negara tersebut. Ini adalah pusat kota terbesar di negara ini dan satu-satunya kota di negara tersebut. Ibu kota ini merupakan pusat pemerintahan Brunei, serta pusat komersial dan budaya. Sebelumnya dikenal sebagai Kota Brunei hingga diubah namanya pada tahun 1970 untuk menghormati Sultan Omar Ali Saifuddien III, Sultan Brunei ke-28 dan ayah dari Sultan Hassanal Bolkiah saat ini. Sejarah Bandar Seri Begawan dapat ditelusuri hingga berdirinya pemukiman panggung Melayu di perairan Sungai Brunei yang menjadi cikal bakal Kampong Ayer saat ini. Kota ini menjadi ibu kota Kesultanan Brunei sejak abad ke-16 dan seterusnya, serta pada abad ke-19 ketika menjadi protektorat Inggris. Pembentukan Keresidenan Inggris pada abad ke-20 menyaksikan pembentukan administrasi modern di darat, serta pemukiman kembali penduduk tepi sungai secara bertahap ke daratan. Selama Perang Dunia II, ibu kota diduduki oleh pasukan Jepang sejak tahun 1941 dan dibom pada tahun 1945 setelah pembebasan oleh pasukan Sekutu. Kemerdekaan Brunei dari Inggris dideklarasikan pada tanggal 1 Januari 1984 di sebuah alun-alun di pusat kota. Bandar Seri Begawan adalah rumah bagi Istana Nurul Iman, istana tempat tinggal terbesar di dunia menurut Guinness World Records, dan Masjid Omar Ali Saifuddien, landmark ikonik Brunei. Di sini juga terdapat Kampong Ayer, 'desa air' terbesar di dunia dan dijuluki Venesia dari Timur. Kota ini pernah menjadi tuan rumah Pesta Olahraga Asia Tenggara ke-20 pada tahun 1999 dan KTT APEC ke-8 pada tahun 2000.
+        </city:abstract>
+        <city:areaTotalKm>100,36</city:areaTotalKm>
+        <city:populationTotal>100.700</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bandar_Seri_Begawan"/>
+    </city:bruneidarus>
+
+<city:bruneidarus rdf:about="https://dbpedia.org/page/Seria">
+        <city:number>3</city:number>
+        <rdfs:label>Seria</rdfs:label>
+        <city:country>Brunei Darussalam</city:country>
+        <city:abstract>
+       Seria (Melayu: [sǝria]) adalah sebuah kota di Distrik Belait, Brunei, sekitar 65 kilometer (40 mil) barat dari ibu kota negara, Bandar Seri Begawan. Total populasinya adalah 3.625 jiwa pada tahun 2016. Di sinilah minyak pertama kali ditemukan di Brunei pada tahun 1929 dan sejak itu menjadi pusat industri minyak dan gas negara tersebut.
+        </city:abstract>
+        <city:areaTotalKm>....</city:areaTotalKm>
+        <city:populationTotal>3.625</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Seria"/>
+</city:bruneidarus>
+
+<city:bruneidarus rdf:about="https://dbpedia.org/page/Jerudong">
+        <city:number>4</city:number>
+        <rdfs:label>Jerudong</rdfs:label>
+        <city:country>Brunei Darussalam</city:country>
+        <city:abstract>
+       Kampong Jerudong atau sederhananya Jerudong adalah sebuah desa di Distrik Brunei-Muara, Brunei, sekitar 21 kilometer (13 mil) dari ibu kota Bandar Seri Begawan. Jumlah penduduknya adalah 3.856 jiwa pada tahun 2016. Ini merupakan salah satu pemukiman di Mukim Sengkurong. Desa ini adalah rumah bagi beberapa tempat terkenal di negara ini. Ini adalah lokasi Taman Jerudong, satu-satunya taman hiburan di negara ini, serta The Empire Hotel and Country Club, sebuah hotel mewah yang sering dianggap sebagai salah satu landmark terkenal di Brunei. Jerudong juga merupakan rumah bagi Jerudong Park Medical Center dan Pantai Jerudong Specialist Centre, pusat kesehatan spesialis utama di negara ini.
+        </city:abstract>
+        <city:areaTotalKm>32,97</city:areaTotalKm>
+        <city:populationTotal>3.856</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Jerudong"/>
+    </city:bruneidarus>
+
+    
+<city:bruneidarus rdf:about="https://dbpedia.org/page/Mukim_Sukang">
+        <city:number>5</city:number>
+        <rdfs:label>Mukim_Sukang</rdfs:label>
+        <city:country>Brunei Darussalam</city:country>
+        <city:abstract>
+      Mukim Sukang adalah seorang mukim di Distrik Belait, Brunei. Populasi adalah 169 pada tahun 2016.
+        </city:abstract>
+        <city:areaTotalKm>....</city:areaTotalKm>
+        <city:populationTotal>169</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Mukim_Sukang"/>
+    </city:bruneidarus>
+
+</rdf:RDF>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:city="http://example.org/schema/city"
+    xmlns:dc="http://purl.org/dc/terms/">
+        
+    <city:kamboja rdf:about="https://dbpedia.org/page/Battambang">
+        <city:number>1</city:number>
+        <rdfs:label>Battambang</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Battambang adalah ibu kota dari provinsi Battambang, sebuah provinsi di barat-laut Kamboja. Kota ini adalah kota terbesar kedua setelah Phnom Penh menurut jumlah penduduk dengan penduduk kurang-lebih 250.000 jiwa. Kota ini terkenal dengan penghasil beras terbanyak di Kamboja
+        </city:abstract>
+        <city:areaTotalKm>293 km2</city:areaTotalKm>
+        <city:populationTotal>119.251</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Battambang"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Pursat">
+        <city:number>2</city:number>
+        <rdfs:label>Pursat</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Pursat adalah ibu kota Provinsi Pursat, Kamboja. Namanya berasal dari sejenis pohon. Itu terletak di Sungai Pursat. Kota ini terkenal sebagai tempat mitos abad ke-16 di dekat Khleang Moeung.
+        </city:abstract>
+        <city:areaTotalKm>12.692 km2</city:areaTotalKm>
+        <city:populationTotal>360.445</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pursat"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Phnom_Penh">
+        <city:number>3</city:number>
+        <rdfs:label>Phnom Penh</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Phnom Penh adalah ibu kota dan kota terbesar di Kamboja. Kota ini memiliki penduduk sekitar 2.281.951 jiwa, pada sensus Kamboja tahun 2019. Phnom Penh telah menjadi ibu kota negara sejak Kamboja dijajah Prancis        </city:abstract>
+        <city:areaTotalKm>679 km2</city:areaTotalKm>
+        <city:populationTotal>2.282 juta</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Phnom_Penh"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Sihanoukville_(city)">
+        <city:number>4</city:number>
+        <rdfs:label>Sihanoukville</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Sihanoukville, yang juga dikenal sebagai 'Kampong Som', adalah sebuah kota pesisir di Kamboja dan ibukota dari Provinsi Sihanoukville, yang terletak di ujung semenanjung di barat daya negara tersebut di Teluk Thailand.        </city:abstract>
+        <city:areaTotalKm>195.9 km2</city:areaTotalKm>
+        <city:populationTotal>73.036</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sihanoukville_(city)"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Siem_Reap">
+        <city:number>5</city:number>
+        <rdfs:label>Siem Reap</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Siem Reap merupakan ibu kota Provinsi Siem Reap di Kamboja. Kota ini terletak di bagian barat laut negara dan merupakan pusat wisata dan budaya penting di Kamboja karena menjadi gerbang masuk menuju kawasan purbakala kota Angkor yang terkenal. Kota ini memiliki iklim tropis. 
+        </city:abstract>
+        <city:areaTotalKm>10.299 km2</city:areaTotalKm>
+        <city:populationTotal>245.494</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Siem_Reap"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Stung_Treng">
+        <city:number>6</city:number>
+        <rdfs:label>Krong Stung Treng</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Kotamadya Stung Treng adalah sebuah kotamadya yang terletak di provinsi Stung Treng, di timur laut Kamboja. Menurut sensus tahun 2019, Kamboja memiliki populasi 37.103. Ibukota provinsi kota Stung Treng terletak di dalam kotamadya.
+        </city:abstract>
+        <city:areaTotalKm>11.092 km2</city:areaTotalKm>
+        <city:populationTotal>37.103</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Stung_Treng"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Kampong_Cham_(city)">
+        <city:number>7</city:number>
+        <rdfs:label>Kampong Cham</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Kampong Cham adalah ibu kota Provinsi Kampong Cham di Kamboja bagian timur. Ini adalah kota keenam terbesar di Kamboja dengan populasi 63.771 orang dan terletak di Sungai Mekong. Kampong Cham terletak 124 km arah timur laut dari Phnom Penh serta kota ini merupakan tempat kelahiran Sunan Gresik.
+        </city:abstract>
+        <city:areaTotalKm>9.799 km2</city:areaTotalKm>
+        <city:populationTotal>38.365</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kampong_Cham_(city)"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Kampot_(city)">
+        <city:number>8</city:number>
+        <rdfs:label>Kampot</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Kampot adalah sebuah kota di Kamboja selatan dan ibu kota Provinsi Kampot. Kota ini terletak di dekat sungai Praek Tuek Chhu di sebelah tenggara Pegunungan Gajah dan sekitar 5 km dari Teluk Thailand.
+        </city:abstract>
+        <city:areaTotalKm>4.873 km2</city:areaTotalKm>
+        <city:populationTotal>32.053</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kampot_(city)"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Krati%C3%A9_(town)">
+        <city:number>9</city:number>
+        <rdfs:label>Krong Kracheh</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Kratié, juga dieja Kracheh, adalah ibu kota Provinsi Kratié di Kamboja timur. Ini juga merupakan sangkat di Kratié Municipality.
+        </city:abstract>
+        <city:areaTotalKm>11.094 km2</city:areaTotalKm>
+        <city:populationTotal>28.317</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Krati%C3%A9_(town)"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Serei_Saophoan_(city)">
+        <city:number>10</city:number>
+        <rdfs:label>Serei Saophoan</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Serei Saophoan adalah kota provinsial ibukota di Banteay Meanchey, Kamboja. Kota tersebut memisahkan Jalan Tol Nasional 5 dan Jalan Tol Nasional 6. Nama administratifnya adalah "Serei Sophon" seperti yang digunakan oleh pemerintah. Kota tersebut memiliki dua julukan tak resmi.
+        </city:abstract>
+        <city:areaTotalKm>tidak diketahui</city:areaTotalKm>
+        <city:populationTotal>99.019</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Serei_Saophoan_(city)"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Poipet">
+        <city:number>11</city:number>
+        <rdfs:label>Poipet</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Poipet (bahasa Khmer: ប៉ោយប៉ែត, Paôypêt [paojpaet]) adalah kota berkembang pesat di perbatasan Kamboja-Thailand, di Kotamadya Poipet, Provinsi Banteay Meanchey. Ini adalah titik persimpangan utama antara kedua negara, dan juga sangat populer sebagai tujuan perjudian karena populer, tetapi sebagian besar ilegal di Thailand.
+        Poipet berbatasan dengan kota Aranyaprathet di sisi perbatasan Thailand. Kota itu muncul baru-baru ini untuk tujuan perdagangan perbatasan yang jelas; Sisophon selalu menjadi pusat kota utama di tempat yang dulunya merupakan daerah pertanian. Populasi Poipet telah meningkat dari 43.366 
+        pada sensus tahun 1998 menjadi 89.549 pada sensus tahun 2008, menjadikannya pemukiman terpadat keempat di Kamboja tepat di depan Sihanoukville dan lebih besar dari ibu kota provinsi Sisophon        
+        </city:abstract>
+        <city:areaTotalKm>tidak diketahui</city:areaTotalKm>
+        <city:populationTotal>98.934</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Poipet"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Prey_Veng_(city)">
+        <city:number>12</city:number>
+        <rdfs:label>Prey Veng</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Prey Veng adalah ibu kota Provinsi Prey Veng, yang terletak di tenggara Kamboja.        </city:abstract>
+        <city:areaTotalKm>4.883 km2</city:areaTotalKm>
+        <city:populationTotal>36.254</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Prey_Veng_(city)"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Kampong_Chhnang_(city)">
+        <city:number>13</city:number>
+        <rdfs:label>Krong Kampong Chhnang</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Kampong Chhnang adalah sebuah provinsi yang terletak di bagian tengah wilayah Kamboja dengan ibu kota di Kampong Chhnang.
+        </city:abstract>
+        <city:areaTotalKm>5.521 km2</city:areaTotalKm>
+        <city:populationTotal>41.080</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kampong_Chhnang_(city)"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Doun_Kaev_district">
+        <city:number>14</city:number>
+        <rdfs:label>Doun Kaev district</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Kotamadya Doun Kaev adalah sebuah kotamadya di provinsi Takeo, di selatan Kamboja. Krong Doun Kaev diubah namanya dari distrik Doun Kaev sesuai dengan Surat Keputusan No. 226 .បក tanggal 30 Desember 2008
+        </city:abstract>
+        <city:areaTotalKm>tidak diketahui</city:areaTotalKm>
+        <city:populationTotal>43.402</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Doun_Kaev_district"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Chbar_Mon_municipality">
+        <city:number>15</city:number>
+        <rdfs:label>Krong Chbar Mon</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Chbar Mon Municipality adalah sebuah munisipalitas yang terletak di provinsi Kampong Speu di Kamboja tengah. Ibukota provinsi kota Chbar Mon terletak di dalam kotamadya.
+        </city:abstract>
+        <city:areaTotalKm>tidak diketahui</city:areaTotalKm>
+        <city:populationTotal>46.850</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Chbar_Mon_municipality"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Svay_Rieng_(town)">
+        <city:number>16</city:number>
+        <rdfs:label>Svay Rieng</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        vay Rieng adalah ibu kota Provinsi Svay Rieng, Kamboja. Kota ini dibagi menjadi 4 khum dan 18 khum.
+        </city:abstract>
+        <city:areaTotalKm>tidak diketahui</city:areaTotalKm>
+        <city:populationTotal>41.424</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Svay_Rieng_(town)"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Ta_Khmau_municipality">
+        <city:number>17</city:number>
+        <rdfs:label>Krong Ta Khmau</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Ta Khmau adalah ibu kota dan kota terbesar di provinsi Kandal di Kamboja tengah. Kota ini berjarak sekitar 11 km selatan Phnom Penh. Sekitar 60% penduduk Ta Khmau bepergian untuk bekerja di Phnom Penh.
+        </city:abstract>
+        <city:areaTotalKm>31 km2</city:areaTotalKm>
+        <city:populationTotal>75.629</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Ta_Khmau_municipality"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Kampong_Thom_city">
+        <city:number>18</city:number>
+        <rdfs:label>kampong thum</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Kampong Thom, juga Krong Kampong Thom, adalah ibu kota Provinsi Kampong Thom, Kamboja yang terletak di tepi Sungai Steung Saen. Ini adalah persinggahan di tengah jalan di National Highway No 6 di antara Phnom Penh dan Siem Reap.
+        </city:abstract>
+        <city:areaTotalKm>367.5 km2</city:areaTotalKm>
+        <city:populationTotal>53.118</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kampong_Thom_city"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Khemarak_Phoumin">
+        <city:number>19</city:number>
+        <rdfs:label>Krong Khemara Phoumin</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        Khemarak Phoumin, juga Koh Kong, adalah ibu kota dan kota terbesar di Provinsi Koh Kong di Kamboja. Itu dekat muara sungai Kah Bpow di Distrik Smach Mean Chey di Teluk Thailand. Kota ini terletak hanya 10 kilometer dari perbatasan Thailand.
+        </city:abstract>
+        <city:areaTotalKm>tidak diketahui</city:areaTotalKm>
+        <city:populationTotal>28.836</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Khemarak_Phoumin"/>
+    </city:kamboja>
+
+    <city:kamboja rdf:about="https://dbpedia.org/page/Pailin_municipality">
+        <city:number>20</city:number>
+        <rdfs:label>Pailin</rdfs:label>
+        <city:country>Kamboja</city:country>
+        <city:abstract>
+        kotamadya (Khmer: ក្រុងប៉ៃលិន) adalah sebuah kotamadya (krong) di pusat provinsi Pailin di barat laut Kamboja. Kotamadya dibagi menjadi 4 komune (sangkat) dan 36 desa (phum). Menurut sensus Kamboja tahun 1998/2008, kota seluas 575 km2 ini berpenduduk masing-masing 15.800 dan 36.354 jiwa.
+        </city:abstract>
+        <city:areaTotalKm>575 km2</city:areaTotalKm>
+        <city:populationTotal>37.393</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pailin_municipality"/>
+    </city:kamboja>
+
+</rdf:RDF>

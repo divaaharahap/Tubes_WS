@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:city="http://example.org/schema/city"
+    xmlns:dc="http://purl.org/dc/terms/">
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Marina_East">
+        <city:number>1</city:number>
+        <rdfs:label>Marina East</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Marina East adalah kawasan perencanaan yang terletak di Central Area of the Central Region of Singapore, meliputi 140 hektar lahan reklamasi. Ini adalah lokasi Lapangan Golf Marina Bay NTUC Club dan Gardens by the Bay.
+        </city:abstract>
+        <city:areaTotalKm>1.82 km2 </city:areaTotalKm>
+        <city:populationTotal>Tidak Tetap</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Marina_East"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Marina_South">
+        <city:number>2</city:number>
+        <rdfs:label>Marina South</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Marina South adalah area perencanaan yang terletak di Central Area of the Central Region of Singapore. Sebagian besar adalah rumah bagi Gardens by the Bay serta Marina Barrage.
+        </city:abstract>
+        <city:areaTotalKm>1.62 km2</city:areaTotalKm>
+        <city:populationTotal>Tidak Tetap</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Marina_South"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Simpang">
+        <city:number>3</city:number>
+        <rdfs:label>Simpang</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Simpang, adalah kawasan perencanaan yang terletak di Wilayah Utara Singapura. Kata Simpang berarti pertigaan atau simpang dalam bahasa Melayu. Terletak di utara Yishun, timur Sembawang dan barat Seletar. Pulau Seletar diklasifikasikan dalam kawasan perencanaan Simpang.
+        </city:abstract>
+        <city:areaTotalKm>5.13 km2</city:areaTotalKm>
+        <city:populationTotal>Tidak Tetap</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Simpang"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/snorql/?describe=http%3A//dbpedia.org/resource/Straits_View">
+        <city:number>4</city:number>
+        <rdfs:label>Straits View</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Straits View adalah area perencanaan yang terletak di Central Area Central Region of Singapore. Area tersebut saat ini relatif belum berkembang, dengan perkembangan komersial yang lebih sedikit dibandingkan dengan Downtown Core yang berdekatan
+        </city:abstract>
+        <city:areaTotalKm>0.77 km2</city:areaTotalKm>
+        <city:populationTotal>Tidak Tetap</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Straits_View"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Western_Islands,_Singapore">
+        <city:number>5</city:number>
+        <rdfs:label>Western Islands</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Kepulauan Barat adalah wilayah perencanaan yang terletak di Wilayah Barat Singapura. Terdiri dari kumpulan pulau-pulau yang terletak di perairan barat daya Singapura, yaitu Pulau Jurong, Pulau Bukom, dan Kepulauan Sudong.
+        </city:abstract>
+        <city:areaTotalKm>32.46 km²</city:areaTotalKm>
+        <city:populationTotal>Tidak Tetap</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Western_Islands,_Singapore"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Western_Water_Catchment">
+        <city:number>6</city:number>
+        <rdfs:label>Central Water Catchment</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Kawasan alam Central Water Catchment adalah kumpulan sejumlah waduk dan hutan yang luas di pusat geografis Singapura. Banyak jalan kayu dan jalur hiking, serta sebuah jembatan gantung 250 m yang tersedia bagi pengamat burung dan penggemar aktivitas outdoor di Central Catchment Nature Reserve.
+        </city:abstract>
+        <city:areaTotalKm>37.1 km2</city:areaTotalKm>
+        <city:populationTotal>10</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Western_Water_Catchment"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Tengah,_Singapore">
+        <city:number>7</city:number>
+        <rdfs:label>Tengah</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Tengah adalah kawasan perencanaan dan Lembaga Perumahan dan Pembangunan masa depan yang terletak di Wilayah Barat Singapura. Dibatasi oleh Choa Chu Kang di timur laut, Jurong East dan Jurong West di selatan, Bukit Batok di timur dan Kawasan Tadahan Air Barat di barat dan utara
+        </city:abstract>
+        <city:areaTotalKm>7 km2</city:areaTotalKm>
+        <city:populationTotal>10</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tengah,_Singapore"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Boon_Lay">
+        <city:number>8</city:number>
+        <rdfs:label>Boon Lay</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Boon Lay adalah tempat di Singapura, yang berlokasi di antara Jurong West dengan tempat yang terbaru yaitu Ekstensi Jurong West. Tempat tersebut dilayani dengan Stasiun MRT Boon Lay, Singapura berkode EW27 dan Stasiun MRT Lakeside, Singapura berkode EW26.
+        </city:abstract>
+        <city:areaTotalKm>0.91 km2</city:areaTotalKm>
+        <city:populationTotal>30</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Boon_Lay"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Paya_Lebar">
+        <city:number>9</city:number>
+        <rdfs:label>Paya Lebar</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Paya Lebar adalah sebuah kawasan perencanaan yang terletak di Timur Singapura, yang berbatasan dengan Hougang di sebelah barat, Sengkang di sebelah barat laut, Tampines di sebelah timur, Bedok di sebelah selatan dan Pasir Ris di sebelah utara
+        </city:abstract>
+        <city:areaTotalKm>11.52 km2</city:areaTotalKm>
+        <city:populationTotal>40</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Paya_Lebar"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/North-Eastern_Islands">
+        <city:number>10</city:number>
+        <rdfs:label>North-Eastern Islands</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        North-Eastern Islands adalah wilayah perencanaan dan sekelompok pulau yang terletak di Wilayah Timur Laut Singapura. Gugusannya terdiri dari tiga pulau, yaitu Pulau Tekong, Pulau Tekong Kechil dan Pulau Ubin.
+        </city:abstract>
+        <city:areaTotalKm>42.8 km2</city:areaTotalKm>
+        <city:populationTotal>60</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/North-Eastern_Islands"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Tuas">
+        <city:number>11</city:number>
+        <rdfs:label>Tuas</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Tuas adalah area perencanaan yang terletak di Wilayah Barat Singapura. Dibatasi oleh DAS Barat di utara, Pioneer di timur dan Selat Johor di barat. Tuas juga berbagi batas laut dengan wilayah perencanaan Kepulauan Barat di sebelah timurnya
+        </city:abstract>
+        <city:areaTotalKm>30 km2</city:areaTotalKm>
+        <city:populationTotal>70</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tuas"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Lim_Chu_Kang">
+        <city:number>12</city:number>
+        <rdfs:label>Lim Chu Kang</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Lim Chu Kang merupakan kawasan perencanaan yang terletak di bagian barat laut Wilayah Utara Singapura, berbatasan dengan Daerah Aliran Sungai Barat di sebelah barat dan selatan, Sungei Kadut di sebelah timur dan Selat Johor di sebelah utara.
+        </city:abstract>
+        <city:areaTotalKm>17.3 km2</city:areaTotalKm>
+        <city:populationTotal>90</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Lim_Chu_Kang"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Pioneer,_Singapore">
+        <city:number>13</city:number>
+        <rdfs:label>Pioneer</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Pioneer adalah kawasan perencanaan yang terletak di Wilayah Barat Singapura, dinamai Pioneer Road, sebelumnya Jalan Besi[2]. Kawasan ini dibatasi oleh Jurong West di utara, Boon Lay di timur, Tuas di barat, Western Water Catchment di barat laut, dan Selat Jurong di selatan, serta berisi kawasan industri Joo Koon, Benoi, dan Gul Circle.
+        </city:abstract>
+        <city:areaTotalKm>12.32 km2</city:areaTotalKm>
+        <city:populationTotal>100</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pioneer,_Singapore"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Seletar">
+        <city:number>14</city:number>
+        <rdfs:label>Seletar</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Seletar adalah sebuah kawasan yang terletak di timur laut Singapura. Namanya juga bisa merujuk ke Seletar Planning Area, yang terletak di Wilayah Timur Laut Singapura. Nama tempat ini berasal dari subkelompok Melayu yang merupakan penduduk asli daerah tersebut, yaitu Orang Seletar.
+        </city:abstract>
+        <city:areaTotalKm>10.25 km2</city:areaTotalKm>
+        <city:populationTotal>270</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Seletar"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Museum_Planning_Area">
+        <city:number>15</city:number>
+        <rdfs:label>Museum</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Kawasan Perencanaan Museum adalah kawasan perencanaan yang terletak di Kawasan Pusat Kawasan Tengah Singapura. Kawasan ini memainkan "peran penghubung" antara kawasan Orchard dan Downtown Core, yang memerlukan jaringan transportasi yang baik untuk kendaraan, pejalan kaki, dan angkutan umum. Karena luasnya kawasan hijau di distrik tersebut, Otoritas Pembangunan Kembali Perkotaan (URA) menetapkannya sebagai 'paru-paru hijau' di Kawasan Tengah. Namun, Kawasan Perencanaan Museum juga merupakan rumah bagi kegiatan budaya dan komersial. Sekitar 65% wilayahnya tersedia untuk pengembangan di masa depan, menjadikannya pusat infrastruktur dan bangunan baru.
+        </city:abstract>
+        <city:areaTotalKm>0.83 km2</city:areaTotalKm>
+        <city:populationTotal>380</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Museum_Planning_Area"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Sungei_Kadut">
+        <city:number>16</city:number>
+        <rdfs:label>Sungei Kadut</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Sungei Kadut adalah kawasan industri dan kawasan perencanaan yang terletak di Wilayah Utara Singapura. Itu dibatasi oleh Bukit Panjang dan Choa Chu Kang di selatan, Mandai di timur, serta Lim Chu Kang dan Tangkapan Air Barat di barat. Batas utaranya ditentukan oleh Selat Johor
+        </city:abstract>
+        <city:areaTotalKm>16 km2</city:areaTotalKm>
+        <city:populationTotal>850</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sungei_Kadut"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Western_Water_Catchment">
+        <city:number>17</city:number>
+        <rdfs:label>Western Water Catchment</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Western Water Catchment adalah kawasan perencanaan yang terletak di West Region, Singapura. Kawasan perencanaan ini berbatasan dengan Tuas dan Pioneer di sebelah selatan, Sungei Kadut, Choa Chu Kang dan Tengah di sebelah timur, Jurong Barat di sebelah tenggara, Lim Chu Kang di sebelah utara dan Selat Johor di sebelah barat. Daerah ini terbagi dalam empat waduk, yaitu Waduk Tengeh, Waduk Poyan, Waduk Murai, dan Waduk Sarimbun. Selain menampung waduk, Western Water Catchment juga merupakan kawasan pusat pelatihan menembak bagi Angkatan Bersenjata Singapura. Karenanya, kawasan ini terlarang bagi siapapun kecuali personil militer dari Kamp Pasir Laba (Selatan) dan Kamp Sungei Gedong (Utara).
+        </city:abstract>
+        <city:areaTotalKm>69.5 km2</city:areaTotalKm>
+        <city:populationTotal>900</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Western_Water_Catchment"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Orchard_Road">
+        <city:number>18</city:number>
+        <rdfs:label>Orchard</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Orchard Road adalah pusat ritel di Singapura, dengan outlet yang memberikan diskon, department store, dan butik kelas atas, di samping hotel-hotel mewah.
+        </city:abstract>
+        <city:areaTotalKm>0.96 km2</city:areaTotalKm>
+        <city:populationTotal>920</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Orchard_Road"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Southern_Islands">
+        <city:number>19</city:number>
+        <rdfs:label>Southern Islands</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Southern Islands adalah sebuah kawasan perencanaan yang terdiri dari kumpulan pulau-pulau kecil yang terletak di Region Sentral Singapura. Pulau-pulau ini pernah menjadi rumah bagi orang asli dan pegembara laut pulau-pulau Melayu ebelum mereka dipindahkan ke pulau utama (Singapura)
+        </city:abstract>
+        <city:areaTotalKm>5.58 km2</city:areaTotalKm>
+        <city:populationTotal>1480</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/outhern_Islands"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Mandai">
+        <city:number>20</city:number>
+        <rdfs:label>Mandai</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Mandai adalah area perencanaan yang terletak di Wilayah Utara Singapura, yang terkenal sebagai titik akses Suaka Margasatwa Mandai yang meliputi Kebun Binatang Singapura, Night Safari, River Wonders, dan Bird Paradise.
+        </city:abstract>
+        <city:areaTotalKm>11.8 km2</city:areaTotalKm>
+        <city:populationTotal>2120</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Mandai"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Changi">
+        <city:number>21</city:number>
+        <rdfs:label>Changi</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Changi adalah sebuah distrik di sebelah timur Singapura. Berbatasan dengan Pasir Ris dan Tampines di sebelah barat dan Changi Bay di sebelah timur.
+        </city:abstract>
+        <city:areaTotalKm>40.6 km2</city:areaTotalKm>
+        <city:populationTotal>2530</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Changi"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Singapore_River">
+        <city:number>22</city:number>
+        <rdfs:label>Singapore River</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Sungai Singapura adalah sebuah sungai kecil yang mempunyai nilai historis yang tinggi karena merupakan awal mula peradaban di Singapura. Sungai ini mengalir sepanjang kawasan tengah Singapura di daerah selatan Singapura sebelum bermuara ke laut
+        </city:abstract>
+        <city:areaTotalKm>0.96 km2</city:areaTotalKm>
+        <city:populationTotal>2720</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Singapore_River"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Downtown_Core">
+        <city:number>23</city:number>
+        <rdfs:label>Downtown Core</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        The Downtown Core adalah pusat sejarah dan pusat kota negara-kota Singapura dan kawasan komersial utama di Singapura tidak termasuk tanah reklamasi dengan banyak resor terintegrasi seperti Marina Bay Sands, salah satu bangunan termahal di dunia, dengan kemewahan Kasino mandiri di Bayfront Avenue
+        </city:abstract>
+        <city:areaTotalKm>4.34 km2</city:areaTotalKm>
+        <city:populationTotal>3720</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Downtown_Core"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Newton,_Singapore">
+        <city:number>24</city:number>
+        <rdfs:label>Newton</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Newton merupakan wilayah kota yang direncanakan yang terletak di Region Wilayah Tengah di Singapura. Jalan yang memiliki nama sama, Newton Road, bagaimanapun, terletak di dalam Kawasan Perencanaan Novena, dan dimulai pada Sirkus Newton di selatan dan berakhir di persimpangan dengan Thomson Road di utara.
+        </city:abstract>
+        <city:areaTotalKm>2.07 km2</city:areaTotalKm>
+        <city:populationTotal>6920</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Newton,_Singapore"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/River_Valley,_Singapore">
+        <city:number>25</city:number>
+        <rdfs:label>River Valley</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        River Valley adalah area perencanaan yang terletak di Central Area of the Central Region of Singapore. Wilayah perencanaan berbatasan dengan Orchard di utara, Museum di timur, Tanglin di barat dan Singapore River di selatan.
+        </city:abstract>
+        <city:areaTotalKm>1.48 km2</city:areaTotalKm>
+        <city:populationTotal>9190</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/River_Valley,_Singapore"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Rochor">
+        <city:number>26</city:number>
+        <rdfs:label>Rochor</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Rochor adalah area perencanaan yang terletak di Central Area of the Central Region of Singapore. Rochor berbagi batas dengan area perencanaan berikut - Kallang di utara dan timur, Newton di barat, serta Museum dan Downtown Core di selatan.
+        </city:abstract>
+        <city:areaTotalKm>1.61 km2</city:areaTotalKm>
+        <city:populationTotal>14590</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Rochor"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Tanglin">
+        <city:number>27</city:number>
+        <rdfs:label>Tanglin</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Tanglin adalah distrik pemukiman yang rindang dan terdiri dari kantor kedutaan, rumah yang besar, dan hotel mewah.
+        </city:abstract>
+        <city:areaTotalKm>+- 6,78km2</city:areaTotalKm>
+        <city:populationTotal>19000</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tanglin"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Outram,_Singapore">
+        <city:number>28</city:number>
+        <rdfs:label>Outram</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Outram adalah area perencanaan yang terletak di Central Area of the Central Region of Singapore. Area ini berbatasan dengan area perencanaan ini: Singapore River di utara, Downtown Core di timur dan selatan, dan Bukit Merah di barat
+        </city:abstract>
+        <city:areaTotalKm>1.37 km2</city:areaTotalKm>
+        <city:populationTotal>22080</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Outram,_Singapore"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Novena,_Singapore">
+        <city:number>29</city:number>
+        <rdfs:label>Novena</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Novena adalah sebuah daerah pemukiman di Singapura, berada di Wilayah Pusat, Singapura. Terkenal dengan sebuah gereja Katolik yang memiliki daya tarik religi. Saat ini diramaikan juga dengan pusat belanja baru.
+        </city:abstract>
+        <city:areaTotalKm>8.98 km2</city:areaTotalKm>
+        <city:populationTotal>47990</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Novena,_Singapore"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Marine_Parade">
+        <city:number>30</city:number>
+        <rdfs:label>Marine Parade</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Marine Parade, juga dikenal sebagai Marine Parade Estate, adalah sebuah kawasan perencanaan dan perumahan yang terletak di Kawasan Tengah Singapura
+        </city:abstract>
+        <city:areaTotalKm>6.12 km2</city:areaTotalKm>
+        <city:populationTotal>48730</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Marine_Parade"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Bukit_Timah">
+        <city:number>31</city:number>
+        <rdfs:label>Bukit Timah</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Bukit Timah, juga dikenal sebagai District 11, ialah salah satu daerah resmi dalam pulau negara kota Singapura. Bukit Timah juga tempat yang menempatkan banyak tanah milik yang mahal seperti kondominium. Banyak ekspatriat tinggal di daerah ini. Lalu daerah ini diperluas dan Upper Bukit Timah terbentuk.
+        </city:abstract>
+        <city:areaTotalKm>17.53 km2</city:areaTotalKm>
+        <city:populationTotal>74470</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bukit_Timah"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Sembawang">
+        <city:number>32</city:number>
+        <rdfs:label>Sembawang</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Sembawang adalah sebuah wilayah yang berada di bagian paling utara Singapura. Anggota Parlemen petahana untuk Konstituensi Sembawang adalah Khaw Boon Wan. Wilayah tersebut merupakan titik paling terdekat dengan Malaysia.
+        </city:abstract>
+        <city:areaTotalKm>12,34 km2</city:areaTotalKm>
+        <city:populationTotal>76530</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sembawang"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Jurong_East">
+        <city:number>33</city:number>
+        <rdfs:label>Jurong East</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Jurong East ialah sebuah kota kecil yang terletak hampir dekat Clementi yang meliputi 380 hektare tanah di Singapura Barat. Persimpangan MRT dan bus di Jurong East juga terletak di sini. Plus, yang terkenal Singapore Science Centre juga terletak di sini di mana wisatawan berkumpul tiap hari
+        </city:abstract>
+        <city:areaTotalKm>0.83 km2</city:areaTotalKm>
+        <city:populationTotal>84980</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Jurong_East"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Bishan,_Singapore">
+        <city:number>34</city:number>
+        <rdfs:label>Bishan</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Bishan adalah sebuah tempat di Singapura, terletak di bagian tengah. Tempat ini mempunyai apartemen HDB kelas tinggi, tetapi harganya lebih mahal dibandingkan dengan apartemen di Singapura yang lain. Bishan dilayani oleh 3 stasiun MRT yaitu Benua, Bishan dan Marymount
+        </city:abstract>
+        <city:areaTotalKm>7.62 km2</city:areaTotalKm>
+        <city:populationTotal>90700</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bishan,_Singapore"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Clementi,_Singapore">
+        <city:number>35</city:number>
+        <rdfs:label>Clementi</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Clementi adalah tempat di Singapura, yang terletak di antara kawasan Dover dan Jurong.
+        </city:abstract>
+        <city:areaTotalKm>9.49 km2</city:areaTotalKm>
+        <city:populationTotal>91630</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Clementi,_Singapore"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Queenstown,_Singapore">
+        <city:number>36</city:number>
+        <rdfs:label>Queenstown</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Queenstown adalah kawasan perencanaan dan kota pemukiman satelit yang terletak di pinggiran paling barat daya Wilayah Tengah Singapura. Berbatasan dengan Bukit Timah di utara, Tanglin di timur laut, Bukit Merah di timur dan tenggara, serta Clementi di barat laut dan barat. 
+        </city:abstract>
+        <city:areaTotalKm>20.43 km2</city:areaTotalKm>
+        <city:populationTotal>98050</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Queenstown,_Singapore"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Kallang">
+        <city:number>37</city:number>
+        <rdfs:label>Kallang</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Kallang adalah sebuah daerah di Singapura bagian timur. Daerah ini merupakan tempat Singapore Indoor Stadium berdiri.
+        </city:abstract>
+        <city:areaTotalKm>9.17 km2</city:areaTotalKm>
+        <city:populationTotal>101210</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kallang"/>
+    </city:singapore>
+
+     <city:singapore rdf:about="https://dbpedia.org/page/Punggol">
+        <city:number>38</city:number>
+        <rdfs:label>Punggol</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Punggol, nama lama Ponggol, adalah area perencanaan dan kota baru yang terletak di semenanjung Tanjong Punggol di Wilayah Timur Laut Singapura. Kota ini berbatasan langsung dengan Sengkang di selatan dan berbagi batas sungai dengan wilayah perencanaan Seletar di barat dan Pasir Ris di timur
+        </city:abstract>
+        <city:areaTotalKm>9.57 km2</city:areaTotalKm>
+        <city:populationTotal>109750</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Punggol"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Geylang">
+        <city:number>39</city:number>
+        <rdfs:label>Geylang</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Geylang ialah sebuah tempat di negara kota Singapura di timur Central Area, distrik bisnis pusat Singapura. Tempat ini terletak di timur Sungai Singapura
+        </city:abstract>
+        <city:areaTotalKm>9.64 km2</city:areaTotalKm>
+        <city:populationTotal>116960</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Geylang"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Serangoon">
+        <city:number>40</city:number>
+        <rdfs:label>Serangoon</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Serangoon adalah kawasan perencanaan dan kota perumahan yang terletak di Wilayah Timur Laut Singapura. Serangoon berbatasan dengan wilayah perencanaan ini – Sengkang di utara, Hougang di timur, Ang Mo Kio dan Bishan di barat, serta Toa Payoh di selatan.
+        </city:abstract>
+        <city:areaTotalKm>10.1 km2</city:areaTotalKm>
+        <city:populationTotal>120670</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Serangoon"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Toa_Payoh">
+        <city:number>41</city:number>
+        <rdfs:label>Toa Payoh</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Toa Payoh adalah nama sebuah daerah di Singapura. Di daerah ini terdapat sebuah terminal bus yang besar, stasiun MRT, gedung HDB Hub yang terdiri dari perkantoran dan pertokoan, sebuah taman umum, pusat perbelanjaan, serta kawasan perumahan yang kebanyakannya flat-flat bangunan pemerintah.
+        </city:abstract>
+        <city:areaTotalKm>8.17 km2</city:areaTotalKm>
+        <city:populationTotal>124940</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Toa_Payoh"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Bukit_Panjang">
+        <city:number>42</city:number>
+        <rdfs:label>Bukit Panjang</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Bukit Panjang adalah kawasan perencanaan dan kota pemukiman yang terletak di Wilayah Barat Singapura. Sebagian kota ini terletak di dataran rendah bukit memanjang
+        </city:abstract>
+        <city:areaTotalKm>8.99 km2</city:areaTotalKm>
+        <city:populationTotal>139030</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bukit_Panjang"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Bukit_Batok">
+        <city:number>43</city:number>
+        <rdfs:label>Bukit Batok</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Bukit Batok adalah sebuah wilayah kota terencana yang berada di bagian barat Singapura, dibatasi Pan Island Expressway di sebelah selatan dan Bukit Batok Road di sebelah barat dan utara. Stasiun MRT Bukit Batok dan Bukit Gombak berada di dalam wilayah ini.
+        </city:abstract>
+        <city:areaTotalKm>11.13 km2</city:areaTotalKm>
+        <city:populationTotal>139270</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bukit_Batok"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Pasir_Ris">
+        <city:number>44</city:number>
+        <rdfs:label>Pasir Ris</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Pasir Ris adalah sebuah tempat di Singapura yang merupakan wilayah perumahan umum yang dibangun oleh Lembaga Pembangunan dan Perumahan di Pasir Ris New Town.
+        </city:abstract>
+        <city:areaTotalKm>15.02 km2</city:areaTotalKm>
+        <city:populationTotal>139890</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pasir_Ris"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Bukit_Merah">
+        <city:number>45</city:number>
+        <rdfs:label>Bukit Merah</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Bukit Merah adalah sebuah bukit di Singapura. Dulunya terdapat bukit yang lebih besar di lokasi saat ini di daerah perumahan Henderson terletak di Delta Sports Complex. Terdapat pemakaman Tionghoa di sisi lain bukit. Lokasi SMP Henderson saat ini juga terletak di daerah ini
+        </city:abstract>
+        <city:areaTotalKm>14.34 km2</city:areaTotalKm>
+        <city:populationTotal>155840</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bukit_Merah"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Choa_Chu_Kang">
+        <city:number>46</city:number>
+        <rdfs:label>Choa Chu Kang</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Choa Chu Kang Park, tempat nongkrong santai dengan taman bermain, spot kebugaran, dan area skate. Taman ini juga menawarkan rute bersepeda dengan pemandangan indah yang terhubung ke area hijau lain. Kawasan perumahan santai ini juga memiliki fasilitas olahraga dan pusat perbelanjaan, salah satunya yang paling ramai adalah LotOne di sebelah stasiun MRT Choa Chu Kang.
+        </city:abstract>
+        <city:areaTotalKm>6.11 km2</city:areaTotalKm>
+        <city:populationTotal>174330</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Choa_Chu_Kang"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Ang_Mo_Kio">
+        <city:number>47</city:number>
+        <rdfs:label>Ang Mo Kio</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Ang Mo Kio adalah pusat kota baru yang berlokasi di daerah utara tengah Singapura, dan dalam Wilayah Utara-Timur. Memiliki beberapa fasilitas umum di negara pulau itu, misalnya pusat jajanan, pasar tradisional dan blok perumahan HDB.
+        </city:abstract>
+        <city:areaTotalKm>13.94 km2</city:areaTotalKm>
+        <city:populationTotal>174770</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Ang_Mo_Kio"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Yishun">
+        <city:number>48</city:number>
+        <rdfs:label>Yishun</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Yishun, sebelumnya dikenal sebagai Nee Soon, adalah kota pemukiman yang terletak di sudut timur laut Wilayah Utara Singapura, berbatasan dengan Simpang dan Sembawang di utara, Mandai di barat,Central Water Catchment di barat daya, Ang Mo Kio di baratnya. Serta Seletar dan Sengkang masing-masing di timur dan tenggara.
+        </city:abstract>
+        <city:areaTotalKm>43.20 km2</city:areaTotalKm>
+        <city:populationTotal>201970</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Yishun"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Sengkang">
+        <city:number>49</city:number>
+        <rdfs:label>Sengkang</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Dua sungai melintasi perumahan kota Sengkang yang semarak, sehingga menyuguhkan panorama indah untuk jalan-jalan dan bersepeda di sepanjang jalur tepi sungai yang berpadu dengan ruang hijau lainnya seperti Sengkang Riverside Park. Kawasan ini juga memiliki pusat perbelanjaan, seperti Compass One, dan kompleks kolam renang. Sengkang memiliki jaringan transportasi umum yang bagus, termasuk LRT yang beroperasi di sekitar kota dan terhubung dengan jaringan MRT utama.
+        </city:abstract>
+        <city:areaTotalKm>10.59 km2</city:areaTotalKm>
+        <city:populationTotal>206680</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sengkang"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Hougang">
+        <city:number>50</city:number>
+        <rdfs:label>Hougang</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Hougang atau Aukang adalah kawasan perencanaan dan kota pemukiman matang yang terletak di Wilayah Timur Laut Singapura. Kota ini merupakan kota terpadat di wilayah ini, dengan populasi 247.528 jiwa pada tahun 2018.[5] Wilayah perencanaan Hougang berbatasan dengan Sengkang di utara, Geylang dan Serangoon di selatan, Bedok di tenggara, Toa Payoh di barat daya, Paya Lebar di timur, Ang Mo Kio di barat, dan Bishan di barat daya.
+        </city:abstract>
+        <city:areaTotalKm>13.93 km2</city:areaTotalKm>
+        <city:populationTotal>222310</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Hougang"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Woodlands,_Singapore">
+        <city:number>51</city:number>
+        <rdfs:label>Woodlands</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Woodlands New Town, adalah kota subperkotaan di bagian utara Singapura, bagian dari distrik Dewan Pengembangan Masyarakat Barat Laut.
+        </city:abstract>
+        <city:areaTotalKm>16.78 km2</city:areaTotalKm>
+        <city:populationTotal>250290</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Woodlands,_Singapore"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Tampines">
+        <city:number>52</city:number>
+        <rdfs:label>Tampines</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Tampines adalah pusat regional Wilayah Timur Singapura. Dengan populasi 265.340 jiwa yang tinggal di lima subzona, wilayah ini merupakan wilayah perencanaan terpadat kedua di Singapura, menurut DOS Population Trends 2022.[4] Ini adalah rumah bagi sekitar 5% populasi Singapura. Tampines di barat berbatasan dengan Bedok dan Paya Lebar, di utara dengan Pasir Ris, di timur dengan Changi, dan di selatan dengan Selat Singapura. Terletak di kawasan bersejarah Tanah Merah, medannya saat ini sangat datar karena adanya penambangan pasir skala besar pada tahun 1960an.
+        </city:abstract>
+        <city:areaTotalKm>20.89 km2</city:areaTotalKm>
+        <city:populationTotal>261230</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tampines"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Jurong_West">
+        <city:number>53</city:number>
+        <rdfs:label>Jurong West</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Jurong West adalah kawasan perencanaan dan kota perumahan yang terletak di Wilayah Barat Singapura. Jurong West berbatasan dengan Tengah di utara, Jurong East di timur, Boon Lay dan Pioneer di selatan, dan DAS Barat di barat.
+        </city:abstract>
+        <city:areaTotalKm>9.87 km2</city:areaTotalKm>
+        <city:populationTotal>272660</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Jurong_West"/>
+    </city:singapore>
+
+    <city:singapore rdf:about="https://dbpedia.org/page/Bedok">
+        <city:number>54</city:number>
+        <rdfs:label>Bedok</rdfs:label>
+        <city:country>Singapore</city:country>
+        <city:abstract>
+        Bedok adalah tempat di sebelah timur Singapura, dengan HDB di Bedok New Town sebagai new town kelima. Pengembangan tersebut dimulai dari tahun 1973 dan dilanjutkan 15 tahun.
+        </city:abstract>
+        <city:areaTotalKm>21.69 km2</city:areaTotalKm>
+        <city:populationTotal>289750</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bedok"/>
+    </city:singapore>
+
+</rdf:RDF>

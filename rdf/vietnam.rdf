@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:city="http://example.org/schema/city"
+    xmlns:dc="http://purl.org/dc/terms/">
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Ho_Chi_Minh_City">
+        <city:number>20</city:number>
+        <rdfs:label>Ho Chi Minh</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Kota Ho Chi Minh (Bahasa Vietnam: Thành phố Hồ Chí Minh; Utara [tʰàjŋ̟ fǒ hò cǐ mīŋ̟], Selatan [tʰàn fǒ hò cǐ mɨ̄n]), sebelumnya (dan masih umum) dikenal sebagai Saigon (Vietnam: Sài Gòn; Utara [sàj ɣɔ̀n], Selatan [ʂàj ɣɔ̀ŋ]), adalah kota terbesar di Vietnam, dengan populasi sekitar 9 juta pada tahun 2019. Terletak di wilayah tenggara Vietnam, kota ini mengelilingi Sungai Saigon dan mencakup wilayah seluas sekitar 2.061 km2 (796 sq mi ). Saigon adalah ibu kota Indochina Prancis dari tahun 1887 hingga 1902, dan sekali lagi dari tahun 1945 hingga penghentiannya pada tahun 1954. Setelah pembagian Indochina Prancis, kota ini menjadi ibu kota Vietnam Selatan hingga Kejatuhan Saigon pada tahun 1975. Pemerintah komunis mengganti nama Saigon menjadi kehormatan Hồ Chí Minh tak lama setelah Kejatuhan Saigon. Mulai tahun 1990-an, kota ini mengalami modernisasi dan perluasan yang pesat, sehingga berkontribusi terhadap pemulihan ekonomi Vietnam pasca perang. Kota ini terkenal dengan arsitektur kolonial Perancis yang terpelihara dengan baik dan kehidupan jalanan yang semarak. Beragam institusi kebudayaannya, yang meliputi landmark bersejarah, jalan pejalan kaki, museum dan galeri, menarik lebih dari 8 juta pengunjung internasional setiap tahunnya. Kota Ho Chi Minh adalah pusat utama keuangan, media, teknologi, pendidikan, dan transportasi. Kota ini menghasilkan hampir seperempat dari total PDB negara tersebut, dan merupakan rumah bagi banyak perusahaan multinasional. Bandara Internasional Tân Sơn Nhất, bandara utama yang melayani kota ini, adalah bandara tersibuk di negara ini berdasarkan lalu lintas penumpang, menyumbang hampir setengah dari seluruh kedatangan internasional ke Vietnam. Kota Ho Chi Minh memiliki Indeks Pembangunan Manusia sebesar 0,795 (tinggi), menempati peringkat kedua di antara semua kota dan provinsi di Vietnam.
+        </city:abstract>
+        <city:areaTotalKm>2.061,2 km2 </city:areaTotalKm>
+        <city:populationTotal>8.146.300</city:populationTotal>
+        <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Ho_Chi_Minh"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Hanoi">
+        <city:number>21</city:number>
+        <rdfs:label>Hanoi</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Hanoi (Inggris: /(ˌ)hæ-, həˈnɔɪ/ ha-, hə-NOY atau AS: /hɑː-/ hah-NOY; bahasa Vietnam: Hà Nội [haː˨˩ noj˧˨ʔ]) adalah ibu kota Vietnam . Ini mencakup area seluas 3.359,82 km2 (1.297,2 mil persegi). Kota terbesar kedua di Vietnam ini terdiri dari 12 distrik perkotaan, satu kota setingkat distrik, dan 17 distrik pedesaan. Terletak di Delta Sungai Merah, Hanoi adalah pusat budaya dan politik Vietnam. Hanoi dapat menelusuri sejarahnya kembali ke abad ketiga SM, ketika sebagian dari kota modern ini berfungsi sebagai ibu kota negara bersejarah Âu Lạc di Vietnam. Setelah runtuhnya Âu Lạc, kota ini menjadi bagian dari Han Tiongkok. Pada tahun 1010, kaisar Vietnam Lý Thái Tổ mendirikan ibu kota negara kekaisaran Vietnam Đại Việt di pusat kota Hanoi modern, menamai kota tersebut Thăng Long (secara harfiah berarti 'Naga Naik'). Thăng Long tetap menjadi pusat politik Đại Việt hingga tahun 1802, ketika dinasti Nguyễn, dinasti kekaisaran Vietnam terakhir, memindahkan ibu kota ke Huế. Kota ini berganti nama menjadi Hanoi pada tahun 1831, dan menjadi ibu kota Indochina Prancis dari tahun 1902 hingga 1945. Pada tanggal 6 Januari 1946, Majelis Nasional Republik Demokratik Vietnam menetapkan Hanoi sebagai ibu kota negara yang baru merdeka, yang akan berlangsung selama Perang Indochina Pertama (1946–1954) dan Perang Vietnam (1955–1975). Hanoi telah menjadi ibu kota Republik Sosialis Vietnam sejak tahun 1976. Sebagai tujuan wisata utama di Vietnam, Hanoi menawarkan arsitektur kolonial Perancis yang terpelihara dengan baik, banyak situs keagamaan (didedikasikan untuk Budha, Katolik, Konfusianisme dan Taoisme), beberapa landmark bersejarah Vietnam periode kekaisaran, dan sejumlah besar museum. Sektor Pusat Benteng Kekaisaran Thăng Long di Distrik Ba Dinh diakui sebagai Situs Warisan Dunia UNESCO pada tahun 2010. Hanoi memiliki Indeks Pembangunan Manusia sebesar 0,799 (tinggi), menempati peringkat pertama di antara semua kota dan provinsi di Vietnam. Kota ini menjadi tuan rumah bagi berbagai lembaga pendidikan terkemuka dan tempat-tempat kebudayaan penting, termasuk Universitas Nasional Vietnam, Stadion Nasional Mỹ Đình, dan Museum Seni Rupa Nasional Vietnam. Hanoi adalah satu-satunya wilayah Asia-Pasifik yang dianugerahi gelar "Kota untuk Perdamaian" oleh UNESCO pada tanggal 16 Juli 1999, sebagai pengakuan atas kontribusinya terhadap perjuangan perdamaian, upayanya untuk mendorong kesetaraan dalam masyarakat, melindungi lingkungan, dan memajukan budaya. dan pendidikan, serta kepedulian terhadap generasi muda. Hanoi bergabung dengan Jaringan Kota Kreatif UNESCO sebagai Kota Desain pada tanggal 31 Oktober 2019, dalam rangka Hari Kota Sedunia. Kota ini juga telah menjadi tuan rumah berbagai acara internasional, termasuk APEC Vietnam 2006, Majelis Persatuan Antar Parlemen ke-132 (IPU-132), KTT Hanoi Korea Utara–Amerika Serikat 2019, serta Asian Indoor Games 2009, dan Pesta Olahraga Asia Tenggara. pada tahun 2003 dan 2021.
+        </city:abstract>
+        <city:areaTotalKm>3.359,82 km2 </city:areaTotalKm>
+        <city:populationTotal>325.132</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Hanoi"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Haiphong">
+        <city:number>22</city:number>
+        <rdfs:label>Haiphong</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Haiphong (Bahasa Vietnam: Hải Phòng, IPA: [haːj˧˩ fawŋ͡m˨˩]), atau Hải Phòng, adalah kota industri besar dan terbesar ketiga di Vietnam. Hai Phong juga merupakan pusat teknologi, ekonomi, budaya, kedokteran, pendidikan, ilmu pengetahuan dan perdagangan di delta Sungai Merah. Haiphong didirikan pada tahun 1887 sebagai kota pelabuhan utama di Vietnam. Pada tahun 1888, presiden Republik Ketiga Perancis, Sadi Carnot, mengumumkan dekrit untuk mendirikan Haiphong. Dari tahun 1954 hingga 1975, Haiphong menjadi kota maritim terpenting di Vietnam Utara, dan menjadi salah satu kotamadya yang dikendalikan langsung dari penyatuan kembali Vietnam dengan Hanoi dan Kota Ho Chi Minh pada tahun 1976. Pada abad ke-21, Haiphong telah muncul sebagai kota maritim yang paling penting di Vietnam Utara. gerbang perdagangan, kota industri modern dan hijau di Vietnam, yang diorientasikan untuk menjadi kota kelas khusus ketiga di Vietnam paling lambat pada tahun 2030 hingga 2050. Haiphong memiliki Indeks Pembangunan Manusia sebesar 0,782 (tinggi), peringkat keempat di antara semua kota dan provinsi di Vietnam. 
+        </city:abstract>
+        <city:areaTotalKm>1.561,76 km2 </city:areaTotalKm>
+        <city:populationTotal>2.358.741</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Haiphong"/>
+    </city:Vietnam>
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Cần_Thơ">
+        <city:number>23</city:number>
+        <rdfs:label>Cần_Thơ</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Can Tho adalah salah satu dari lima kota yang dikelola secara terpusat di Vietnam . Ini adalah kota tersibuk dan paling berkembang di Delta Mekong , yang berfungsi sebagai pusat ekonomi, budaya, sosial, medis, pendidikan dan komersial di seluruh wilayah. Can Tho saat ini merupakan kawasan perkotaan kelas I , pusat kota di tingkat regional dan nasional.
+        </city:abstract>
+        <city:areaTotalKm>1.440 km2 </city:areaTotalKm>
+        <city:populationTotal>1.252.348</city:populationTotal>
+        <foaf:homepage rdf:resource="https://vi.wikipedia.org/wiki/Cần_Thơ"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Biên_Hòa">
+        <city:number>24</city:number>
+        <rdfs:label>Biên Hòa</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Biên Hòa (aksen utara: , aksen selatan: ) adalah ibu kota Provinsi Đồng Nai, Vietnam dan bagian dari wilayah metropolitan Kota Ho Chi Minh dan terletak sekitar 30 kilometer (20 mil) di sebelah timur Kota Ho Chi Minh, tempat Biên Hòa dihubungkan oleh Vietnam Highway 1. Ini adalah kota terbesar kelima di Vietnam.
+        </city:abstract>
+        <city:areaTotalKm>264 km2 </city:areaTotalKm>
+        <city:populationTotal>4.182</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Biên_Hòa"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Da_Nang">
+        <city:number>25</city:number>
+        <rdfs:label>Da Nang</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Da Nang atau Danang ( /(ˌ)dɑː, də ˈnæŋ, ˈnɑːŋ/ dah, də NANG, NAHNG; bahasa Vietnam: Đà Nẵng, [ʔɗaː˨˩ naŋ˦ˀ˥]) adalah munisipalitas kelas-1 dan kota terbesar kelima di Vietnam menurut populasi kota. Kota ini terletak di pesisir Laut Timur Vietnam di muara Sungai Hàn, dan merupakan salah satu kota pelabuhan terpenting di Vietnam. Sebagai salah satu dari lima kotamadya yang dikendalikan langsung di negara ini, kota ini berada di bawah administrasi pemerintah pusat. Da Nang memiliki Indeks Pembangunan Manusia sebesar 0,779 (tinggi), menempati peringkat kelima di antara semua kota dan provinsi di Vietnam.
+        </city:abstract>
+        <city:areaTotalKm>1.285,4 km2 </city:areaTotalKm>
+        <city:populationTotal>1.374.562</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Da_Nang"/>
+    </city:Vietnam>
+
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Vinh">
+        <city:number>26</city:number>
+        <rdfs:label>Vinh</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Vinh (Vietnam: [viŋ̟]) adalah kota terbesar serta pusat ekonomi dan budaya di Vietnam tengah-utara. Vinh adalah ibu kota Provinsi Nghệ An, dan merupakan titik penting dalam koridor ekonomi Timur-Barat yang menghubungkan Myanmar, Thailand, Vietnam, dan Vietnam. Kota ini terletak di tenggara provinsi, di sepanjang Sungai Lam (Song Lam) dan terletak di jalur transportasi utama utara-selatan Vietnam, mudah diakses melalui jalan raya, kereta api, perahu, dan udara. Bandara Internasional Vinh yang baru diperluas dilayani setiap hari oleh empat maskapai penerbangan: Vietnam Airlines, VietJet Air, Bamboo Airways, dan Jetstar Pacific. Pada tanggal 5 September 2008, kota ini ditingkatkan dari kota Kelas-II menjadi kota Kelas-I, kota Kelas-I kelima di Vietnam setelah Haiphong, Đà Nẵng dan Huế. Vinh adalah kota terpadat di Utara.
+        </city:abstract>
+        <city:areaTotalKm>104,96</city:areaTotalKm>
+        <city:populationTotal>502.140</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Vinh"/>
+    </city:Vietnam>
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Nha_Trang">
+        <city:number>28</city:number>
+        <rdfs:label>Nha Trang</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Nha Trang (bahasa Inggris: /ˌnjɑːˈtræŋ/ atau /ˌnɑːˈtræŋ/; bahasa Vietnam: [ɲaː˧ ʈaːŋ˧]) adalah sebuah kota pesisir dan ibu kota Provinsi Khánh Hòa, di Pantai Tengah Selatan Vietnam. Di utara dibatasi oleh kota Ninh Hoà, di selatan dengan kota Cam Ranh, dan di barat dengan Distrik Diên Khánh. Kota ini memiliki sekitar 392.000 penduduk, jumlah ini diperkirakan akan meningkat menjadi 560.000 pada tahun 2015 dan 630.000 penduduk pada tahun 2025. Luas wilayah 12,87 km2 (4,97 mil persegi) dari komune barat dan direncanakan akan digabungkan menjadi Nha Trang yang akan menjadikan luas barunya 265,47 km2 (102,50 sq mi) berdasarkan persetujuan Perdana Menteri Vietnam pada bulan September 2012.
+        </city:abstract>
+        <city:areaTotalKm>251 km2 </city:areaTotalKm>
+        <city:populationTotal>535.000</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/nha_Trang"/>
+    </city:Vietnam>
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Buôn_Ma_Thuột">
+        <city:number>28</city:number>
+        <rdfs:label>Buôn Ma Thuột</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Buôn Ma Thuột (sebelumnya Lac Giao) atau kadang-kadang Buôn Mê Thuột atau Ban Mê Thuột, adalah ibu kota Provinsi Đắk Lắk di Dataran Tinggi Tengah Vietnam. Populasinya berjumlah 420.000 jiwa pada tahun 2016, dan tumbuh menjadi 502.170 jiwa pada tahun 2018. Kota ini merupakan kota terbesar di wilayah Dataran Tinggi Tengah Vietnam, dan terkenal sebagai "ibu kota kopi" regional. Buôn Ma Thuột dilayani oleh Bandara Buôn Ma Thuột.
+        </city:abstract>
+        <city:areaTotalKm>377,18 km2 </city:areaTotalKm>
+        <city:populationTotal>502.170</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Buôn_Ma_Thuột"/>
+    </city:Vietnam>
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Huế">
+        <city:number>29</city:number>
+        <rdfs:label>Huế</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Huế (Orang Vietnam:[hwě]) adalah ibu kota provinsi Thừa Thiên Huế di Vietnam tengah dan merupakan ibu kota Đàng Trong dari tahun 1738 hingga 1775 dan ibu kota Vietnam pada masa Dinasti Nguyễn dari tahun 1802 hingga 1945. Kota ini berfungsi sebagai Kota Kekaisaran lama dan ibu kota administratif dinasti Nguyễn dan kemudian berfungsi sebagai ibu kota administratif protektorat Annam selama periode Indochina Prancis. Ini berisi situs yang ditunjuk UNESCO, Kompleks Monumen Huế, yang merupakan objek wisata populer. Di samping parit dan dinding batu tebal, kompleks ini meliputi Kota Kekaisaran Huế, dengan istana dan tempat suci; Kota Ungu Terlarang, yang pernah menjadi rumah kaisar; dan replika Royal Theatre. Hampir 4,2 juta pengunjung telah mengunjungi kota ini pada tahun 2019 dan banyak bangunan bersejarahnya masih menjalani restorasi. 
+        </city:abstract>
+        <city:areaTotalKm> 265,99 km2 </city:areaTotalKm>
+        <city:populationTotal>652.572</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Huế"/>
+    </city:Vietnam>
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Thái_Nguyên">
+        <city:number>30</city:number>
+        <rdfs:label>Thái Nguyên </rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Thái Nguyên adalah sebuah kota di Vietnam. Ini adalah ibu kota dan kota terbesar di Provinsi Thái Nguyên. Kota ini tercatat sebagai kota kelas satu dan merupakan kota terbesar kesembilan di Vietnam. Telah lama terkenal di seluruh Vietnam karena teh Tân Cương, salah satu kawasan teh Vietnam yang paling terkenal. Pada tahun 1959, tempat ini menjadi lokasi pabrik baja pertama di Vietnam, dan kini menjadi lokasi kompleks universitas regional yang besar dan terus berkembang.
+        </city:abstract>
+        <city:areaTotalKm> 170,7 km2 </city:areaTotalKm>
+        <city:populationTotal>420.000</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Thái_Nguyên"/>
+    </city:Vietnam>
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Vũng_Tàu">
+        <city:number>31</city:number>
+        <rdfs:label>Vũng Tàu</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Vũng Tàu (aksen Hanoi: [vuŋm˧ˀ˥ taːw˨˩], aksen Saigon: [vuŋm˧˩˧ taːw˨˩]) adalah kota terbesar di provinsi Bà Rịa–Vũng Tàu di Vietnam selatan. Luas kotanya 140 kilometer persegi (54 mil persegi), terdiri dari 13 distrik kota dan satu komune Pulau Long Sơn. Vũng Tàu adalah ibu kota provinsi tersebut hingga digantikan oleh kota Bà Rịa yang jauh lebih kecil pada tanggal 2 Mei 2012. Kota ini juga merupakan pusat ekstraksi minyak mentah di Vietnam.
+        </city:abstract>
+        <city:areaTotalKm>1.872,58 km2 </city:areaTotalKm>
+        <city:populationTotal>357.124</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Vũng_Tàu"/>
+    </city:Vietnam>
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Quy_Nhon">
+        <city:number>32</city:number>
+        <rdfs:label>Quy Nhon</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Quy Nhon (bahasa Vietnam: Quy Nhơn bahasa Vietnam: [kwi ɲəːŋ]) adalah sebuah kota pesisir di provinsi Bình Định di Vietnam tengah. Kota ini terdiri dari 16 kelurahan dan lima komune dengan luas total 284 km2 (110 mil persegi). Quy Nhon adalah ibu kota provinsi Bình Định. Pada tahun 2019 jumlah penduduknya mencapai 457.400 jiwa. Secara historis, aktivitas komersial kota ini terfokus pada pertanian dan perikanan. Namun, dalam beberapa tahun terakhir, terjadi pergeseran signifikan ke arah industri jasa dan pariwisata. Ada juga sektor manufaktur yang besar.
+        </city:abstract>
+        <city:areaTotalKm> 284.0 km2 </city:areaTotalKm>
+        <city:populationTotal>457.400</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Quy_Nhon"/>
+    </city:Vietnam>
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Việt_Trì">
+        <city:number>33</city:number>
+        <rdfs:label>Viet Tri</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Việt Trì (越池) adalah ibu kota Provinsi Phú Thọ di wilayah Timur Laut Vietnam. Pada tahun 2010, kota ini memiliki populasi 260.288 jiwa. Kota ini meliputi area seluas 110 kilometer persegi (42 mil persegi). Việt Trì juga merupakan pusat ekonomi provinsi dan memiliki banyak perusahaan industri dan industri jasa.
+        </city:abstract>
+        <city:areaTotalKm> 111,75 km2 </city:areaTotalKm>
+        <city:populationTotal>415.280</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Việt_Trì"/>
+    </city:Vietnam>
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Bắc_Ninh_province">
+        <city:number>34</city:number>
+        <rdfs:label>Tỉnh Bắc Ninh</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Bắc Ninh (Bahasa Vietnam: [ʔɓak̚˧˦ nïŋ˧˧]) adalah sebuah provinsi di Vietnam, yang terletak di Delta Sungai Merah di bagian utara negara itu. Ini adalah provinsi terkecil di Vietnam berdasarkan wilayah dan terletak di sebelah timur ibu kota negara, Hanoi, dan berbatasan dengan provinsi Bắc Giang, provinsi Hưng Yên, provinsi Hải Dương, dan Hanoi. Provinsi ini mencakup wilayah seluas 822,71 kilometer persegi dan pada tahun 2019 berpenduduk 1.368.840 jiwa. Nama provinsi ini secara harfiah berarti "ketenangan utara".
+        </city:abstract>
+        <city:areaTotalKm>822,71 km2</city:areaTotalKm>
+        <city:populationTotal>1.462.945</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bắc_Ninh_province"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Thái_Bình">
+        <city:number>35</city:number>
+        <rdfs:label>Thai Bình</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Kota Thái Bình adalah sebuah kota di Delta Sungai Merah di Vietnam utara. Ini adalah ibu kota Provinsi Thái Bình. Kota ini terletak 110 km dari Hanoi. Luas wilayah kota adalah 67,7 km persegi, dengan jumlah penduduk 210.000 jiwa (2006).
+        </city:abstract>
+        <city:areaTotalKm>67,7 km2</city:areaTotalKm>
+        <city:populationTotal>268.167</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Thái_Bình"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Phan_Thiết">
+        <city:number>36</city:number>
+        <rdfs:label>Phan Thiết</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Phan Thiết (Orang Vietnam:[fan.tʰíət]) adalah ibu kota Provinsi Bình Thuận di pantai tenggara Vietnam. Meskipun sebagian besar penduduknya tinggal di pusat kota, sebagian lainnya tinggal di empat kawasan pesisir kota, yang membentang dari pantai Suối Nước di timur laut hingga Tanjung Kê Gà di barat daya. Secara tradisional, penangkapan ikan dan pembuatan kecap ikan menjadi sumber utama perekonomian lokal Phan Thiết. Meningkatnya pariwisata sebagai lapangan kerja utama di kawasan ini dapat dikaitkan dengan pantainya, sehingga pertumbuhannya dengan cepat melampaui industri perikanan yang lazim di wilayah tersebut.
+        </city:abstract>
+        <city:areaTotalKm>206 km2 </city:areaTotalKm>
+        <city:populationTotal>335.212</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Phan_Thiết"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Rạch_Giá">
+        <city:number>37</city:number>
+        <rdfs:label>Rạch Giá</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Rạch Giá adalah sebuah kota provinsi dan ibu kota provinsi Kiên Giang, Vietnam. Terletak di pantai timur Teluk Thailand, 250 kilometer (160 mil) barat daya Kota Ho Chi Minh. Di sebelah timur kota, berbatasan dengan kota Tân Hiệp dan Châu Thành, Teluk Thailand di sebelah barat dan mengelilingi beberapa bagian kota, di selatan kota terdapat kota Châu Thành dan An Biên, dan di sebelah utara berbatasan dengan Hòn Đất dan Tân Hiệp.
+        </city:abstract>
+        <city:areaTotalKm>105 km2</city:areaTotalKm>
+        <city:populationTotal>403.120</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Rạch_Giá"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Mỹ_Tho">
+        <city:number>38</city:number>
+        <rdfs:label>Mỹ Tho</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Mỹ Tho adalah sebuah kota di provinsi Tiền Giang di wilayah Delta Mekong di Vietnam Selatan. Kota ini mempunyai populasi sekitar 169.000 jiwa pada tahun 2006 dan 220.000 jiwa pada tahun 2012. Kota ini merupakan pusat ekonomi, pendidikan dan teknologi regional. Kelompok etnis mayoritas adalah Kinh; kelompok minoritas termasuk Hoa, Cham dan Khmer. Naik perahu di Sungai Mỹ Tho populer di kalangan wisatawan, dan kota ini terkenal dengan hủ tiếu Mỹ Tho, sejenis kuah bihun. 
+        </city:abstract>
+        <city:areaTotalKm>81,55 km2 </city:areaTotalKm>
+        <city:populationTotal>270.700</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Mỹ_Tho"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Cà_Mau">
+        <city:number>39</city:number>
+        <rdfs:label>Cà Mau</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Cà Mau adalah sebuah kota di Vietnam selatan. Ini adalah ibu kota Provinsi Cà Mau, sebuah provinsi di wilayah Delta Mekong, di bagian paling selatan wilayah pedalaman Vietnam. Kota ini dicirikan oleh sistem kanal transportasinya, dan sebagian besar barang diangkut ke sana dengan perahu dan tongkang. Jumlah penduduknya sekitar 315.270 jiwa pada tahun 2018. Cà Mau dapat diakses melalui jalan darat (360 km barat daya Kota Ho Chi Minh) melalui Rute Nasional 1 atau melalui udara (Bandara Cà Mau). Kota ini secara administratif dibagi menjadi delapan phường perkotaan (kelurahan) dan tujuh xã pedesaan (komune).
+        </city:abstract>
+        <city:areaTotalKm>250,3 km2 </city:areaTotalKm>
+        <city:populationTotal>315.270</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Cà_Mau"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Hạ_Long">
+        <city:number>40</city:number>
+        <rdfs:label>Hạ Long</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Hạ Long (bahasa Vietnam: [hâːˀ lawŋm]) adalah ibu kota dan kota provinsi kelas satu di provinsi Quảng Ninh, Vietnam. Nama Hạ Long (Hán tự: 下龍) berarti "naga yang turun". Kota ini didirikan pada tahun 1993, ketika ibu kota lama, Hòn Gai, digabungkan dengan Bãi Cháy – kawasan wisata utama. Kota ini sebagian besar terletak di Teluk Hạ Long, dan terletak sekitar 178 km (111 mil) di sebelah timur Hanoi. Jumlah penduduk kota pada tahun 2013 adalah 227.000 jiwa.
+        </city:abstract>
+        <city:areaTotalKm>1.119,12 km2 </city:areaTotalKm>
+        <city:populationTotal>300.267</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Hạ_Long"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Thanh_Hóa">
+        <city:number>41</city:number>
+        <rdfs:label>Thanh Hóa</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Thanh Hóa (Orang Vietnam:[tʰajŋ̟ hwǎː]) adalah ibu kota Provinsi Thanh Hóa. Kota ini terletak di sebelah timur provinsi di Sungai Ma (Sông Mã), sekitar 150 kilometer (93 mil) di selatan Hanoi dan 1.560 kilometer (969 mil) di utara Kota Ho Chi Minh. Thanh Hoa menjadi salah satu kota terpadat di Pantai Tengah Utara setelah berkembang pada tahun 2012, dengan populasi sekitar 400.000 jiwa. Kotapraja Thanh Hoa ditingkatkan menjadi Kota Thanh Hoa pada tahun 1994 dan telah menjadi pusat sejarah politik, ekonomi, budaya, pendidikan dan hiburan di Provinsi Thanh Hóa.
+        </city:abstract>
+        <city:areaTotalKm>146,77 km2 </city:areaTotalKm>
+        <city:populationTotal>614.500</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Thanh_Hóa"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Cẩm_Phả">
+        <city:number>42</city:number>
+        <rdfs:label>Cẩm Phả</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Cẩm Phả adalah sebuah kota di Provinsi Quảng Ninh di wilayah timur laut Vietnam. Ini adalah pelabuhan pengekspor batubara yang penting di Vietnam (UNCTAD: VNCPH). Pada Februari 2012, kota ini mempunyai populasi 195.800 jiwa. Kota ini meliputi area seluas 486 km2. Kota ini dipromosikan dari Distrik Cẩm Phả pada Februari 2012. Cẩm Phả adalah lokasi salah satu tambang batu bara terbesar di Asia selatan yang telah dieksploitasi selama hampir satu abad. Tambang batu bara ditampilkan pada perangko peringatan khusus Vietnam pada bulan Maret 1959. Batubara masih menjadi tulang punggung perekonomian lokal Cẩm Phả, bersama dengan industri lain termasuk penggalian, produksi kapur, pelabuhan, pertanian, kehutanan, dan perikanan. Situs web resmi kota mengklaim beberapa situs indah dan bersejarah di Cẩm Phả, termasuk Kuil Cửa Ông, Pulau Rều (Pulau Monyet), Pulau Thẻ Vàng, situs bersejarah Vũng Đục, dan gua Hang Hanh.
+        </city:abstract>
+        <city:areaTotalKm>486,45 km2 </city:areaTotalKm>
+        <city:populationTotal>203.435</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Cẩm_Phả"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Nam_Định">
+        <city:number>43</city:number>
+        <rdfs:label>Nam Định</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Kemaman adalah sebuah distrik di Terengganu, Vietnam. Kecamatan Kemaman berbatasan dengan Kecamatan Dungun di utara dan negara bagian Pahang di selatan dan barat. Ini adalah pintu gerbang selatan ke negara bagian Terengganu. Pusat pemerintahan distrik dan pusat perekonomian utama Kemaman adalah kota Chukai, dekat perbatasan negara bagian Terengganu-Pahang. Kota penting lainnya di kabupaten ini adalah Kijal, Kerteh, dan Kemasik. Distrik ini dikelola oleh Dewan Kota. Dengan luas wilayah hampir 1000 mil persegi, kabupaten ini merupakan kabupaten terluas ketiga setelah Hulu Terengganu dan Dungun yang berbatasan dengan Laut Cina Selatan.
+        </city:abstract>
+        <city:areaTotalKm>46,4 km2 </city:areaTotalKm>
+        <city:populationTotal>412.350</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Nam_Định"/>
+    </city:Vietnam>
+
+        <city:Vietnam rdf:about="https://dbpedia.org/page/Bạc_Liêu">
+        <city:number>44</city:number>
+        <rdfs:label>Bạc Liêu</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Bac Lieu adalah provinsi pesisir di Delta Mekong , terletak di semenanjung Ca Mau , wilayah paling selatan Vietnam .
+        </city:abstract>
+        <city:areaTotalKm>.....</city:areaTotalKm>
+        <city:populationTotal>188.863</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bạc_Liêu"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Hải_Dương_province">
+        <city:number>45</city:number>
+        <rdfs:label>Hải Dương province</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Hải Dương (Orang Vietnam:[haːj˧˩ zɨəŋ˧˧]) adalah sebuah provinsi di Delta Sungai Merah di utara Vietnam. Namanya berasal dari bahasa Sino-Vietnam 海陽 "matahari laut", meskipun provinsi modern ini sebenarnya tidak memiliki daratan. Saat ini, Hải Dương adalah salah satu provinsi paling maju dan maju di Vietnam.
+        </city:abstract>
+        <city:areaTotalKm>2.251 km2 </city:areaTotalKm>
+        <city:populationTotal>1.936.800</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Hải_Dương_province"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Pleiku">
+        <city:number>46</city:number>
+        <rdfs:label>Pleiku</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Pleiku adalah sebuah kota di Vietnam tengah, terletak di wilayah Dataran Tinggi Tengah. Ini adalah ibu kota Provinsi Gia Lai. Bertahun-tahun yang lalu, wilayah ini dihuni terutama oleh kelompok etnis Bahnar dan Jarai, kadang-kadang dikenal sebagai Montagnards atau Degar, meskipun sekarang sebagian besar dihuni oleh kelompok etnis Kinh. Kota ini merupakan pusat kawasan perkotaan Pleiku yang luasnya 261 km².
+        </city:abstract>
+        <city:areaTotalKm>266.62 km2 </city:areaTotalKm>
+        <city:populationTotal>458.742</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pleiku"/>
+    </city:Vietnam>
+
+     <city:Vietnam rdf:about="https://dbpedia.org/page/Sóc_Trăng">
+        <city:number>47</city:number>
+        <rdfs:label>Sóc Trăng</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Sóc Trăng adalah sebuah kota di Vietnam. Ini adalah ibu kota Provinsi Sóc Trăng. Kota ini ditingkatkan dari kota (thị xã) menjadi kota berdasarkan keputusan 22/2007/NĐ-CP pada tanggal 8 Februari 2007.
+        </city:abstract>
+        <city:areaTotalKm>76,1 km2 </city:areaTotalKm>
+        <city:populationTotal>221.430</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sóc_Trăng"/>
+    </city:Vietnam>
+
+     <city:Vietnam rdf:about="https://dbpedia.org/page/Uông_Bí">
+        <city:number>48</city:number>
+        <rdfs:label>Uông Bí</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Uong Bi adalah sebuah kota di provinsi Quang Ninh , Vietnam. Kota Uong Bi saat ini merupakan kawasan perkotaan kelas II , pusat ekonomi, budaya, pendidikan dan politik di sebelah barat provinsi Quang Ninh.
+        </city:abstract>
+        <city:areaTotalKm>.....</city:areaTotalKm>
+        <city:populationTotal>120.982</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Uông_Bí"/>
+    </city:Vietnam>
+
+     <city:Vietnam rdf:about="https://dbpedia.org/page/Tuy_Hòa">
+        <city:number>50</city:number>
+        <rdfs:label>Tuy Hòa</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Tuy Hòa adalah ibu kota Provinsi Phú Yên di Vietnam tengah-selatan. Kota ini memiliki luas total 107 kilometer persegi atau 41 mil persegi dan jumlah penduduk 202.030 jiwa (pada tahun 2012). Kota ini terletak kira-kira di tengah-tengah antara Nha Trang dan Qui Nhơn. Kota ini terbentuk terutama dari aluvial di hilir Sungai Đà Rằng. Ada dua gunung di tengah kota: Gunung Chóp Chài dan Gunung Nhạn. Ada Kuil Champa di puncak Gunung Nhạn.
+        </city:abstract>
+        <city:areaTotalKm>107 km2 </city:areaTotalKm>
+        <city:populationTotal>202.030</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tuy_Hòa"/>
+    </city:Vietnam>
+
+     <city:Vietnam rdf:about="https://dbpedia.org/page/Long_An_province">
+        <city:number>51</city:number>
+        <rdfs:label>Long An province</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Long An (Orang Vietnam:[lawŋ͡m˧˧ ʔaːn˧˧]) adalah sebuah provinsi di wilayah Delta Mekong di Vietnam selatan. Ibu kota provinsinya adalah Tân An, dan distrik-distrik besar lainnya termasuk Kiến Tường, Bến Lức, Cần Giuộc dan Đức Hòa. Terdapat 15 kabupaten dalam provinsi ini (termasuk 1 ibu kota provinsi dan 1 kota setingkat kabupaten). Wilayah ini berada di antara Kota Ho Chi Minh di utara dan Delta Mekong. Karena letak geografisnya yang rendah, wilayah ini rentan terhadap kenaikan permukaan laut akibat perubahan iklim.
+        </city:abstract>
+        <city:areaTotalKm> 4.495,5 km2 </city:areaTotalKm>
+        <city:populationTotal>1.763.754</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Long_An_province"/>
+    </city:Vietnam>
+
+     <city:Vietnam rdf:about="https://dbpedia.org/page/Đồng_Hới">
+        <city:number>52</city:number>
+        <rdfs:label>Đồng Hới</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Dong Hoi adalah ibu kota provinsi Quang Binh, Vietnam. Kota Dong Hoi terletak di antara Jalan Raya Nasional 1 dan Jalan Ho Chi Minh dan di jalur kereta api Utara-Selatan dengan stasiun Dong Hoi sebagai salah satu stasiun utama, 500 km sebelah utara ibu kota Hanoi, 267 km dari kota Da Nang 1.220 km sebelah selatan Kota Ho Chi Minh, dengan aliran Sungai Nhat Le.
+        </city:abstract>
+        <city:areaTotalKm>155,87 km2</city:areaTotalKm>
+        <city:populationTotal>136.078</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Đồng_Hới"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Châu_Đốc">
+        <city:number>53</city:number>
+        <rdfs:label>Châu Đốc</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Châu Đốc adalah sebuah kota di Provinsi An Giang, berbatasan dengan Kamboja, di wilayah Delta Mekong, Vietnam. Pada tahun 2013, kota ini memiliki populasi 157.298 jiwa, dan mencakup area seluas 105,29 kilometer persegi (40,65 mil persegi). Kota ini terletak di tepi Sungai Hậu (cabang Sungai Mekong yang mengalir melalui wilayah Vietnam) dan kanal Vĩnh Tế. Châu Đốc terletak 250 kilometer (160 mil) sebelah barat Kota Ho Chi Minh. Dibutuhkan sekitar enam jam perjalanan dengan bus dari Kota Ho Chi Minh.
+        </city:abstract>
+        <city:areaTotalKm>105,29 km2</city:areaTotalKm>
+        <city:populationTotal>161.547</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Châu_Đốc"/>
+    </city:Vietnam>
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Tây_Ninh">
+        <city:number>54</city:number>
+        <rdfs:label>Tây Ninh</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Tây Ninh adalah kota provinsi di tenggara Vietnam. Ini adalah ibu kota Provinsi Tây Ninh, yang meliputi kota dan sebagian besar lahan pertanian di sekitarnya. Tây Ninh berjarak sekitar 90 km (55 mil) ke arah barat laut Kota Ho Chi Minh, kota terbesar di Vietnam. Pada tahun 2013, kota ini mempunyai populasi 153.537 jiwa dan luas wilayah 140 km2 (54 mil persegi). Selain Tahta Suci Cao Đài, tempat wisata lainnya termasuk Núi Bà Đen ("Gunung Perawan Hitam") dan Danau Dầu Tiếng, salah satu danau buatan terbesar di Vietnam dan Asia Tenggara.
+        </city:abstract>
+        <city:areaTotalKm>140 km2</city:areaTotalKm>
+        <city:populationTotal>153.537</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tây_Ninh"/>
+</city:Vietnam>
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Bảo_Lộc">
+        <city:number>55</city:number>
+        <rdfs:label>Bảo Lộc</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Bao Loc (nama lama: B'Lao dalam bahasa masyarakat Co Ho ) adalah sebuah kota di provinsi Lam Dong , wilayah Dataran Tinggi Tengah , Vietnam .
+        Saat ini kota Bao Loc bukanlah ibu kota provinsi provinsi Lam Dong, melainkan ibu kota provinsinya adalah kota Da Lat . Kota Bao Loc memiliki ketinggian rata-rata 900 m di atas permukaan laut dan seluruhnya terletak di dataran tinggi Di Linh .
+        Ini adalah kota kecil yang terletak di barat daya provinsi Lam Dong. Kota ini memiliki kekuatan dalam industri produksi teh karena terletak pada ketinggian yang cocok untuk menanam teh. Selain itu, Bao Loc juga dikenal sebagai tanah yang kaya dan ibu kota industri sutra Vietnam . Bao Loc saat ini merupakan kawasan perkotaan kelas III .
+        </city:abstract>
+        <city:areaTotalKm>233,56 km2</city:areaTotalKm>
+        <city:populationTotal>161.235</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bảo_Lộc"/>
+    </city:Vietnam>
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Sa_Đéc">
+        <city:number>56</city:number>
+        <rdfs:label>Sa Đéc</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Sa Des adalah sebuah kota di provinsi Dong Thap , Vietnam .
+        Tanah kuno Sa Dec memiliki nama Khmer Phsar Dek. Ada dua cara untuk memahaminya. Yang pertama adalah Phsar Dek adalah nama seorang dewi. Yang kedua dapat dipahami sebagai Phsar Dek yang berarti Pasar Besi. Secara historis, ini adalah kawasan perkotaan tertua di provinsi Dong Thap dengan usia lebih dari 300 tahun bersamaan dengan Saigon. Sa Dec dulunya adalah ibu kota provinsi lama Sa Dec pada masa kolonial Perancis sebelum tahun 1956 dan pada periode 1966-1975 di bawah Republik Vietnam . Secara khusus, kota lama Sa Dec berfungsi sebagai ibu kota provinsi provinsi Dong Thap selama periode 1976-1994, dan kemudian menurut Keputusan No. 36-CP yang dikeluarkan pada tanggal 29 April 1994 , ibu kota provinsi provinsi Dong Thap. dipindahkan ke kota Cao Lanh (sekarang kota Cao Lanh ) sampai sekarang.
+        Sa Dec menjadi kota di bawah provinsi Dong Thap pada tanggal 14 Oktober 2013 berdasarkan Resolusi No.113/NQ-CP. Kota Sa Dec ditetapkan sebagai kawasan perkotaan kelas II pada 10 Februari 2018.
+        </city:abstract>
+        <city:areaTotalKm>59,8 km2</city:areaTotalKm>
+        <city:populationTotal>106.198</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sa_Đéc"/>
+    </city:Vietnam>
+
+
+    
+<city:Vietnam rdf:about="https://dbpedia.org/page/Sầm_Sơn">
+        <city:number>57</city:number>
+        <rdfs:label>Sầm Sơn</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Sầm Sơn adalah kota resor di utara-tengah Vietnam, terletak 16 km sebelah timur ibu kota Provinsi Thanh Hóa, Thanh Hóa, di tepi Laut Cina Selatan. Penguasa kolonial Perancis mulai mengeksploitasi Sầm Sơn pada tahun 1906, dan tempat ini menjadi terkenal di wilayah yang saat itu disebut Indochina Perancis. Saat itu, banyak vila liburan dibangun di sini. Pada bulan April/Mei 2007, Sầm Sơn merayakan ulang tahun ke-100 pendiriannya dengan menyelenggarakan Festival Sầm Sơn. Pemerintah provinsi Thanh Hóa menginvestasikan US$375.000 untuk meningkatkan infrastruktur di sepanjang laut, pasokan air, sistem penerangan dan jaringan informasi untuk mempersiapkan festival tersebut. Sekitar 22 kursus pelatihan diselenggarakan untuk 3.000 pengendara sepeda, juru kamera, pedagang dan pemandu wisata.
+        </city:abstract>
+        <city:areaTotalKm>44,9 km2</city:areaTotalKm>
+        <city:populationTotal>172.350</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sầm_Sơn"/>
+    </city:Vietnam>
+   
+<city:Vietnam rdf:about="https://dbpedia.org/page/Cao_Lãnh_">
+        <city:number>58</city:number>
+        <rdfs:label>Cao Lãnh</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Cao Lãnh (bahasa Vietnam: [kaːw˧ lajŋ̟˧˨˧]; bahasa Vietnam untuk "pemimpin tinggi") adalah ibu kota Provinsi Đồng Tháp, Vietnam. Letaknya sekitar 10°28′2″LU 105°37′49″BT﻿ / ﻿10.46722°LU 105.63028°BT. 
+        </city:abstract>
+        <city:areaTotalKm>107 km2</city:areaTotalKm>
+        <city:populationTotal>211.912</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Cao_Lãnh_"/>
+    </city:Vietnam>
+
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Lạng_Sơn_province">
+        <city:number>59</city:number>
+        <rdfs:label>Lạng Sơn province</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Lạng Sơn (bahasa Vietnam: [laːŋ˧˨ʔ ʂəːn˧˧]) adalah sebuah provinsi di Vietnam utara. Ibu kotanya juga disebut Lạng Sơn, yang merupakan kota penting yang strategis di perbatasan dengan Tiongkok dan berjarak 137 kilometer (85 mil) timur laut Hanoi yang dihubungkan dengan kereta api dan jalan raya. Provinsi Lạng Sơn berbatasan dengan provinsi Cao Bằng, provinsi Bắc Giang, provinsi Bắc Kạn, provinsi Quảng Ninh, provinsi Thái Nguyên, dan provinsi Guangxi di Tiongkok. Provinsi ini mencakup wilayah seluas 8.310,09 kilometer persegi dan pada tahun 2008 berpenduduk 781.655 jiwa.
+        </city:abstract>
+        <city:areaTotalKm>8.310,2 km2</city:areaTotalKm>
+        <city:populationTotal>788.670</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Lạng_Sơn_province"/>
+    </city:Vietnam>
+
+       
+<city:Vietnam rdf:about="https://dbpedia.org/page/Vĩnh_Long">
+        <city:number>60</city:number>
+        <rdfs:label>Vĩnh Long</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Vinh Long yang ditulis dalam bahasa Cina adalah (永隆). ( Abadi dalam selamanya , abadi , artinya "selamanya"; Panjang dalam khidmat , artinya "makmur, kaya"). Nama Vinh Long melambangkan keinginan agar tempat ini selalu sejahtera selamanya. [4] Namun karena kurang memahami maknanya, nama Vinh Long disebut "Vinh Dragon" oleh sebagian anak muda (belum mengetahui arti kata Vinh dan salah mengira kata Long龍 yang berarti "naga").
+        </city:abstract>
+        <city:areaTotalKm>1.525,7 km2</city:areaTotalKm>
+        <city:populationTotal>1.129.000</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Vĩnh_Long"/>
+    </city:Vietnam>
+
+       
+<city:Vietnam rdf:about="https://dbpedia.org/page/Bến_Tre">
+        <city:number>61</city:number>
+        <rdfs:label>Bến Tre</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Bến Tre (Pengucapan Vietnam:[ˀɓən˦ˀ˥ ʈɛ˧˧]) adalah ibu kota Provinsi Bến Tre, di wilayah Delta Mekong di Vietnam selatan. Terletak 85 kilometer (53 mil) barat daya Kota Ho Chi Minh, kota ini mencakup area seluas 65,75 km2 (25,39 mil persegi) dan memiliki populasi 124.499 jiwa pada sensus 2019. Bến Tre terhubung ke provinsi sekitarnya melalui Jembatan Rạch Miễu.
+        </city:abstract>
+        <city:areaTotalKm>65,7 km2</city:areaTotalKm>
+        <city:populationTotal>124.449</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bến_Tre"/>
+    </city:Vietnam>
+
+       
+<city:Vietnam rdf:about="https://dbpedia.org/page/Kon_Tum">
+        <city:number>62</city:number>
+        <rdfs:label>Kon Tum</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Kon Tum adalah ibu kota Provinsi Kon Tum di Vietnam. Terletak di pedalaman di wilayah Dataran Tinggi Tengah Vietnam, dekat perbatasan Laos dan Kamboja.
+        </city:abstract>
+        <city:areaTotalKm>432,9 km2</city:areaTotalKm>
+        <city:populationTotal>172.712</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kon_Tum"/>
+    </city:Vietnam>
+
+       
+<city:Vietnam rdf:about="https://dbpedia.org/page/Quảng_Ngãi">
+        <city:number>63</city:number>
+        <rdfs:label>Quảng Ngãi</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Quang Ngai adalah sebuah provinsi pesisir yang terletak di wilayah Pantai Tengah Selatan Vietnam . Ibu kota provinsinya adalah Kota Quang Ngai , 820 km sebelah utara Kota Ho Chi Minh , 146 km sebelah selatan kota Da Nang dan 908 km sebelah selatan Hanoi di sepanjang Jalan Raya Nasional.
+        </city:abstract>
+        <city:areaTotalKm>5.155,2 km2</city:areaTotalKm>
+        <city:populationTotal>1.260.600</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Quảng_Ngãi"/>
+</city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Trà_Vinh">
+        <city:number>64</city:number>
+        <rdfs:label>Trà Vinh</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Kota Trà Vinh adalah ibu kota provinsi Trà Vinh di Vietnam selatan.
+        </city:abstract>
+        <city:areaTotalKm>68 km2</city:areaTotalKm>
+        <city:populationTotal>160.310</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Trà_Vinh"/>
+    </city:Vietnam>
+
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Ninh_Bình_province">
+        <city:number>65</city:number>
+        <rdfs:label>Ninh Bình province</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Ninh Bình (bahasa Vietnam: [nïŋ˧˧ ʔɓïŋ˨˩]) adalah sebuah provinsi di Vietnam yang terletak di wilayah Delta Sungai Merah di bagian utara negara tersebut. Provinsi ini terkenal dengan kepadatan atraksi alam dan budaya yang tinggi, termasuk taman cagar alam di Taman Nasional Cúc Phương dan Vân Long, gua gua dan sungai di Tràng An, Gua Tam Cốc-Bích Động dan Múa, monumen bersejarah di zaman kuno Hoa Lư ibu kota, kompleks pemujaan Buddha terbesar di Vietnam (Kuil Bái Đính), dan Katedral Phát Diệm dengan "gaya arsitektur eklektik". Berkat kedekatannya dengan Hanoi, perjalanan sehari dari ibu kota dapat dilakukan dengan mudah.
+        </city:abstract>
+        <city:areaTotalKm>1.386,8 km2</city:areaTotalKm>
+        <city:populationTotal>1.120.920</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Ninh_Bình_province"/>
+    </city:Vietnam>
+
+
+<city:Vietnam rdf:about="https://dbpedia.org/page/Cam_Ranh">
+        <city:number>66</city:number>
+        <rdfs:label>Cam Ranh</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Cam Ranh adalah sebuah kota di selatan Provinsi Khánh Hòa, di wilayah Pantai Tengah Selatan Vietnam.
+        </city:abstract>
+        <city:areaTotalKm>316 km2</city:areaTotalKm>
+        <city:populationTotal>121.050</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Cam_Ranh"/>
+    </city:Vietnam>
+
+        <city:Vietnam rdf:about="https://dbpedia.org/page/Bắc_Giang">
+        <city:number>67</city:number>
+        <rdfs:label>Bắc Giang</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Bac Giang adalah sebuah provinsi dataran tengah di wilayah Timur Laut Vietnam . Ini adalah provinsi yang terletak di wilayah perencanaan ibu kota Hanoi . Bac Giang menempati sebagian besar wilayah wilayah Kinh Bac kuno dan memiliki kekayaan budaya khas Kinh Bac , dan merupakan salah satu tempat lahirnya lagu-lagu daerah Quan Ho dengan 23 desa kuno Quan Ho yang diakui oleh UNESCO. Ibu kota provinsinya adalah kota Bac Giang , 50 km dari pusat ibu kota Hanoi.
+        </city:abstract>
+        <city:areaTotalKm>3.895,8 km2</city:areaTotalKm>
+        <city:populationTotal>1.890.925</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bắc_Giang"/>
+    </city:Vietnam>
+
+        <city:Vietnam rdf:about="https://dbpedia.org/page/Vĩnh_Yên">
+        <city:number>68</city:number>
+        <rdfs:label>Vĩnh Yên</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Vinh Yen adalah ibu kota provinsi Vinh Phuc, Vietnam. Vinh Yen adalah pusat ekonomi utama dan pusat lalu lintas penting di kawasan ekonomi utama di Utara. Di sinilah konfrontasi pertama antara Jenderal  Vo Nguyen Giap  dan Jenderal  Jean de Lattre de Tassigny terjadi :  Pertempuran Vinh Yen  (Januari 1951).
+        </city:abstract>
+        <city:areaTotalKm>50,3 km2</city:areaTotalKm>
+        <city:populationTotal>123.353</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Vĩnh_Yên"/>
+    </city:Vietnam>
+
+        <city:Vietnam rdf:about="https://dbpedia.org/page/Bà_Rịa">
+        <city:number>69</city:number>
+        <rdfs:label>Bà Rịa</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Kota Ba Ria memiliki koordinat geografis dari 10°30' hingga 10°50' Lintang Utara, dari 107°10' hingga 107°17' Bujur Timur, 75 km tenggara Kota Ho Chi Minh, 20 km selatan kota Vung.
+        </city:abstract>
+        <city:areaTotalKm>91,4 km2</city:areaTotalKm>
+        <city:populationTotal>235.192</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bà_Rịa"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Hội_An">
+        <city:number>70</city:number>
+        <rdfs:label>Hội An</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Hội An (Bahasa Vietnam: [hôjˀ aːn]), sebelumnya dikenal sebagai Fai-Fo atau Faifoo, adalah sebuah kota dengan populasi sekitar 120.000 jiwa di Provinsi Quảng Nam Vietnam dan tercatat sebagai Situs Warisan Dunia UNESCO sejak tahun 1999. Bersama dengan Cu Kepulauan Lao Cham, merupakan bagian dari Cagar Biosfer Cu Lao Cham-Hoi An, yang ditetapkan pada tahun 2009. Kota Tua Hội An, distrik bersejarah kota ini, diakui sebagai contoh pelabuhan perdagangan Asia Tenggara yang sangat terpelihara sejak zaman Abad ke-15 hingga ke-19, bangunan dan denah jalannya mencerminkan perpaduan pengaruh pribumi dan asing. Yang menonjol di kota tua kota ini adalah "Jembatan Jepang" yang tertutup, yang dibangun pada abad ke-16-17.
+        </city:abstract>
+        <city:areaTotalKm>60 km2</city:areaTotalKm>
+        <city:populationTotal>152.160</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Hội_An"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Hưng_Yên_province">
+        <city:number>71</city:number>
+        <rdfs:label>Hưng Yên province</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Hưng Yên (Orang Vietnam:[hɨŋ˧˧ ʔiən˧˧]) adalah sebuah provinsi di Delta Sungai Merah di utara Vietnam. Provinsi ini mencakup wilayah seluas 930,22 km2 (359,2 mil persegi), yang terdiri dari 1 kota, 8 distrik pedesaan, dan 1 kota setingkat distrik, dengan populasi lebih dari 1 juta orang pada tahun 2019. Provinsi ini merupakan pemukiman di sepanjang tepi sungai. Sungai Merah, berbatasan dengan 5 provinsi dan kotamadya (provinsi Bắc Ninh, provinsi Hải Dương, Hà Nội, provinsi Thái Bình, provinsi Hà Nam).
+        </city:abstract>
+        <city:areaTotalKm>930,2 km2</city:areaTotalKm>
+        <city:populationTotal>1.269.090</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Hưng_Yên_province"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Tam_Kỳ">
+        <city:number>72</city:number>
+        <rdfs:label>Tam Kỳ</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Tam Kỳ (IATA: TMK) adalah ibu kota Provinsi Quảng Nam, di Pantai Tengah Selatan Vietnam.
+        </city:abstract>
+        <city:areaTotalKm>930,2 km2</city:areaTotalKm>
+        <city:populationTotal>165.240</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tam_Kỳ"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Hà_Tĩnh_province">
+        <city:number>73</city:number>
+        <rdfs:label>Hà Tĩnh province</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Hà Tĩnh (Orang Vietnam:[haː˨˩ tïŋ˦ˀ˥]) adalah sebuah provinsi di Pantai Tengah Utara Vietnam. Bersama dengan provinsi tetangga Nghệ An, kedua provinsi tersebut disebut "Nghệ Tĩnh", dan penduduk setempat dikenal berbicara bahasa Vietnam dengan aksen daerah yang sangat mencolok.
+        </city:abstract>
+        <city:areaTotalKm>5.997,8 km2</city:areaTotalKm>
+        <city:populationTotal>1.501.866</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Hà_Tĩnh_province"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Móng_Cái">
+        <city:number>74</city:number>
+        <rdfs:label>Móng Cái</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Móng Cái adalah sebuah kota di Provinsi Quảng Ninh di Vietnam utara. Terletak di perbatasan Tiongkok-Vietnam, kota ini terletak di tepi selatan Sungai Beilun di seberang kota Dongxing di Daerah Otonomi Guangxi Tiongkok. Ini memiliki populasi sekitar 103.000. Salah satu kawasan tersebut adalah bangsal Trần Phú.
+        </city:abstract>
+        <city:areaTotalKm>515 km2</city:areaTotalKm>
+        <city:populationTotal>125.000</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Móng_Cái"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Sơn_La">
+        <city:number>75</city:number>
+        <rdfs:label>Sơn La</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Sơn La adalah sebuah kota di wilayah barat laut Vietnam. Ini adalah ibu kota Provinsi Sơn La. Berbatasan dengan Distrik Thuận Châu, Distrik Mường La, dan Distrik Mai Sơn.
+        </city:abstract>
+        <city:areaTotalKm>323,5 km2</city:areaTotalKm>
+        <city:populationTotal>106.052</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sơn_La"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Phan_Rang–Tháp_Chàm">
+        <city:number>76</city:number>
+        <rdfs:label>Phan Rang–Tháp Chàm</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Phan Rang–Tháp Chàm, umumnya dikenal sebagai Phan Rang, adalah sebuah kota di Vietnam dan ibu kota Provinsi Ninh Thuận. Komunitas ini berpenduduk 161.000 jiwa (2004), dimana 91.000 jiwa (2004) tinggal di kota utama. Nama Phan Rang adalah pengucapan bahasa Vietnam dari Panduranga (kata Sansekerta yang berasal dari Hindu). Nama Tháp Chàm berarti "Kuil/Menara Cham" dan diambil dari nama Kuil Po Klong Garai di bagian utara kota.
+        </city:abstract>
+        <city:areaTotalKm>78,9 km2</city:areaTotalKm>
+        <city:populationTotal>166.871</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Phan_Rang–Tháp_Chàm"/>
+    </city:Vietnam>
+
+    <city:Vietnam rdf:about="https://dbpedia.org/page/Yên_Bái">
+        <city:number>77</city:number>
+        <rdfs:label>Yên Bái</rdfs:label>
+        <city:country>Vietnam</city:country>
+        <city:abstract>
+        Yên Bái (Pengucapan Vietnam:[ʔiən˧˧ ʔɓaːj˧˦]) adalah sebuah provinsi yang terletak di Tây Bắc, bagian utara Vietnam tengah-utara. Berbatasan dengan enam provinsi yaitu provinsi Hà Giang, provinsi Lào Cai, provinsi Lai Châu, provinsi Sơn La, provinsi Phú Thọ, dan provinsi Tuyên Quang. Provinsi ini mencakup wilayah seluas 6.887,46 kilometer persegi dan pada tahun 2019 berpenduduk 821.030 jiwa. Sejarah Yên Bái penting di bawah koloni Perancis, khususnya "pemberontakan Yên Bái" berikutnya, pemberontakan tentara Vietnam di tentara kolonial Perancis pada 10 Februari 1930 bekerja sama dengan pendukung sipil yang tergabung dalam Việt Nam Quốc Dân Đảng (VNQDD , Partai Nasionalis Vietnam). Kehutanan dan pertanian adalah sumber perekonomian utama provinsi ini. Danau Thác Bà adalah aset alami negara beserta kekayaan alamnya. Festival Dong Cuong adalah festival penting di provinsi ini.
+        </city:abstract>
+        <city:areaTotalKm>6.887,7 km2</city:areaTotalKm>
+        <city:populationTotal>890.041</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Yên_Bái"/>
+    </city:Vietnam>
+
+    </rdf:RDF>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:city="http://example.org/schema/city"
+    xmlns:dc="http://purl.org/dc/terms/">
+
+<city:timorleste rdf:about="https://dbpedia.org/page/Aileu">
+        <city:number>1</city:number>
+        <rdfs:label>Aileu</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+       Aileu adalah kotapraja utama di Distrik Aileu, Timor Timur. Kota ini terletak 47 km (29 mil) barat daya Dili, ibu kota negara, dan berpenduduk 2.788 jiwa pada tahun 2015. Di Timor Portugis, kota ini dikenal sebagai Vila General Carmona, diambil dari nama diktator Portugis António Óscar Carmona, tetapi setelah World Perang II diganti namanya. Aileu berarti "pohon bengkok" dalam bahasa Mambai.
+        </city:abstract>
+        <city:areaTotalKm>251,48</city:areaTotalKm>
+        <city:populationTotal>2.788</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Aileu"/>
+    </city:timorleste>
+   
+<city:timorleste rdf:about="https://dbpedia.org/page/Ainaro">
+        <city:number>2</city:number>
+        <rdfs:label>Ainaro</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+       Ainaro adalah sebuah kota di Timor Timur, ibu kota Timor Timur, pos administratif Ainaro dan Kotamadya Ainaro, dan terletak di bagian barat daya negara tersebut. Kota Ainaro terletak 78 km sebelah selatan Dili, ibu kota negara.
+        </city:abstract>
+        <city:areaTotalKm>....</city:areaTotalKm>
+        <city:populationTotal>...</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Ainaro"/>
+    </city:timorleste>
+
+
+<city:timorleste rdf:about="https://dbpedia.org/page/Balibo">
+        <city:number>3</city:number>
+        <rdfs:label>Balibo</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+       Balibo adalah sebuah kota di Timor Timur yang terletak sekitar 10 kilometer (6,2 mil) dari perbatasan Indonesia. Letaknya di kecamatan , Kabupaten Bobonaro. Human Rights Watch memperkirakan bahwa 70 persen kota tersebut hancur akibat kekerasan milisi sebelum pemungutan suara mengenai kemerdekaan Timor Timur. Balibo menjadi terkenal sebagai tempat pembunuhan lima jurnalis yang berbasis di Australia yang sekarang dikenal sebagai Balibo Five, oleh pasukan Indonesia pada tahun 1970an. Wartawan Australia dari Channel 7, 9 dan ABC meliput serangan Indonesia ke wilayah yang saat itu disebut Timor Portugis. Para reporter dari Channel 7 dan 9 dibunuh pada tanggal 16 Oktober 1975 oleh Pasukan Khusus Indonesia, untuk mencegah tersebarnya informasi tentang invasi tersebut. Pada bulan Desember 1975, reporter Australia lainnya, Roger East, yang sedang menyelidiki kematian lima orang lainnya, dilaporkan ditangkap oleh tentara Indonesia, dan kemudian ditembak oleh regu tembak. Kota ini adalah rumah bagi benteng berusia 400 tahun, yang merupakan tempat terjadinya beberapa pertempuran selama invasi Indonesia pada tahun 1975. Balibo Five juga sedang membuat film dari benteng tersebut ketika pasukan Indonesia mendarat di Balibo pada hari mereka meninggal. Benteng ini telah diubah menjadi hotel pada tahun 2016 oleh Balibo House Trust, dengan dukungan dari Rotary Club of Port Melbourne. Deklarasi Balibo, yang mengkritik deklarasi kemerdekaan dan kemudian digunakan oleh pemerintah Indonesia sebagai sebagian pembenaran atas invasi mereka, dikatakan telah ditandatangani di sini namun sebenarnya dirancang oleh intelijen Indonesia dan ditandatangani di Bali, Indonesia. Selama misi INTERFET setelah penarikan pasukan Indonesia, benteng ini digunakan sebagai markas bagi kurang lebih seribu pasukan PBB, sebagai bagian dari . Kylie Minogue melakukan konser unplugged di Balibo untuk menghibur pasukan PBB pada tahun 1999, sebagai bagian dari rangkaian konser Tour of Duty. Pada tahun 2003, pemerintah Victoria, Australia membeli rumah tempat kelima jurnalis tersebut tinggal, karena sudah rusak, dan merenovasinya untuk dijadikan tempat penitipan anak, perpustakaan, dan pusat pelatihan kejuruan. Organisasi bantuan internasional juga terlibat dalam pekerjaan rekonstruksi lainnya di kota tersebut, seperti pembangunan kembali asrama untuk anak-anak sekolah dari komunitas terpencil yang hancur akibat serangan milisi.
+        </city:abstract>
+        <city:areaTotalKm>....</city:areaTotalKm>
+        <city:populationTotal>...</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Balibo"/>
+    </city:timorleste>
+
+       
+<city:timorleste rdf:about="https://dbpedia.org/page/Baucau">
+        <city:number>4</city:number>
+        <rdfs:label>Baucau</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+       Baucau (Portugis: Baucau, Tetum: Baukau) adalah kota terbesar kedua di Timor Timur, setelah Dili, ibu kotanya, yang terletak 122 km (76 mil) ke arah barat. Baucau berpenduduk sekitar 16.000 jiwa, dan merupakan ibu kota kotamadya Baucau, yang terletak di bagian timur negara tersebut. Pada masa pemerintahan Timor Portugis, Baucau hanyalah sebuah desa yang banyak ditumbuhi tanaman, dan pada masa itu disebut Vila Salazar, diambil dari nama diktator Portugis António de Oliveira Salazar.
+        </city:abstract>
+        <city:areaTotalKm>369,53</city:areaTotalKm>
+        <city:populationTotal>.....</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Baucau"/>
+    </city:timorleste>
+
+       
+<city:timorleste rdf:about="https://dbpedia.org/page/Dili">
+        <city:number>5</city:number>
+        <rdfs:label>Dili</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+       Dili (Portugis/Tetum: Díli) adalah ibu kota dan kota terbesar di Timor Timur. Letaknya di pesisir utara Pulau Timor, di wilayah kecil berupa tanah datar yang dikelilingi pegunungan. Iklimnya tropis, dengan musim hujan dan kemarau yang berbeda. Kota ini telah berfungsi sebagai pusat perekonomian dan pelabuhan utama di wilayah yang sekarang disebut Timor Timur sejak ditetapkan sebagai ibu kota Timor Portugis pada tahun 1769. Kota ini juga berfungsi sebagai ibu kota Kotamadya Dili, yang mencakup beberapa subdivisi pedesaan selain perkotaan. yang membentuk kota itu sendiri. Pertumbuhan penduduk Dili relatif muda, dan sebagian besar berada pada usia kerja. Bahasa lokalnya adalah Tetum, namun penduduknya mencakup banyak migran internal dari daerah lain di negara ini. Pemukiman awal terletak di kawasan yang sekarang menjadi kawasan lama di sisi timur kota. Kekuasaan Portugis selama berabad-abad terhenti dalam Perang Dunia II, ketika Dili menjadi lokasi pertempuran antara pasukan Sekutu dan Jepang. Kota yang rusak kembali ke kendali Portugis setelah perang. Pada tahun 1975, perang saudara antara partai-partai politik Timor terjadi, yang berujung pada deklarasi kemerdekaan dan invasi berikutnya oleh Indonesia. Di bawah pemerintahan Indonesia, infrastruktur di kota ini dikembangkan, dengan landmark seperti Katedral Dikandung Tanpa Noda dan Cristo Rei dari Dili sedang dibangun pada masa ini. Kota ini berkembang seiring bertambahnya populasinya hingga lebih dari 100.000 orang. Perlawanan terhadap pemerintahan Indonesia menghadapi penindasan yang kejam, dan pembantaian di Dili menyebabkan tekanan internasional yang berpuncak pada referendum kemerdekaan. Setelah pemungutan suara untuk kemerdekaan, kekerasan meletus di kota tersebut, menghancurkan sejumlah besar infrastruktur dan menyebabkan eksodus pengungsi. Suatu periode pemerintahan Perserikatan Bangsa-Bangsa menyusul, di mana badan-badan internasional memulai rekonstruksi kota. Dili menjadi ibu kota Timor Timur yang merdeka pada tahun 2002. Periode kekerasan pada tahun 2006 ditandai dengan periode kerusakan infrastruktur dan pengungsian penduduk. Pada tahun 2009 pemerintah meluncurkan kampanye Kota Damai untuk mengurangi ketegangan. Seiring dengan bertambahnya jumlah penduduk dan semakin terisinya lokasi asli kota, kawasan perkotaan telah meluas ke wilayah pesisir di sebelah timur dan barat kota utama. Infrastruktur di Dili terus dikembangkan. Kota ini merupakan lokasi pertama di Timor Timur yang mendapatkan listrik 24 jam, meskipun infrastruktur airnya masih relatif terbatas. Tingkat pendidikan lebih tinggi dari rata-rata nasional, dan universitas-universitas di negara tersebut berlokasi di kota. Pelabuhan dan bandara internasional terletak di dalam batas kota. Sebagian besar kegiatan ekonomi berasal dari sektor tersier dan lapangan kerja publik. Untuk lebih membangun perekonomian, pemerintah mengembangkan potensi pariwisata kota, dengan fokus pada atraksi budaya, lingkungan, dan sejarah.
+        </city:abstract>
+        <city:areaTotalKm>178,62</city:areaTotalKm>
+        <city:populationTotal>.....</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Dili"/>
+    </city:timorleste>
+
+       
+<city:timorleste rdf:about="https://dbpedia.org/page/Bobonaro">
+        <city:number>6</city:number>
+        <rdfs:label>Bobonaro</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+       Bobonaro adalah sebuah kota di Kecamatan Bobonaro, Kabupaten Bobonaro, Timor Timur. Ibu kota kabupatennya bukan di Bobonaro, melainkan di Maliana. Suco Bobonaro berpenduduk 1.532 jiwa.
+        </city:abstract>
+        <city:areaTotalKm>......</city:areaTotalKm>
+        <city:populationTotal>22.756</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bobonaro"/>
+    </city:timorleste>
+
+       
+<city:timorleste rdf:about="https://dbpedia.org/page/Gleno">
+        <city:number>7</city:number>
+        <rdfs:label>Gleno</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+       Gleno adalah sebuah kota di Timor Timur, 30 kilometer (19 mil) di barat daya Dili, ibu kota negara. Letaknya di suco Riheu (pos Administratif Ermera). Gleno memiliki populasi 8.133 (2010). Letaknya 882 meter (2.894 kaki) di atas permukaan laut. Gleno adalah ibu kota kotamadya Ermera. Karena letaknya dekat dengan ibu kota negara, Gleno menderita selama kampanye intimidasi sekitar waktu referendum kemerdekaan Timor Timur pada tahun 1999.
+        </city:abstract>
+        <city:areaTotalKm>.....</city:areaTotalKm>
+        <city:populationTotal>8.133</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Gleno"/>
+</city:timorleste>
+
+    <city:timorleste rdf:about="https://dbpedia.org/page/Liquica">
+        <city:number>8</city:number>
+        <rdfs:label>Liquica</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+       Liquiçá (Tetum: Likisá) adalah sebuah kota pesisir di Timor Timur, 32 km di sebelah barat Dili, ibu kota negara. Liquiçá adalah ibu kota Distrik Liquiçá. Kota ini berpenduduk 5.005 jiwa.
+        </city:abstract>
+        <city:areaTotalKm>355,28</city:areaTotalKm>
+        <city:populationTotal>5.005</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Liquica"/>
+    </city:timorleste>
+
+
+<city:timorleste rdf:about="https://dbpedia.org/page/Lospalos">
+        <city:number>9</city:number>
+        <rdfs:label>Lospalos</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+       Lospalos — terkadang salah ditulis sebagai Los Palos, dengan asumsi etimologi Spanyol tidak ada — adalah sebuah kota di Timor Timur, 248 kilometer (154 mil) di sebelah timur Dili, ibu kota negara. Lospalos berpenduduk 17.186 jiwa (2006) dan merupakan ibu kota Kotamadya Lautém dan Pos Administratif Lospalos. Kecamatan ini berpenduduk 25.417 jiwa (2004). Secara internasional, "Lospalos" salah dieja sebagai Los Palos, menunjukkan asal usul nama tersebut dalam bahasa Spanyol. Sebenarnya berasal dari Lohoasupala, nama dalam Fataluku, bahasa lokal Papua, meski saat ini penutur Fataluku menggunakan nama Lospala. Ejaan yang disukai dalam bahasa Inggris, serta Tetum dan Portugis, bahasa resmi Timor Timur, adalah Lospalos. Lospalos adalah kota kelahiran salah satu pendiri dan presiden partai APODETI.
+        </city:abstract>
+        <city:areaTotalKm>623,93</city:areaTotalKm>
+        <city:populationTotal>12.665</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Lospalos"/>
+    </city:timorleste>
+
+
+<city:timorleste rdf:about="https://dbpedia.org/page/Maliana">
+        <city:number>10</city:number>
+        <rdfs:label>Maliana</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+       Maliana adalah sebuah kota di Timor Timur, 149 kilometer barat daya Dili, ibu kota negara. Ini memiliki populasi 22.000. Merupakan ibu kota Kabupaten Bobonaro dan Kecamatan Maliana, dan terletak hanya beberapa kilometer dari perbatasan dengan Indonesia. Kota ini juga merupakan kota Keuskupan Katolik Roma Maliana, yang dibentuk oleh Paus Benediktus XVI dengan wilayah yang diambil dari Keuskupan Katolik Roma Dili. Maliana merupakan sektor pertanian yang penting, khususnya produksi padi. Mayoritas penduduk Maliana sangat bergantung pada pertanian untuk penghidupan mereka, hal ini karena nasi menjadi makanan pokok yang disukai banyak orang Timor. Mayoritas penduduknya adalah petani yang menanam padi dan jagung. Pada masa pendudukan Indonesia, Maliana menjadi kota lumbung padi untuk mendukung kabupaten lain di Timor Timur, dan mengekspor ke tempat lain di Timor Barat Indonesia. Maliana memiliki tujuh desa yang terdiri dari Lahomea, Holsa, Ritabou, Odomau, Raifun, Tapo-Memo dan Saburai. Terdapat dua sumber air irigasi utama yang menyuplai air ke sawah yaitu Sungai Bulobu, Sungai Nunura, Sungai Malibaka dan Sungai Bui Pira. Bunak dan Kemak adalah dialek asli Maliana tetapi kebanyakan orang memahami dan berbicara bahasa Tetum. Maliana memiliki salah satu sekolah pilihan selama pendudukan Portugis, yang dikenal sebagai Collegio. Hal ini dilakukan di bawah misi Katolik dan banyak orang terpelajar di Timor Timur yang lulus dari SMA ini. Warga Maliana berperan penting dalam angkatan bersenjata Australia antara tahun 1999 dan 2001, selama operasi UNTAET. Dipekerjakan sebagai "Warga Sipil yang Dipekerjakan Secara Lokal" oleh kontingen kecil dari Skuadron Sinyal ke-110, masyarakat Maliana memberikan dukungan dalam negeri, serta intelijen lokal mengenai ancaman milisi Indonesia terhadap tentara dan kontraktor sipil yang bekerja di wilayah tersebut. Wartawan Australia Greg Shackleton dan rekan-rekannya ("Balibo Five") mengajukan laporan berita dari Maliana (saat itu berada di Timor Portugis) sesaat sebelum perjalanan penting mereka ke Balibo pada bulan Oktober 1975.
+        </city:abstract>
+        <city:areaTotalKm>239,35</city:areaTotalKm>
+        <city:populationTotal>22.000</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Maliana"/>
+    </city:timorleste>
+
+        <city:timorleste rdf:about="https://dbpedia.org/page/Manatuto">
+        <city:number>11</city:number>
+        <rdfs:label>Manatuto</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+      Manatuto adalah sebuah kota di Kotamadya Manatuto, Timor Timur. Manatuto Vila berpenduduk 3.692 jiwa (Sensus 2015) dan merupakan ibu kota kecamatan dan kabupaten Manatuto. Letaknya di pantai utara Timor, 64 km (40 mil) (sekitar 50 km (31 mil) saat terbang) di sebelah timur Dili, ibu kota negara, dalam perjalanan ke Baucau. Ibu kota ini terkenal dengan produksi garam dan asam jawa yang melimpah.
+        </city:abstract>
+        <city:areaTotalKm>271,38</city:areaTotalKm>
+        <city:populationTotal>3.692</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Manatuto"/>
+    </city:timorleste>
+
+        <city:timorleste rdf:about="https://dbpedia.org/page/Suai">
+        <city:number>12</city:number>
+        <rdfs:label>Suai</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+       Suai adalah sebuah kota di Timor Timur, di Kecamatan Suai. Kota ini berpenduduk 9.866 jiwa dan terletak 138 kilometer (86 mil) di sebelah barat daya Dili, ibu kota negara. Suai adalah ibu kota Distrik Cova Lima, yang terletak di barat daya negara tersebut. Letaknya hanya beberapa kilometer dari Laut Timor, di sisi selatan pulau. Suai adalah lokasi Pembantaian Gereja Suai pada bulan September 1999. Ini adalah salah satu dari sejumlah pembantaian yang dilakukan oleh milisi pro-Indonesia pada saat Indonesia menarik diri dari Timor Timur. Menyusul peristiwa tahun 1999, Suai mengadakan program persahabatan dengan Kota Port Phillip, sebuah kota tepi teluk di selatan Melbourne, Australia. Bersama-sama mereka berupaya membantu pemulihan komunitas Suai. Suai dilayani oleh Bandara Suai yang diperluas pada tahun 2017.
+        </city:abstract>
+        <city:areaTotalKm>302,6</city:areaTotalKm>
+        <city:populationTotal>9.866</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Suai"/>
+    </city:timorleste>
+
+        <city:timorleste rdf:about="https://dbpedia.org/page/Viqueque">
+        <city:number>13</city:number>
+        <rdfs:label>Viqueque</rdfs:label>
+        <city:country>Timor Leste</city:country>
+        <city:abstract>
+      Viqueque (Portugis: Viqueque, Tetum: Vikeke) adalah sebuah kota di tenggara Timor Timur, 183 km dari Dili, ibu kota negara. Viqueque adalah ibu kota Kotamadya Viqueque dan Pos Administratif Viqueque, dan mempunyai lima suco di bawah kendalinya. Mereka adalah: Uatu-Lari, Uatu-Carbau, Viqueque, Lacluta dan Ossu. Kota ini berpenduduk 6.859 jiwa (2015), pos administratif 20.640 jiwa (2004), kotamadya 65.245 jiwa (2004)
+        </city:abstract>
+        <city:areaTotalKm>.....</city:areaTotalKm>
+        <city:populationTotal>6.859</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Viqueque"/>
+    </city:timorleste>
+
+</rdf:RDF>

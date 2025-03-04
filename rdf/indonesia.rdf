@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:city="http://example.org/schema/city"
+    xmlns:dc="http://purl.org/dc/terms/">
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Banda_Aceh">
+        <city:number>1</city:number>
+        <rdfs:label>Banda Aceh</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Banda Aceh merupakan kota sekaligus ibu kota dari provinsi Aceh, Indonesia. Sebagai pusat pemerintahan provinsi, Kota Banda Aceh menjadi pusat kegiatan ekonomi, politik, sosial dan budaya.
+        </city:abstract>
+        <city:areaTotalKm>61, 36 km2</city:areaTotalKm>
+        <city:populationTotal>268.148 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Banda_Aceh"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Langsa">
+        <city:number>2</city:number>
+        <rdfs:label>Langsa</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Langsa adalah salah satu kota yang berada di provinsi Aceh, Indonesia. Kota Langsa berada kurang lebih 400 km dari kota Banda Aceh. Pada tahun 2021, jumlah penduduk kota Langsa sebanyak 185.622 jiwa, dengan kepadatan 707 jiwa/km².
+        </city:abstract>
+        <city:areaTotalKm>239, 8 km2</city:areaTotalKm>
+        <city:populationTotal>185.622 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Langsa"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Lhokseumawe">
+        <city:number>3</city:number>
+        <rdfs:label>Lhokseumawe</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Lhokseumawe adalah sebuah kota yang berada di provinsi Aceh, Indonesia. Kota ini berada persis di tengah-tengah jalur timur Sumatra. Berada di antara Banda Aceh dan Medan, sehingga kota ini merupakan jalur vital distribusi dan perdagangan di Aceh.
+        </city:abstract>
+        <city:areaTotalKm>181, 1 km2</city:areaTotalKm>
+        <city:populationTotal>203.284 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Lhokseumawe"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Sabang,_Aceh">
+        <city:number>4</city:number>
+        <rdfs:label>Sabang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Sabang adalah salah satu kota di Aceh, Indonesia. Kota ini berupa kepulauan di seberang utara Pulau Sumatra, dengan Pulau Weh sebagai pulau terbesar. Kota Sabang merupakan zona ekonomi bebas Indonesia, ia sering disebut sebagai titik paling utara dan barat Indonesia, tepatnya di Pulau Rondo.
+        </city:abstract>
+        <city:areaTotalKm>122, 1 km2</city:areaTotalKm>
+        <city:populationTotal>34.333 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sabang,_Aceh"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Subulussalam">
+        <city:number>5</city:number>
+        <rdfs:label>Subulussalam</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Subulussalam adalah sebuah kota yang berada di provinsi Aceh, Indonesia. Kota ini dibentuk berdasarkan Undang-Undang Nomor 8 Tahun 2007, pada tanggal 2 Januari 2007, dan merupakan pemekaran dari Kabupaten Aceh Singkil.
+        </city:abstract>
+        <city:areaTotalKm>1.391 km2</city:areaTotalKm>
+        <city:populationTotal>82.390 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Subulussalam"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Denpasar">
+        <city:number>6</city:number>
+        <rdfs:label>Denpasar</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Denpasar adalah ibu kota dan sekaligus menjadi pusat pemerintahan dan perekonomian dari provinsi Bali, Indonesia. Denpasar adalah kota terbesar di Kepulauan Nusa Tenggara dan kota terbesar kedua di wilayah Indonesia Timur setelah Kota Makassar.
+        </city:abstract>
+        <city:areaTotalKm>126 km2</city:areaTotalKm>
+        <city:populationTotal>897.300 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Denpasar"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Pangkal_Pinang">
+        <city:number>7</city:number>
+        <rdfs:label>Pangkal Pinang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Pangkal Pinang adalah ibu kota dan pusat pemerintahan Provinsi Kepulauan Bangka Belitung, Indonesia. Secara astronomis, Kota Pangkalpinang terletak antara 20,4’ sampai dengan 20,10’ Lintang Selatan dan antara 106,04’ sampai dengan 106,07’ Bujur Timur. Kota ini terletak di bagian timur Pulau Bangka.
+        </city:abstract>
+        <city:areaTotalKm>104, 5 km2</city:areaTotalKm>
+        <city:populationTotal>216.893 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pangkalpinang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Cilegon">
+        <city:number>8</city:number>
+        <rdfs:label>Cilegon</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Cilegon adalah sebuah kota yang terletak di bagian barat Banten, Indonesia, tepatnya di tepi Selat Sunda. Kota Cilegon dikenal sebagai "Kota Baja" disebabkan adanya industri baja milik Pemerintah Indonesia, yakni Krakatau Steel. Kota ini berada di wilayah metropolitan Serang Raya.
+        </city:abstract>
+        <city:areaTotalKm>162, 5 km2</city:areaTotalKm>
+        <city:populationTotal>442.803 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Cilegon"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Serang">
+        <city:number>9</city:number>
+        <rdfs:label>Serang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Denpasar adalah ibu kota dan sekaligus menjadi pusat pemerintahan dan perekonomian dari provinsi Bali, Indonesia. Denpasar adalah kota terbesar di Kepulauan Nusa Tenggara dan kota terbesar kedua di wilayah Indonesia Timur setelah Kota Makassar.
+        </city:abstract>
+        <city:areaTotalKm>266, 2 km2</city:areaTotalKm>
+        <city:populationTotal>666.600 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Serang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/South_Tangerang">
+        <city:number>10</city:number>
+        <rdfs:label>Tangerang Selatan</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Tangerang Selatan adalah sebuah kota yang terletak di Provinsi Banten, Indonesia. Kota ini terletak 90 km sebelah tenggara ibu kota Provinsi Banten, yaitu Kota Serang. Kota ini merupakan bagian dari kawasan metropolitan Jakarta Raya dan terletak 30 km di bagian barat Jakarta.
+        </city:abstract>
+        <city:areaTotalKm>164, 8 km2</city:areaTotalKm>
+        <city:populationTotal>1.747.906 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/South_Tangerang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Tangerang">
+        <city:number>11</city:number>
+        <rdfs:label>Tangerang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Tangerang adalah kota yang terletak di Provinsi Banten, Indonesia. Kota ini terletak tepat di sebelah barat DKI Jakarta. Suku aslinya adalah Suku Sunda.
+        </city:abstract>
+        <city:areaTotalKm>164, 6 km2</city:areaTotalKm>
+        <city:populationTotal>1.771.092 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tangerang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Bengkulu">
+        <city:number>12</city:number>
+        <rdfs:label>Bengkulu</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Bengkulu adalah ibu kota Provinsi Bengkulu, Indonesia. Kota ini merupakan kota terbesar kedua di pantai barat Pulau Sumatra, setelah Kota Padang. Sebelumnya kawasan ini suatu kesatuan dengan Kesultanan Palembang Darussalam, Kemudian dikuasai Inggris sebelum diserahkan kepada Belanda.
+        </city:abstract>
+        <city:areaTotalKm>151, 7 km2</city:areaTotalKm>
+        <city:populationTotal>328.827 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bengkulu"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Yogyakarta">
+        <city:number>13</city:number>
+        <rdfs:label>Yogyakarta</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Yogyakarta adalah ibu kota daerah istimewa sekaligus pusat pemerintahan dan perekonomian dari Daerah Istimewa Yogyakarta, Indonesia. Kota ini adalah kota besar yang mempertahankan konsep tradisional dan budaya Jawa.
+        </city:abstract>
+        <city:areaTotalKm>32, 5 km2</city:areaTotalKm>
+        <city:populationTotal>422.732 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Yogyakarta"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Gorontalo">
+        <city:number>14</city:number>
+        <rdfs:label>Gorontalo</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Gorontalo merupakan ibu kota Provinsi Gorontalo, Indonesia sekaligus menjadi kota Kawasan Teluk Tomini di Semenanjung Utara Pulau Sulawesi.
+        </city:abstract>
+        <city:areaTotalKm>79, 59 km2</city:areaTotalKm>
+        <city:populationTotal>210.822 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Gorontalo"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/West_Jakarta">
+        <city:number>15</city:number>
+        <rdfs:label>Kota Administrasi Jakarta Barat</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Jakarta Barat adalah kota administrasi di bagian barat Daerah Khusus Ibukota Jakarta, Indonesia. Pusat pemerintahannya berada di kecamatan Kembangan. Berdiri di tahun 1966 namun Jakarta Barat resmi dibentuk berdasarkan Peraturan Pemerintah Nomor 25 Tahun 1978.
+        </city:abstract>
+        <city:areaTotalKm>129, 5 km2</city:areaTotalKm>
+        <city:populationTotal>2.480.418 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/West_Jakarta"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Central_Jakarta">
+        <city:number>16</city:number>
+        <rdfs:label>Kota Administrasi Jakarta Pusat</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Jakarta Pusat adalah nama sebuah kota administrasi di pusat Daerah Khusus Ibukota Jakarta. Jakarta Pusat adalah administrasi terkecil di provinsi DKI Jakarta. Kantor Wali kota Administrasi Jakarta Pusat terletak di Kecamatan Tanah Abang. Jakarta Pusat dibentuk berdasarkan Peraturan Pemerintah Nomor 25 Tahun 1978.
+        </city:abstract>
+        <city:areaTotalKm>52, 38 km2</city:areaTotalKm>
+        <city:populationTotal>928.109 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Central_Jakarta"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/South_Jakarta">
+        <city:number>17</city:number>
+        <rdfs:label>Kota Administrasi Jakarta Selatan</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Jakarta Selatan adalah nama sebuah Kota Administrasi di bagian selatan Daerah Khusus Ibukota Jakarta. Pusat pemerintahannya berada di Kebayoran Baru. Jakarta Selatan adalah salah satu dari lima Kota Administrasi di DKI Jakarta. Di sebelah Utara, Jakarta Selatan berbatasan dengan Jakarta Barat dan Jakarta Pusat.
+        </city:abstract>
+        <city:areaTotalKm>154, 3 km2</city:areaTotalKm> 
+        <city:populationTotal>2.408.480 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/South_Jakarta"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/East_Jakarta">
+        <city:number>18</city:number>
+        <rdfs:label>Kota Administrasi Jakarta Timur</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Jakarta Timur adalah kota administrasi di bagian Timur DKI Jakarta, Indonesia yang pusat pemerintahannya berada di Kecamatan Cakung. Di sebelah Utara, Jakarta Timur berbatasan dengan kota administrasi Jakarta Utara dan Jakarta Pusat.
+        </city:abstract>
+        <city:areaTotalKm>182, 7 km2</city:areaTotalKm>
+        <city:populationTotal>3.083.883 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/East_Jakarta"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/North_Jakarta">
+        <city:number>19</city:number>
+        <rdfs:label>Kota Administrasi Jakarta Utara</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Jakarta Utara adalah sebuah kota administrasi di bagian Utara Daerah Khusus Ibukota Jakarta, Indonesia. Kantor wali kota Administrasi Jakarta Utara terletak di Kecamatan Tanjung Priok. Jakarta Utara dibentuk berdasarkan Peraturan Pemerintah Nomor 25 Tahun 1978.
+        </city:abstract>
+        <city:areaTotalKm>146, 7 km2</city:areaTotalKm>
+        <city:populationTotal>1.844.462 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/North_Jakarta"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Sungai_Penuh">
+        <city:number>20</city:number>
+        <rdfs:label>Sungai Penuh</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Sungai Penuh adalah kota di provinsi Jambi, Indonesia. Kota ini dibentuk berdasarkan UU RI nomor 25 tahun 2008, yang merupakan pemekaran dari kabupaten Kerinci dan pengesahannya dilakukan oleh Menteri Dalam Negeri pada tanggal 8 Oktober 2009.
+        </city:abstract>
+        <city:areaTotalKm>391, 5 km2</city:areaTotalKm>
+        <city:populationTotal>88.321 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sungai_Penuh"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Jambi">
+        <city:number>21</city:number>
+        <rdfs:label>Jambi</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Jambi adalah sebuah kota di pulau Sumatra sekaligus merupakan ibu kota dari provinsi Jambi, Indonesia. Kota ini merupakan enklave dari kabupaten Muaro Jambi dan dibelah oleh sungai terpanjang di Sumatra yang bernama Batang Hari, kedua kawasan tersebut terhubung oleh Jembatan Aur Duri.
+        </city:abstract>
+        <city:areaTotalKm>205, 4 km2</city:areaTotalKm>
+        <city:populationTotal>612.126 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Jambi"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Bandung">
+        <city:number>22</city:number>
+        <rdfs:label>Bandung</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Bandung dengarkan adalah ibu kota yang sekaligus menjadi pusat pemerintahan dan perekonomian dari provinsi Jawa Barat, Indonesia. Kota Bandung juga merupakan kota terbesar keempat di Indonesia setelah Jakarta, Surabaya, dan Medan.
+        </city:abstract>
+        <city:areaTotalKm>167, 3 km2</city:areaTotalKm>
+        <city:populationTotal>2.527.854 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bandung"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Bekasi">
+        <city:number>23</city:number>
+        <rdfs:label>Bekasi</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Bekasi merupakan salah satu kota yang terdapat di Provinsi Jawa Barat, Indonesia. Nama Bekasi berasal dari kata Bagasasi yang artinya sama dengan Candrabaga yang tertulis di dalam Prasasti Tugu era Kerajaan Tarumanegara, yaitu nama sungai yang melewati kota ini.
+        </city:abstract>
+        <city:areaTotalKm>210, 5 km2</city:areaTotalKm>
+        <city:populationTotal>2.543.676 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bekasi"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Bogor">
+        <city:number>24</city:number>
+        <rdfs:label>Bogor</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Bogor adalah sebuah wilayah kota yang terletak di Provinsi Jawa Barat, Indonesia.
+        </city:abstract>
+        <city:areaTotalKm>118, 59 km2</city:areaTotalKm>
+        <city:populationTotal>1.122.772 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bogor"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Cimahi">
+        <city:number>25</city:number>
+        <rdfs:label>Cimahi</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Cimahi adalah sebuah kota yang berada di Jawa Barat, Indonesia. Sebelumnya kota ini masih menjadi bagian dari Kabupaten Bandung hingga ditetapkan sebagai kota administratif pada 29 Januari 1976 dan akhirnya ditetapkan sebagai kota pada 21 Juni 2001. Kota Cimahi terdiri atas 3 kecamatan dan 15 kelurahan.
+        </city:abstract>
+        <city:areaTotalKm>42, 48 km2</city:areaTotalKm>
+        <city:populationTotal>614.304 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Cimahi"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Cirebon">
+        <city:number>26</city:number>
+        <rdfs:label>Cirebon</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Cirebon, adalah salah satu kota yang berada di provinsi Jawa Barat, Indonesia. Kota ini berada di pesisir utara Pulau Jawa yang menghubungkan Jakarta dengan Surabaya di lintas utara dan tengah Jawa.
+        </city:abstract>
+        <city:areaTotalKm>37, 36 km2</city:areaTotalKm>
+        <city:populationTotal>322.322 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Cirebon"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Depok">
+        <city:number>27</city:number>
+        <rdfs:label>Depok</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Depok adalah sebuah kota yang terletak di Provinsi Jawa Barat, Indonesia. Kota Depok merupakan bagian dari kawasan metropolitan Jabodetabekpunjur dan berada di bagian selatan Daerah Khusus Ibukota Jakarta.
+        </city:abstract>
+        <city:areaTotalKm>199, 9 km2</city:areaTotalKm>
+        <city:populationTotal>1.927.867 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Depok"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Sukabumi">
+        <city:number>28</city:number>
+        <rdfs:label>Sukabumi</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Sukabumi adalah sebuah kota yang berada di provinsi Jawa Barat, Indonesia. Kota ini merupakan enklave dari Kabupaten Sukabumi. Luas wilayah Kota Sukabumi berada di urutan ketiga terkecil di Jawa Barat setelah Kota Cirebon dan Kota Cimahi, yakni 48,33 km².
+        </city:abstract>
+        <city:areaTotalKm>48, 33 km2</city:areaTotalKm>
+        <city:populationTotal>318.117 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sukabumi"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Tasikmalaya">
+        <city:number>29</city:number>
+        <rdfs:label>Tasikmalaya</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Tasikmalaya adalah salah satu kota yang berada di provinsi Jawa Barat, Indonesia. Kota ini berjuluk Sang Mutiara dari Priangan Timur. Kota Tasikmalaya terletak di jalur utama selatan Pulau Jawa di wilayah provinsi Jawa Barat.
+        </city:abstract>
+        <city:areaTotalKm>184, 2 km2</city:areaTotalKm>
+        <city:populationTotal>657.477 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tasikmalaya"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Banjar,_West_Java">
+        <city:number>30</city:number>
+        <rdfs:label>Banjar</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Banjar adalah sebuah kota di Provinsi Jawa Barat, Indonesia. Kota Banjar berlokasi di perbatasan dengan Provinsi Jawa Tengah, yakni dengan Kabupaten Cilacap sehingga kota ini sering disebut sebagai "gerbangnya Jawa Barat".
+        </city:abstract>
+        <city:areaTotalKm>132 km2</city:areaTotalKm>
+        <city:populationTotal>182.189 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Banjar,_West_Java"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Magelang">
+        <city:number>31</city:number>
+        <rdfs:label>Magelang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Magelang adalah salah satu kota yang terletak di provinsi Jawa Tengah, Indonesia. Kota Magelang merupakan enklave dari Kabupaten Magelang, yang terletak pada jalan raya antara Kota Semarang–Kota Yogyakarta.
+        </city:abstract>
+        <city:areaTotalKm>18, 54 km2</city:areaTotalKm>
+        <city:populationTotal>127.251 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Magelang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Pekalongan">
+        <city:number>32</city:number>
+        <rdfs:label>Pekalongan</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Pekalongan adalah kota di provinsi Jawa Tengah, Indonesia. Kota ini merupakan pelabuhan terpenting di Jawa Tengah dan terkenal dengan batiknya. Pekalongan merupakan kota pertama di Indonesia dan kota Asia Tenggara pertama yang menjadi bagian dari Jaringan Kota Kreatif UNESCO.
+        </city:abstract>
+        <city:areaTotalKm>45, 25 km2</city:areaTotalKm>
+        <city:populationTotal>307097 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pekalongan"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Salatiga">
+        <city:number>33</city:number>
+        <rdfs:label>Salatiga</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Salatiga adalah salah satu kota yang berada di provinsi Jawa Tengah, Indonesia, yang menjadi enklave dari Kabupaten Semarang.
+        </city:abstract>
+        <city:areaTotalKm>54, 98 km2</city:areaTotalKm>
+        <city:populationTotal>194.084 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Denpasar"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Semarang">
+        <city:number>34</city:number>
+        <rdfs:label>Semarang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Semarang adalah ibu kota provinsi Jawa Tengah, Indonesia. Kota ini adalah kota metropolitan terbesar kelima di Indonesia setelah Jakarta, Surabaya, Bandung, dan Medan.
+        </city:abstract>
+        <city:areaTotalKm>373, 8 km2</city:areaTotalKm>
+        <city:populationTotal>1.693.035 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Semarang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Surakarta">
+        <city:number>35</city:number>
+        <rdfs:label>Surakarta</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Surakarta atau Solo adalah kota di provinsi Jawa Tengah, Indonesia, dengan luas 44,04 km². Kota ini juga merupakan kota terbesar ketiga di pulau Jawa bagian Selatan setelah Kota Bandung dan Kota Malang menurut jumlah penduduk.
+        </city:abstract>
+        <city:areaTotalKm>46, 72 km2</city:areaTotalKm>
+        <city:populationTotal>575.230 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Surakarta"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Tegal">
+        <city:number>36</city:number>
+        <rdfs:label>Tegal</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Tegal adalah salah satu kota di provinsi Jawa Tengah, Indonesia. Kota ini pernah menjadi cikal-bakal berdirinya Korps Marinir seperti tercatat dalam Pangkalan IV ALRI Tegal dengan nama Corps Mariniers, pada 15 November 1945.
+        </city:abstract>
+        <city:areaTotalKm>39, 24 km2</city:areaTotalKm>
+        <city:populationTotal>276.734 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tegal"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Batu,_East_Java">
+        <city:number>37</city:number>
+        <rdfs:label>Batu</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Batu adalah sebuah kota wisata di Provinsi Jawa Timur, Indonesia. Kota ini terletak 90 km sebelah barat daya Surabaya atau 15 km sebelah barat laut Malang. Kota Batu berada di jalur yang menghubungkan Malang-Kediri dan Jombang.
+        </city:abstract>
+        <city:areaTotalKm>194, 2 km2</city:areaTotalKm>
+        <city:populationTotal>214.653 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Batu,_East_Java"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Blitar">
+        <city:number>38</city:number>
+        <rdfs:label>Blitar</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Blitar adalah salah satu kabupaten di Provinsi Jawa Timur, Indonesia. Ibu kota kabupaten ini berada di kecamatan Kanigoro setelah sebelumnya satu wilayah dengan Kota Blitar.
+        </city:abstract>
+        <city:areaTotalKm>32 km2</city:areaTotalKm>
+        <city:populationTotal>150.371 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Blitar"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Kediri_(city)">
+        <city:number>39</city:number>
+        <rdfs:label>Kediri</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kediri adalah sebuah kota yang berada di provinsi Jawa Timur, Indonesia. Kota ini terletak sekitar 130 km sebelah Barat Daya Kota Surabaya dan merupakan kota terbesar ketiga di provinsi Jawa Timur setelah Kota Surabaya dan Kota Malang menurut jumlah penduduk. Kota Kediri merupakan kota tertua yang ada di Jawa Timur.
+        </city:abstract>
+        <city:areaTotalKm>67, 2 km2</city:areaTotalKm>
+        <city:populationTotal>293.950 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kediri_(city)"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Madiun">
+        <city:number>40</city:number>
+        <rdfs:label>Madiun</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Madiun adalah sebuah kota di provinsi Jawa Timur, Indonesia. Kota terbesar ke-4 di Jawa Timur setelah Surabaya, Malang, dan Kediri ini terletak 150 km sebelah barat Surabaya, 90 km sebelah timur Surakarta, Jawa Tengah dan 33 km sebelah tenggara Ngawi.
+        </city:abstract>
+        <city:areaTotalKm>33, 73 km2</city:areaTotalKm>
+        <city:populationTotal>210.115 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Madiun"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Malang">
+        <city:number>41</city:number>
+        <rdfs:label>Malang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Malang adalah sebuah kota yang terletak di provinsi Jawa Timur, Indonesia, Kota terbesar kedua di Jawa Timur setelah Surabaya, dan kota terbesar ke-12 di Indonesia. Kota ini didirikan pada masa Pemerintahan Belanda pada tanggal 1 April 1914 dengan E.K Broeveldt sebagai wali kota pertama.
+        </city:abstract>
+        <city:areaTotalKm>111, 1 km2</city:areaTotalKm>
+        <city:populationTotal>887.443 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Malang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Mojokerto">
+        <city:number>42</city:number>
+        <rdfs:label>Mojokerto</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Mojokerto adalah sebuah kota di Provinsi Jawa Timur, Indonesia. Kota ini terletak 50 km barat daya Kota Surabaya. Kota Mojokerto merupakan salah satu wilayah yang masuk dalam kawasan metropolitan Surabaya, yaitu Gerbangkertosusila. Wilayah Kota Mojokerto merupakan enklave dari Kabupaten Mojokerto.
+        </city:abstract>
+        <city:areaTotalKm>16, 46 km2</city:areaTotalKm>
+        <city:populationTotal>132.434 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Mojokerto"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Pasuruan">
+        <city:number>43</city:number>
+        <rdfs:label>Pasuruan</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Pasuruan adalah sebuah kota yang berada di provinsi Jawa Timur, Indonesia. Kota Pasuruan terletak 60 km sebelah tenggara Kota Surabaya, ibu kota provinsi Jawa Timur dan 355 km sebelah barat laut Kota Denpasar, Bali. Seluruh wilayah Kota Pasuruan berbatasan dengan Kabupaten Pasuruan.
+        </city:abstract>
+        <city:areaTotalKm>38, 99 km2</city:areaTotalKm>
+        <city:populationTotal>191.494 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pasuruan"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Probolinggo">
+        <city:number>44</city:number>
+        <rdfs:label>Probolinggo</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Probolinggo adalah sebuah kota di Provinsi Jawa Timur, Indonesia. Terletak sekitar 100 km sebelah tenggara Surabaya, Kota Probolinggo berbatasan dengan Selat Madura di sebelah utara, serta Kabupaten Probolinggo di sebelah timur, selatan, dan barat.
+        </city:abstract>
+        <city:areaTotalKm>56, 68 km2</city:areaTotalKm>
+        <city:populationTotal>223.159 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Probolinggo"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Surabaya">
+        <city:number>45</city:number>
+        <rdfs:label>Surabaya</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Surabaya adalah ibu kota Provinsi Jawa Timur yang menjadi pusat pemerintahan dan perekonomian dari Provinsi Jawa Timur sekaligus kota terbesar di provinsi tersebut. Surabaya juga merupakan sebuah kota yang terletak di Provinsi Jawa Timur, Indonesia.
+        </city:abstract>
+        <city:areaTotalKm>350, 5 km2</city:areaTotalKm>
+        <city:populationTotal>2.997.547 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Surabaya"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Pontianak">
+        <city:number>46</city:number>
+        <rdfs:label></rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Pontianak adalah ibu kota Provinsi Kalimantan Barat, Indonesia yang sekaligus menjadi pusat pemerintahan dan perekonomian dari Provinsi Kalimantan Barat.
+        </city:abstract>
+        <city:areaTotalKm>118, 3 km2</city:areaTotalKm>
+        <city:populationTotal>646.661 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pontianak"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Singkawang">
+        <city:number>47</city:number>
+        <rdfs:label>Singkawang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Singkawang atau Sakawokng dalam bahasa Dayak Salako atau San-Khew-Jong adalah sebuah kota yang terletak di provinsi Kalimantan Barat, Indonesia. Kota ini terletak di sekitar 145 km sebelah utara dari ibu kota provinsi, Kota Pontianak, dan dikelilingi oleh pegunungan Pasi, Poteng, dan Sakkok.
+        </city:abstract>
+        <city:areaTotalKm>504 km2</city:areaTotalKm>
+        <city:populationTotal>222.910 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Singkawang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Banjarbaru">
+        <city:number>48</city:number>
+        <rdfs:label>Banjarbaru</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Banjarbaru adalah salah satu kota dan sekaligus menjadi ibu kota dari provinsi Kalimantan Selatan, Indonesia. Status Banjarbaru sebagai ibu kota provinsi Kalimantan Selatan telah ditetapkan, menggantikan Kota Banjarmasin, berdasarkan Undang-Undang Nomor 8 Tahun 2022.
+        </city:abstract>
+        <city:areaTotalKm>305, 2 km2</city:areaTotalKm>
+        <city:populationTotal>248.423 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Banjarbaru"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Banjarmasin">
+        <city:number>49</city:number>
+        <rdfs:label>Banjarmasin</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Banjarmasin adalah kota terbesar di Kalimantan Selatan, yang berada di Indonesia. Kota ini pernah menjadi ibu kota provinsi Kalimantan dan provinsi Kalimantan Selatan.
+        </city:abstract>
+        <city:areaTotalKm>98, 46 km2</city:areaTotalKm>
+        <city:populationTotal>700.869 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Banjarmasin"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Palangka_Raya">
+        <city:number>50</city:number>
+        <rdfs:label>Palangka Raya</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Palangka Raya adalah sebuah kota dan juga sebagai ibu kota dari provinsi Kalimantan Tengah, Indonesia. Kota ini memiliki luas wilayah 2.853,12 km².
+        </city:abstract>
+        <city:areaTotalKm>2.853 km2</city:areaTotalKm>
+        <city:populationTotal>281.096 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Palangka_Raya"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Balikpapan">
+        <city:number>51</city:number>
+        <rdfs:label>Balikpapan</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Balikpapan adalah sebuah kota di provinsi Kalimantan Timur, Indonesia. Sebagai pusat bisnis dan industri, kota ini memiliki perekonomian terbesar di seluruh Kalimantan, dengan total PDRB mencapai Rp79,65 triliun pada tahun 2016.
+        </city:abstract>
+        <city:areaTotalKm>503, 3 km2</city:areaTotalKm>
+        <city:populationTotal>852.046 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Balikpapan"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Bontang">
+        <city:number>52</city:number>
+        <rdfs:label>Bontang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Bontang adalah sebuah kota di provinsi Kalimantan Timur, Indonesia. Kota ini terletak sekitar 120 kilometer dari Kota Samarinda, berbatasan langsung dengan Kabupaten Kutai Timur di utara dan barat, Kabupaten Kutai Kartanegara di selatan dan Selat Makassar di timur.
+        </city:abstract>
+        <city:areaTotalKm>161, 9 km2</city:areaTotalKm>
+        <city:populationTotal>170.611 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bontang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Samarinda">
+        <city:number>53</city:number>
+        <rdfs:label>Samarinda</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Samarinda merupakan ibu kota dari provinsi Kalimantan Timur, Indonesia serta kota dengan penduduk terbesar di seluruh Pulau Kalimantan.
+        </city:abstract>
+        <city:areaTotalKm>718 km2</city:areaTotalKm>
+        <city:populationTotal>849.717 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Samarinda"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Tarakan">
+        <city:number>54</city:number>
+        <rdfs:label>Tarakan</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Tarakan adalah sebuah kota di Provinsi Kalimantan Utara, Indonesia dan juga merupakan kota terbesar di Kalimantan Utara. Kota ini memiliki luas wilayah 249,65 km².
+        </city:abstract>
+        <city:areaTotalKm>249, 65 km2</city:areaTotalKm>
+        <city:populationTotal>270.894 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tarakan"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Batam">
+        <city:number>55</city:number>
+        <rdfs:label>Batam</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Batam adalah kota terbesar di provinsi Kepulauan Riau, Indonesia. Wilayah Kota Batam terdiri dari Pulau Batam, Pulau Rempang dan Pulau Galang dan pulau-pulau kecil lainnya di kawasan Selat Singapura dan Selat Malaka. Pulau Batam, Rempang, dan Galang terkoneksi oleh Jembatan Barelang.
+        </city:abstract>
+        <city:areaTotalKm>1.575 km2</city:areaTotalKm>
+        <city:populationTotal>1.196.396 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Batam"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Tanjungpinang">
+        <city:number>56</city:number>
+        <rdfs:label>Tanjungpinang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Tanjungpinang atau sering juga ditulis Tanjung Pinang adalah ibu kota dari provinsi Kepulauan Riau, Indonesia. Kota ini terletak di Pulau Bintan dan beberapa pulau kecil seperti Pulau Dompak dan Pulau Penyengat, dengan koordinat 0º5' LU dan 104º27' BT.
+        </city:abstract>
+        <city:areaTotalKm>812, 7 km2</city:areaTotalKm>
+        <city:populationTotal>227.663 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tanjungpinang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Bandar_Lampung">
+        <city:number>57</city:number>
+        <rdfs:label>Bandar Lampung</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Bandar Lampung adalah sebuah kota di Indonesia sekaligus ibu kota provinsi dan kota terbesar di provinsi Lampung. Dengan kepadatan 5.332/km², Kota Bandar Lampung merupakan salah satu kota terpadat di Pulau Sumatra, serta termasuk salah satu kota besar di Indonesia dan Kota terpadat di luar Pulau Jawa.
+        </city:abstract>
+        <city:areaTotalKm>197, 2 km2</city:areaTotalKm>
+        <city:populationTotal>1.033.803 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bandar_Lampung"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Metro_(city)">
+        <city:number>58</city:number>
+        <rdfs:label>Metro</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Metro adalah kota di provinsi Lampung, Indonesia. Berjarak sekitar 52 km dari Kota Bandar Lampung, ibu kota provinsi Lampung, serta merupakan kota terbesar kedua di provinsi Lampung.
+        </city:abstract>
+        <city:areaTotalKm>68, 74 km2</city:areaTotalKm>
+        <city:populationTotal>158.415 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Metro_(city)"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Ternate">
+        <city:number>59</city:number>
+        <rdfs:label>Ternate</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Ternate adalah sebuah kota yang berada di bawah kaki gunung api Gamalama di Pulau Ternate, provinsi Maluku Utara, Indonesia. Kota Ternate pernah menjadi ibu kota sementara provinsi Maluku Utara secara de facto dari tahun 1999 hingga 2010.
+        </city:abstract>
+        <city:areaTotalKm>76 km2</city:areaTotalKm>
+        <city:populationTotal>212.997 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Ternate"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Tidore">
+        <city:number>60</city:number>
+        <rdfs:label>Tidore Kepulauan</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Tidore Kepulauan adalah salah satu kota yang berada di provinsi Maluku Utara, Indonesia. Kota ini memiliki luas wilayah yaitu 1.550,37 km², yang menjadikannya kota terluas ketiga di Indonesia setelah Kota Palangka Raya dan Kota Dumai. Kota Tidore Kepulauan berpusat pemerintahan di Kelurahan Soasiu, Pulau Tidore.
+        </city:abstract>
+        <city:areaTotalKm>1.550, 37 km2</city:areaTotalKm>
+        <city:populationTotal>111.431 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tidore"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Tual">
+        <city:number>62</city:number>
+        <rdfs:label>Tual</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Tual adalah sebuah kota di Provinsi Maluku, Indonesia. Kota Tual pernah menjadi bagian dari Kabupaten Maluku Tenggara sebelum Undang-Undang Republik Indonesia Nomor 31 Tahun 2007 disahkan.
+        </city:abstract>
+        <city:areaTotalKm>254, 4 km2</city:areaTotalKm>
+        <city:populationTotal>67.783 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tual"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Bima">
+        <city:number>63</city:number>
+        <rdfs:label>Bima</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Bima, atau oleh suku Mbojo disebut dengan nama Dana Mbojo, adalah sebuah kota yang terletak di Pulau Sumbawa bagian Timur, provinsi Nusa Tenggara Barat, Indonesia.
+        </city:abstract>
+        <city:areaTotalKm>207, 9 km2</city:areaTotalKm>
+        <city:populationTotal>173.031 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bima"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Mataram_(city)">
+        <city:number>64</city:number>
+        <rdfs:label>Mataram</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Mataram merupakan ibu kota provinsi Nusa Tenggara Barat, Indonesia. Adat Sasak cukup mewarnai masyarakat di kota ini. Mataram merupakan bagian dari Mataram Raya kawasan metropolitan terbesar kedua di Kepulauan Nusa Tenggara setelah Sarbagita.
+        </city:abstract>
+        <city:areaTotalKm>61, 3 km2</city:areaTotalKm>
+        <city:populationTotal>486.715 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Mataram_(city)"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Kupang">
+        <city:number>65</city:number>
+        <rdfs:label>Kupang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Kupang adalah sebuah kota dan sekaligus ibu kota provinsi Nusa Tenggara Timur, Indonesia. Kota Kupang adalah kota yang terbesar di Pulau Timor yang terletak di pesisir Teluk Kupang, bagian barat laut Pulau Timor.
+        </city:abstract>
+        <city:areaTotalKm>180, 3 km2</city:areaTotalKm>
+        <city:populationTotal>434.972 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kupang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Sorong">
+        <city:number>66</city:number>
+        <rdfs:label>Sorong</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Sorong adalah ibukota provinsi Papua Barat Daya, Indonesia. Kota ini dikenal dengan sebutan Kota Minyak, di mana Nederlands Nieuw-Guinea Petroleum Maatschappij mulai melakukan aktivitas pengeboran minyak bumi di Sorong sejak tahun 1935. Sorong adalah kota terbesar kedua di Papua Indonesia, setelah Kota Jayapura.
+        </city:abstract>
+        <city:areaTotalKm>1.105 km2</city:areaTotalKm>
+        <city:populationTotal>254.294 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sorong"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Jayapura">
+        <city:number>67</city:number>
+        <rdfs:label>Jayapura</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Jayapura adalah sebuah kota dan juga ibu kota dari Provinsi Papua, Indonesia. Kota ini merupakan ibu kota provinsi yang terletak paling Timur di Indonesia, dan berbatasan langsung dengan negara tetangga Papua Nugini, yang terletak di Teluk Jayapura. Kota ini didirikan oleh Kapten Infanteri F.J.P.
+        </city:abstract>
+        <city:areaTotalKm>940 km2</city:areaTotalKm>
+        <city:populationTotal>315.872 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Jayapura"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Dumai">
+        <city:number>68</city:number>
+        <rdfs:label>Dumai</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Dumai adalah sebuah kota di provinsi Riau, Indonesia, sekitar 201 km dari Kota Pekanbaru. Kota Dumai adalah kota dengan wilayah administrasi terluas kedua di Indonesia berdasarkan statusnya sebagai kotamadya, setelah Kota Palangka Raya. Kota ini berawal dari sebuah dusun kecil di pesisir timur Provinsi Riau.
+        </city:abstract>
+        <city:areaTotalKm>1.727 km2</city:areaTotalKm>
+        <city:populationTotal>302.623 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Dumai"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Pekanbaru">
+        <city:number>69</city:number>
+        <rdfs:label>Pekanbaru</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Pekanbaru adalah ibu kota dan kota terbesar di provinsi Riau, Indonesia. Kota ini merupakan salah satu sentra ekonomi terbesar di pulau Sumatra dan termasuk kota dengan tingkat pertumbuhan, migrasi, dan urbanisasi yang tinggi.
+        </city:abstract>
+        <city:areaTotalKm>632, 3 km2</city:areaTotalKm>
+        <city:populationTotal>983.356 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pekanbaru"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Makassar">
+        <city:number>70</city:number>
+        <rdfs:label>Makassar</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Makassar adalah ibu kota provinsi Sulawesi Selatan, Indonesia. Sebelumnya, kota yang sejak 1971 hingga 1999 dikenal secara resmi sebagai Ujung Pandang ini merupakan kota terbesar di wilayah Indonesia.
+        </city:abstract>
+        <city:areaTotalKm>175, 8 km2</city:areaTotalKm>
+        <city:populationTotal>1.168.258 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Makassar"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Palopo">
+        <city:number>71</city:number>
+        <rdfs:label>Palopo</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Palopo adalah sebuah kota di provinsi Sulawesi Selatan, Indonesia. Kota Palopo sebelumnya berstatus kota administratif sejak 1986 dan merupakan bagian dari Kabupaten Luwu yang kemudian berubah menjadi kota pada tahun 2002 sesuai dengan Undang-Undang Nomor 11 Tahun 2002 tanggal 10 April 2002.
+        </city:abstract>
+        <city:areaTotalKm>247, 5 km2</city:areaTotalKm>
+        <city:populationTotal>184.681 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Palopo"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Parepare">
+        <city:number>72</city:number>
+        <rdfs:label>Parepare</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Parepare adalah sebuah kota di provinsi Sulawesi Selatan, Indonesia. Kota ini memiliki luas wilayah 99,33 km² dan berpenduduk sebanyak 154.854 jiwa. Kota Parepare merupakan tempat kelahiran Presiden Republik Indonesia ke-3 yaitu B.J. Habibie.
+        </city:abstract>
+        <city:areaTotalKm>99, 33 km2</city:areaTotalKm>
+        <city:populationTotal>154.854 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Parepare"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Palu">
+        <city:number>73</city:number>
+        <rdfs:label>Palu</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Palu adalah sebuah kota yang di tepi laut dan sekaligus Ibukota dari provinsi Sulawesi Tengah, Indonesia. Palu merupakan kota yang terletak di Sulawesi Tengah, berbatasan dengan Kabupaten Donggala di sebelah barat dan utara, Kabupaten Sigi di sebelah selatan, dan Kabupaten Parigi Moutong di sebelah timur.
+        </city:abstract>
+        <city:areaTotalKm>395, 1 km2</city:areaTotalKm>
+        <city:populationTotal>367.600 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Palu"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Baubau">
+        <city:number>74</city:number>
+        <rdfs:label>Baubau</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Baubau adalah sebuah kota di Pulau Buton, Sulawesi Tenggara, Indonesia. Baubau memperoleh status kota pada tanggal 21 Juni 2001 berdasarkan UU No. 13 Tahun 2001. Luas kota ini 295,072 km² dengan jumlah penduduk 167.519 jiwa.
+        </city:abstract>
+        <city:areaTotalKm>295 km2</city:areaTotalKm>
+        <city:populationTotal>167.519 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Baubau"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Kendari">
+        <city:number>75</city:number>
+        <rdfs:label>Kendari</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kendari adalah nama kotamadya dan juga sebagai ibukota dari provinsi Sulawesi Tenggara, Indonesia. Kendari diresmikan sebagai kotamadya dengan UU RI No. 6 Tahun 1995 tanggal 27 September 1995.
+        </city:abstract>
+        <city:areaTotalKm>271, 8 km2</city:areaTotalKm>
+        <city:populationTotal>359.371 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kendari"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Bitung">
+        <city:number>76</city:number>
+        <rdfs:label>Bitung</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Bitung adalah salah satu kota di provinsi Sulawesi Utara, Indonesia. Kota yang dari suku bangsa Minahasa sub etnis Tonsea ini memiliki perkembangan yang cepat karena terdapat pelabuhan laut yang mendorong percepatan pembangunan. Kota Bitung terletak di timur laut Tanah Minahasa.
+        </city:abstract>
+        <city:areaTotalKm>313, 5 km2</city:areaTotalKm>
+        <city:populationTotal>220.700 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bitung"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Kotamobagu">
+        <city:number>77</city:number>
+        <rdfs:label>Kotamobagu</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kotamobagu adalah kota di provinsi Sulawesi Utara, Indonesia. Kota ini dibentuk berdasarkan Undang-Undang Nomor 4 Tahun 2007 pada tanggal 2 Januari 2007.
+        </city:abstract>
+        <city:areaTotalKm>108, 9 km2</city:areaTotalKm>
+        <city:populationTotal>123.653 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kotamobagu"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Manado">
+        <city:number>78</city:number>
+        <rdfs:label>Manado</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Manado atau Menado adalah ibu kota dari provinsi Sulawesi Utara, Indonesia. Kota Manado memiliki 11 kecamatan serta 87 kelurahan dan desa.
+        </city:abstract>
+        <city:areaTotalKm>157, 3 km2</city:areaTotalKm>
+        <city:populationTotal>432.300 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Manado"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Tomohon">
+        <city:number>79</city:number>
+        <rdfs:label>Tomohon</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Tomohon adalah kota di provinsi Sulawesi Utara, Indonesia, yang merupakan enklave dari Kabupaten Minahasa. Sebelum tahun 2003, Tomohon merupakan salah satu kecamatan di Kabupaten Minahasa.
+        </city:abstract>
+        <city:areaTotalKm>147, 2 km2</city:areaTotalKm>
+        <city:populationTotal>107.600 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tomohon"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Bukittinggi">
+        <city:number>80</city:number>
+        <rdfs:label>Bukittinggi</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Bukittinggi adalah kota dengan perekonomian terbesar kedua di Provinsi Sumatera Barat, Indonesia. Sebagai enklave dari Kabupaten Agam, kota ini pernah menjadi ibu kota Indonesia pada masa Pemerintahan Darurat Republik Indonesia. Kota ini juga pernah menjadi ibu kota Provinsi Sumatra dan Provinsi Sumatra Tengah.
+        </city:abstract>
+        <city:areaTotalKm>25, 24 km2</city:areaTotalKm>
+        <city:populationTotal>117.097 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bukittinggi"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Padang">
+        <city:number>81</city:number>
+        <rdfs:label>Padang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Padang adalah kota terbesar di pantai barat Pulau Sumatra sekaligus ibu kota Provinsi Sumatera Barat, Indonesia. Kota ini adalah pintu gerbang barat Indonesia dari Samudra Hindia.
+        </city:abstract>
+        <city:areaTotalKm>695 km2</city:areaTotalKm>
+        <city:populationTotal>914.970 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Padang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Padang_Panjang">
+        <city:number>82</city:number>
+        <rdfs:label>Padang Panjang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Padang Panjang adalah salah satu kota dengan luas wilayah terkecil yang ada di Provinsi Sumatera Barat, Indonesia. Kota ini memiliki julukan sebagai, dan juga dikenal sebagai Mesir van Andalas. Sementara wilayah administratif kota ini dikelilingi oleh wilayah administratif Kabupaten Tanah Datar.
+        </city:abstract>
+        <city:areaTotalKm>23 km2</city:areaTotalKm>
+        <city:populationTotal>54.421 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Padang_Panjang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Pariaman">
+        <city:number>83</city:number>
+        <rdfs:label></rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Pariaman adalah sebuah kota yang terletak di provinsi Sumatera Barat, Indonesia. Kota ini berjarak sekitar 56 km dari Kota Padang atau 25 km dari Bandara Internasional Minangkabau.
+        </city:abstract>
+        <city:areaTotalKm>73, 36 km2</city:areaTotalKm>
+        <city:populationTotal>83.151 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pariaman"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Payakumbuh">
+        <city:number>84</city:number>
+        <rdfs:label>Payakumbuh</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Payakumbuh adalah sebuah kota yang berada di provinsi Sumatera Barat, Indonesia. Kota Payakumbuh merupakan daerah kantong' dari Kabupaten Lima Puluh Kota.
+        </city:abstract>
+        <city:areaTotalKm>80, 42 km2</city:areaTotalKm>
+        <city:populationTotal>136.837 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Payakumbuh"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Sawahlunto">
+        <city:number>85</city:number>
+        <rdfs:label>Sawahlunto</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Sawahlunto adalah salah satu kota yang berada di provinsi Sumatera Barat, Indonesia. Kota yang terletak 95 km sebelah timur laut kota Padang ini, dikelilingi oleh tiga kabupaten di Sumatera Barat, yaitu kabupaten Tanah Datar, kabupaten Solok, dan kabupaten Sijunjung.
+        </city:abstract>
+        <city:areaTotalKm>273, 4 km2</city:areaTotalKm>
+        <city:populationTotal>62.524 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sawahlunto"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Solok">
+        <city:number>86</city:number>
+        <rdfs:label>Solok</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Kota Solok Merupakan salah satu kotamadya yang berada di provinsi Sumatera Barat, Indonesia. Lokasi kota Solok sangat strategis, karena terletak pada persimpangan jalan antar provinsi dan antar kabupaten/kota.
+        </city:abstract>
+        <city:areaTotalKm>58, 72 km2</city:areaTotalKm>
+        <city:populationTotal>76.271 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Solok"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Lubuklinggau">
+        <city:number>87</city:number>
+        <rdfs:label>Lubuklinggau</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Lubuklinggau adalah suatu kota setingkat kabupaten paling barat wilayah provinsi Sumatera Selatan. Dengan jumlah Populasi tahun 2022, yang terletak pada posisi antara 102 º 40' 0” - 103 º 0' 0” bujur.
+        </city:abstract>
+        <city:areaTotalKm>401, 5 km2</city:areaTotalKm>
+        <city:populationTotal>240.238 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Lubuklinggau"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Pagar_Alam">
+        <city:number>88</city:number>
+        <rdfs:label>Pagar Alam</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Pagar Alam adalah kota di Provinsi Sumatera Selatan, Indonesia. Kota ini yang dibentuk berdasarkan Undang–Undang Nomor 8 Tahun 2001, sebelumnya kota Pagar Alam termasuk kota administratif dalam lingkungan Kabupaten Lahat.
+        </city:abstract>
+        <city:areaTotalKm>633, 7 km2</city:areaTotalKm>
+        <city:populationTotal>143.840 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pagar_Alam"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Palembang">
+        <city:number>89</city:number>
+        <rdfs:label>Palembang</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Palembang adalah ibu kota provinsi Sumatera Selatan, Indonesia. Kota dengan luas wilayah 400,61 km² ini dihuni oleh lebih dari 1,7 juta penduduk pada tahun Juni 2022.
+        </city:abstract>
+        <city:areaTotalKm>400, 6 km2</city:areaTotalKm>
+        <city:populationTotal>1.707.996 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Palembang"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Prabumulih">
+        <city:number>90</city:number>
+        <rdfs:label>Prabumulih</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Prabumulih adalah kota di Provinsi Sumatera Selatan, Indonesia. Dahulu, Prabumulih berstatus sebagai kota administratif dari kabupaten induk, Muara Enim, berdasarkan Peraturan Pemerintah Republik Indonesia Nomor 18 Tahun 1982.
+        </city:abstract>
+        <city:areaTotalKm>477, 1 km2</city:areaTotalKm>
+        <city:populationTotal>173.857 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Prabumulih"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Binjai">
+        <city:number>91</city:number>
+        <rdfs:label>Binjai</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Binjai adalah salah satu kota di Provinsi Sumatera Utara, Indonesia. Binjai terletak sekitar 22 km di sebelah barat ibu kota Provinsi Sumatera Utara, yaitu Kota Medan. Sebelum berstatus kota, Binjai adalah ibu kota Kabupaten Langkat yang kemudian dipindahkan ke Stabat.
+        </city:abstract>
+        <city:areaTotalKm>93, 77 km2</city:areaTotalKm>
+        <city:populationTotal>270.926 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Binjai"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Gunungsitoli">
+        <city:number>92</city:number>
+        <rdfs:label>Gunungsitoli</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Gunungsitoli adalah kota di Pulau Nias, provinsi Sumatera Utara, Indonesia. Gunungsitoli sudah berdiri sejak abad ke-16, tetapi baru diresmikan oleh Menteri Dalam Negeri Indonesia, Mardiyanto, pada tanggal 26 November 2008, menjadi kota otonom sebagai salah satu hasil pemekaran dari Kabupaten Nias.
+        </city:abstract>
+        <city:areaTotalKm>469, 4 km2</city:areaTotalKm>
+        <city:populationTotal>142.426 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Gunungsitoli"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Medan">
+        <city:number>93</city:number>
+        <rdfs:label>Medan</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Medan adalah ibu kota provinsi Sumatera Utara, Indonesia. Kota ini merupakan kota terbesar ketiga di Indonesia setelah DKI Jakarta, dan Surabaya serta kota terbesar di luar Pulau Jawa, sekaligus terbesar di Pulau Sumatra.
+        </city:abstract>
+        <city:areaTotalKm>265. 1 km2</city:areaTotalKm>
+        <city:populationTotal>2.527.050 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Medan"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Padangsidempuan">
+        <city:number>94</city:number>
+        <rdfs:label>Padangsidempuan</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Padangsidempuan, yang sebelumnya dieja Padang Sidempuan, adalah sebuah kota di provinsi Sumatera Utara, Indonesia. Padangsidimpuan merupakan kota terbesar di wilayah Tapanuli, dan seluruh wilayahnya dikelilingi Kabupaten Tapanuli Selatan.
+        </city:abstract>
+        <city:areaTotalKm>159, 3 km2</city:areaTotalKm>
+        <city:populationTotal>212.917 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Padangsidempuan"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Pematangsiantar">
+        <city:number>95</city:number>
+        <rdfs:label>Pematangsiantar</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Pematangsiantar adalah salah satu kota di Provinsi Sumatera Utara, Indonesia, yang merupakan enklave dari Kabupaten Simalungun. Karena letak Pematangsiantar yang strategis, kota ini dilalui oleh Jalan Raya Lintas Sumatra.
+        </city:abstract>
+        <city:areaTotalKm>79, 97 km2</city:areaTotalKm>
+        <city:populationTotal>252.500 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pematangsiantar"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Sibolga">
+        <city:number>96</city:number>
+        <rdfs:label>Sibolga</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Sibolga adalah salah satu kota yang berada di provinsi Sumatera Utara, Indonesia. Kota ini terletak di pantai barat pulau Sumatera, membujur sepanjang pantai dari Utara ke Selatan dan berada pada kawasan Teluk Tapian Nauli. Jaraknya sekitar 350 km dari Kota Medan, atau sekitar 8 jam perjalanan.
+        </city:abstract>
+        <city:areaTotalKm>10, 77 km2</city:areaTotalKm>
+        <city:populationTotal>87.313 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sibolga"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Tanjungbalai_(city)">
+        <city:number>97</city:number>
+        <rdfs:label>Tanjungbalai</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Tanjungbalai atau Tanjung Balai adalah salah satu kota di Provinsi Sumatera Utara, Indonesia. Luas wilayahnya 60,52 km² dan kota ini berada di tepi Sungai Asahan, sungai terpanjang di Sumatera Utara.
+        </city:abstract>
+        <city:areaTotalKm>60, 52 km2</city:areaTotalKm>
+        <city:populationTotal>166.782 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tanjungbalai_(city)"/>
+    </city:indonesia>
+
+<city:indonesia rdf:about="https://dbpedia.org/page/Tebing_Tinggi">
+        <city:number>98</city:number>
+        <rdfs:label>Tebing Tinggi</rdfs:label>
+        <city:country>Indonesia</city:country>
+        <city:abstract>
+        Tebing Tinggi adalah sebuah kota di Provinsi Sumatera Utara, Indonesia. Kota Tebing Tinggi berada ditengah-tengah Kabupaten Serdang Bedagai.
+        </city:abstract>
+        <city:areaTotalKm>38, 44 km2</city:areaTotalKm>
+        <city:populationTotal>172.838 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tebing_Tinggi"/>
+    </city:indonesia>
+
+</rdf:RDF>

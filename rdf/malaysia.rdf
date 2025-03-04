@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:city="http://example.org/schema/city"
+    xmlns:dc="http://purl.org/dc/terms/">
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Kuala_Lumpur">
+        <city:number>2</city:number>
+        <rdfs:label>Klang</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Kuala Lumpur (Malaysia: [ˈkualə, -a ˈlumpo(r), -ʊ(r)]), secara resmi Wilayah Federal Kuala Lumpur (Melayu: Wilayah Persekutuan Kuala Lumpur) dan bahasa sehari-hari disebut sebagai KL, adalah wilayah federal dan ibu kota Malaysia. Kota ini berfungsi sebagai pusat budaya, keuangan, dan ekonomi Malaysia. Di sini juga terdapat Parlemen Malaysia dan Istana Negara, kediaman resmi Yang di-Pertuan Agong (raja Malaysia). Kuala Lumpur pertama kali berkembang sekitar tahun 1857 sebagai kota yang melayani pertambangan timah di wilayah tersebut dan menjadi ibu kota Selangor dari tahun 1880 hingga 1978. Kuala Lumpur adalah ibu kota pendiri Federasi malaysiaa dan penerusnya, Malaysia. Kota ini tetap menjadi pusat kekuasaan eksekutif dan yudikatif pemerintah federal Malaysia hingga dipindahkan ke Putrajaya pada awal tahun 1999.Namun, beberapa bagian dari badan politik masih tetap berada di Kuala Lumpur. Kota ini merupakan salah satu dari tiga wilayah federal Malaysia, yang termasuk dalam negara bagian Selangor, di pantai barat tengah Semenanjung Malaysia.
+        </city:abstract>
+        <city:areaTotalKm>243,65 km2 </city:areaTotalKm>
+        <city:populationTotal>1.982.112</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kuala_Lumpur"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Klang_(City)">
+        <city:number>1</city:number>
+        <rdfs:label>Klang (City)</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+       Klang atau Kelang, secara resmi Kota Kerajaan Klang (Melayu: Bandar Diraja Klang), adalah sebuah kota kerajaan dan bekas ibu kota negara bagian Selangor, Malaysia. Terletak di Distrik Klang. Ini adalah ibu kota sipil Selangor di era awal sebelum munculnya Kuala Lumpur dan ibu kota saat ini, Shah Alam. Port Klang yang terletak di Distrik Klang merupakan pelabuhan transshipment tersibuk ke-12 dan pelabuhan peti kemas tersibuk ke-12 di dunia.
+        </city:abstract>
+        <city:areaTotalKm>573 km2 </city:areaTotalKm>
+        <city:populationTotal>842.146</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Klang_(city)"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Seberang_Perai">
+        <city:number>3</city:number>
+        <rdfs:label>Seberang Perai</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Seberang Perai adalah sebuah kota di negara bagian Penang, Malaysia. Terletak di Semenanjung malaysiaa di seberang Pulau Penang, berbatasan dengan Kedah di utara dan timur serta Perak di selatan. Pusat kotanya terletak di Butterworth, sedangkan otoritas lokalnya, Dewan Kota Seberang Perai, berpusat di dekat Bukit Mertajam. Awalnya merupakan bagian dari Kedah, wilayah yang sekarang menjadi kota ini diserahkan kepada British East India Company pada tahun 1800. Inggris mengakuisisi Provinsi Wellesley, demikian mereka kemudian menamainya, untuk menyediakan lebih banyak lahan pertanian dan sebagai benteng pertahanan terhadap serangan salib apa pun. -invasi selat ke Pulau Penang dari daratan. Sejak itu menjadi bagian dari Penang, yang dijadikan koloni mahkota Inggris pada tahun 1867.
+        </city:abstract>
+        <city:areaTotalKm>751 km2 </city:areaTotalKm>
+        <city:populationTotal>818.197</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Seberang_Perai"/>
+    </city:malaysia>
+
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Kajang">
+        <city:number>4</city:number>
+        <rdfs:label>Kajang</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Kajang adalah sebuah kota di Distrik Hulu Langat, Selangor, Malaysia. Kajang, bersama dengan sebagian besar Kabupaten Hulu Langat, diatur oleh Dewan Kota Kajang. Kota Kajang terletak di tepi timur Sungai Langat. Dikelilingi oleh Cheras, Semenyih, Bangi, Putrajaya dan Serdang. Nama Kajang diyakini berasal dari bahasa suku Temuan (Orang Asli) yang mendiami lembah Langat pada abad 17-18. Dalam bahasa mereka, kajang mengacu pada seni menenun daun ulir atau pandan, yang lazim di sebagian besar negara. Teori serupa menyatakan bahwa pemukim dari wilayah tetangga Sungai Ujong (Negeri Sembilan) pernah membangun gubuk (pondok) di daerah tersebut dengan atap jerami yang terbuat dari daun ulir yang dilipat (lipat kajang).
+        </city:abstract>
+        <city:areaTotalKm>790,43 km2 </city:areaTotalKm>
+        <city:populationTotal>795.552</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kajang"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Subang_Jaya">
+        <city:number>5</city:number>
+        <rdfs:label>Subang Jaya</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Subang Jaya adalah sebuah kota di Distrik Petaling, Selangor, Malaysia. Ini terdiri dari distrik ketiga selatan Petaling. Terdiri dari lingkungan dari SS12 hingga SS19, UEP Subang Jaya (USJ), Putra Heights, Batu Tiga serta PJS7, PJS9 dan PJS11 Bandar Sunway, yang terakhir sebagian merupakan yurisdiksi di Petaling Jaya di bawah MBPJ. Kota ini diatur oleh Dewan Kota Subang Jaya (MBSJ), yang juga mengatur wilayah lain di distrik Petaling, seperti Puchong dan Seri Kembangan.
+        </city:abstract>
+        <city:areaTotalKm>70,41 km2 </city:areaTotalKm>
+        <city:populationTotal>771.687</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Subang_Jaya"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Penang">
+        <city:number>6</city:number>
+        <rdfs:label>Penang</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Penang (Melayu: Pulau Pinang, [pi.naŋ]) adalah sebuah negara bagian Malaysia yang terletak di pantai barat laut Semenanjung Malaysia, di tepi Selat Malaka. Ini memiliki dua bagian: Pulau Penang, di mana ibu kotanya, George Town, berada, dan Seberang Perai di Semenanjung malaysiaa. Kedua bagian tersebut dihubungkan oleh Jembatan Penang dan Jembatan Penang Kedua; yang terakhir ini juga merupakan penyeberangan laut terpanjang kedua di Asia Tenggara. Negara bagian terkecil kedua di Malaysia berdasarkan daratan, Penang berbatasan dengan Kedah di utara dan timur, dan Perak di selatan.
+        </city:abstract>
+        <city:areaTotalKm>1.480 km2 </city:areaTotalKm>
+        <city:populationTotal>1.740.405</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Penang"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Ipoh">
+        <city:number>7</city:number>
+        <rdfs:label>Ipoh</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Ipoh (/ˈiːpoʊ/) adalah ibu kota negara bagian Perak, Malaysia. Terletak di tepi Sungai Kinta, jaraknya hampir 180 km (110 mil) di utara Kuala Lumpur dan 123 km (76 mil) tenggara George Town di negara tetangga Penang. Pada tahun 2010, Ipoh memiliki populasi 657.892 jiwa, menjadikannya kota terbesar keempat di Malaysia berdasarkan jumlah penduduk. Awalnya sebuah desa, Ipoh mulai berkembang pesat pada tahun 1880-an setelah ditemukan deposit timah dalam jumlah besar di sekitarnya. Pada tahun 1895, kota ini menjadi kota terbesar kedua di Negara Federasi Melayu, yang juga terdiri dari Selangor, Negeri Sembilan dan Pahang. Ipoh dinyatakan sebagai kota pada tahun 1988. Namun, setelah persediaan timah menipis dan jatuhnya harga timah pada tahun 1970-an, kota ini mengalami kemunduran dan pengabaian selama beberapa dekade. Dalam beberapa tahun terakhir, popularitas Ipoh sebagai tujuan wisata internasional meningkat secara signifikan melalui upaya melestarikan arsitektur era kolonial Inggris. Kota ini juga terkenal dengan masakan dan atraksi alamnya, seperti bukit kapur dan gua tempat kuil Buddha dibangun. Selain itu, Ipoh berhasil mempertahankan reputasinya sebagai salah satu kota terbersih di Malaysia dan Asia pada umumnya. Lokasi Ipoh antara Kuala Lumpur dan George Town menjadikannya pusat transportasi darat utama di Malaysia Barat, dengan Jalur Pantai Barat Kereta Api malaysiaan dan Jalan Tol Utara-Selatan melintasi kota. Selain jalur transportasi darat, Ipoh juga dilayani oleh Bandara Sultan Azlan Shah.
+        </city:abstract>
+        <city:areaTotalKm>643 km2 </city:areaTotalKm>
+        <city:populationTotal>759.952</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Ipoh"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Petaling_Jaya">
+        <city:number>8</city:number>
+        <rdfs:label>Petaling Jaya</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Petaling Jaya (Pengucapan Malaysia: [pətalɪŋ dʒaja]), biasa disebut "PJ" adalah sebuah kota di Distrik Petaling, di negara bagian Selangor, Malaysia. Awalnya dikembangkan sebagai kota satelit untuk Kuala Lumpur, ibu kota Malaysia, kota ini merupakan bagian dari wilayah Kuala Lumpur Raya. Petaling Jaya diberikan status kota pada tanggal 20 Juni 2006. Petaling Jaya memiliki luas sekitar 97,2 kilometer persegi (37,5 mil persegi). Petaling Jaya dikelilingi oleh Kuala Lumpur di timur, Sungai Buloh di utara, Shah Alam, ibu kota Selangor, dan Subang Jaya di barat dan Bandar Kinrara (Puchong) di selatan.
+        </city:abstract>
+        <city:areaTotalKm> 972.000 km2 </city:areaTotalKm>
+        <city:populationTotal>902.086</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Petaling_Jaya"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Selayang">
+        <city:number>9</city:number>
+        <rdfs:label>Selayang</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Selayang adalah sebuah kota di Distrik Gombak, Selangor, Malaysia. Sebuah kotapraja baru, Bandar Baru Selayang terletak hanya 2 km jauhnya dan diberi nama sesuai dengan nama kota tersebut, dimana Majlis Perbandaran Selayang (MPS, Bahasa Inggris: Dewan Kota Selayang) berada.
+        </city:abstract>
+        <city:areaTotalKm>549,33 km2 </city:areaTotalKm>
+        <city:populationTotal>987.560</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Selayang"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Shah_Alam">
+        <city:number>10</city:number>
+        <rdfs:label>Shah Alam</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Shah Alam (/ʃɑː ˈɑːləm/) adalah sebuah kota dan ibu kota negara bagian Selangor, Malaysia dan terletak di Distrik Petaling dan sebagian kecil dari Distrik Klang yang berdekatan. Shah Alam menggantikan Kuala Lumpur sebagai ibu kota negara bagian Selangor pada tahun 1978 karena penggabungan Kuala Lumpur ke dalam Wilayah Federal pada tahun 1974. Shah Alam adalah kota terencana pertama di Malaysia setelah kemerdekaan dari Inggris pada tahun 1957.
+        </city:abstract>
+        <city:areaTotalKm> 290,3 km2 </city:areaTotalKm>
+        <city:populationTotal>740.750</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Shah_Alam"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Johor_Bahru">
+        <city:number>11</city:number>
+        <rdfs:label>Johor Bahru</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+       Johor Bahru (Pengucapan Malaysia: [ˈdʒohor ˈbahru]), bahasa sehari-hari disebut sebagai JB, adalah ibu kota negara bagian Johor, Malaysia. Terletak di sepanjang Selat Johor, di ujung selatan Semenanjung Malaysia. Kota ini berpenduduk 1.711.191 jiwa dengan luas wilayah 220 km2. Johor Bahru berbatasan dengan kota Iskandar Puteri dan Pasir Gudang, dan wilayah sekitarnya menjadi pusat aglomerasi perkotaan terbesar kedua di Malaysia, Iskandar Malaysia, dengan populasi 2.500.000 jiwa. Johor Bahru didirikan pada tahun 1855 dengan nama Tanjung Puteri ketika Kesultanan Johor berada di bawah pengaruh Temenggong Daeng Ibrahim. Daerah ini berganti nama menjadi "Johore Bahru" pada tahun 1862 dan menjadi ibu kota Kesultanan ketika pusat pemerintahan Kesultanan dipindahkan ke sana dari Telok Blangah, yang saat ini terletak di selatan Singapura. Johor Bahru berfungsi sebagai salah satu dari dua penghubung perbatasan darat di sisi Malaysia antara negara Singapura dan Malaysia, yang lainnya adalah Tautan Kedua yang menghubungkan Iskandar Puteri ke Tuas. Ini adalah penyeberangan tersibuk di dunia; jalur darat yang terhubung langsung ke Woodlands, Singapura melalui jalan lintas merupakan pendorong ekonomi utama kota perbatasan ini. Johor Bahru termasuk dalam Zona A Iskandar Malaysia dan berbatasan dengan Bandara Internasional Senai serta pelabuhan tersibuk ke-15 di dunia, Pelabuhan Tanjung Pelepas. Pada masa pemerintahan Sultan Abu Bakar, terjadi perkembangan dan modernisasi lebih lanjut di dalam kota; dengan pembangunan gedung administrasi, sekolah, gedung keagamaan, dan jalur kereta api yang menghubungkan ke Woodlands di Singapura. Bersamaan dengan sebagian besar wilayah Asia Tenggara, pasukan Jepang menduduki Johor Bahru dari tahun 1942 hingga 1945 selama Perang Pasifik. Johor Bahru menjadi tempat lahirnya nasionalisme Melayu setelah perang dan sebuah partai politik besar yang dikenal sebagai Organisasi Nasional Melayu Bersatu (UMNO) didirikan di Istana Besar Johor Bahru pada tahun 1946. Setelah pembentukan Malaysia pada tahun 1963, Johor Bahru mempertahankan kekuasaannya. statusnya sebagai ibu kota negara bagian dan diberikan status kota pada tahun 1994. Saat ini, kota ini merupakan salah satu kota paling maju di negara ini dan saat ini berfungsi sebagai pusat keuangan dan pusat logistik di Malaysia bagian selatan.
+        </city:abstract>
+        <city:areaTotalKm> 220 km2 </city:areaTotalKm>
+        <city:populationTotal>1.711.191</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kuala_Lumpur"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Malacca_City">
+        <city:number>12</city:number>
+        <rdfs:label>Malacca City</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Kota Melaka (Melayu: Bandaraya Melaka atau Kota Melaka) adalah ibu kota negara bagian Malaka, Malaysia. Pada tahun 2019, kota ini memiliki populasi 579.000 jiwa. Kota Malaka merupakan salah satu kota terbersih di Asia Tenggara, baru-baru ini dianugerahi Pemenang Nasional Penghargaan Standar Kota Wisata Bersih Asean 2018-2020. Ini adalah kota tertua di Malaysia di Selat Malaka, yang menjadi wirausaha sukses di era Kesultanan Malaka. Kota yang sekarang ini didirikan oleh Parameswara, seorang pangeran Sumatera yang melarikan diri ke Semenanjung malaysiaa ketika Sriwijaya jatuh ke tangan Majapahit. Setelah berdirinya Kesultanan Malaka, kota ini menarik perhatian para pedagang dari Timur Tengah, Asia Selatan, dan Asia Timur, serta Portugis, yang bermaksud mendominasi jalur perdagangan di Asia. Setelah Malaka ditaklukkan oleh Portugal, kota ini menjadi wilayah konflik ketika kesultanan Aceh dan Johor berusaha mengambil kendali dari Portugis. Menyusul sejumlah perang antara wilayah-wilayah ini, pengaruh Aceh menurun sementara Johor bertahan dan memperluas pengaruhnya atas wilayah yang sebelumnya hilang dari Aceh di Sumatra ketika Johor bekerja sama dengan Belanda yang datang untuk membangun dominasi atas Pulau Jawa dan Maluku. Namun karena perselisihan internal kerajaan antara Melayu dan Bugis, Kerajaan Johor-Riau terpecah menjadi kesultanan Johor dan Riau-Lingga. Pemisahan ini menjadi permanen ketika Inggris datang untuk mengukuhkan kehadirannya di Semenanjung malaysiaa. Belanda yang sudah merasa terancam dengan kehadiran Inggris mulai menaklukkan Kesultanan Riau-Lingga bersama wilayah Sumatera lainnya, sedangkan Johor berada di bawah pengaruh Inggris setelah penandatanganan Perjanjian Inggris-Belanda tahun 1824. Ketika Inggris berhasil dalam memperluas pengaruhnya di Semenanjung malaysiaa, kota ini segera menjadi kawasan pembangunan di bawah Permukiman Selat sebagai bagian dari Kerajaan Inggris. Namun, pembangunan dan kemakmuran yang meningkat terhenti ketika Jepang tiba pada Perang Dunia II dan menduduki wilayah tersebut dari tahun 1942 hingga 1945. Selama pendudukan, banyak penduduk kota tersebut dibawa dan dipaksa untuk membangun Jalur Kereta Api Kematian di Burma (sekarang- hari Myanmar). Setelah perang, kota ini dikembalikan ke Inggris dan tetap menjadi ibu kota Malaka. Status sebagai ibu kota tetap ada hingga terbentuknya Malaysia pada tahun 1963, dan pada tahun 2008 terdaftar, bersama dengan George Town of Penang, sebagai Situs Warisan Dunia UNESCO karena sejarahnya yang panjang.
+        </city:abstract>
+        <city:areaTotalKm> 277 km2 </city:areaTotalKm>
+        <city:populationTotal>579.000</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Malacca_City"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Ampang_Jaya">
+        <city:number>13</city:number>
+        <rdfs:label>Ampang Jaya</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Ampang Jaya, more commonly known as just Ampang, is a town, a mukim and a parliamentary constituency straddling parts of the Hulu Langat District and Gombak District, in eastern Selangor, Malaysia. It is located just outside the eastern border of Kuala Lumpur Federal Territory. It is administered by the Ampang Jaya Municipal Council (MPAJ), which is the formal name of the township as well.
+        </city:abstract>
+        <city:areaTotalKm>143,5 km2 </city:areaTotalKm>
+        <city:populationTotal>532.474</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Ampang_Jaya"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Kota_Kinabalu">
+        <city:number>14</city:number>
+        <rdfs:label>Kota Kinabalu</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Kota Kinabalu (pengucapan Malaysia: [ˈkota kinaˈbalu]; sebelumnya dikenal sebagai Jesselton), bahasa sehari-hari disebut sebagai KK, adalah ibu kota negara bagian Sabah, Malaysia. Kota ini juga merupakan ibu kota Distrik Kota Kinabalu serta Divisi Pantai Barat Sabah. Kota ini terletak di pesisir barat laut Kalimantan menghadap Laut Cina Selatan. Taman Nasional Tunku Abdul Rahman terletak di sebelah baratnya dan Gunung Kinabalu, yang memberi nama kota ini, terletak di sebelah timurnya. Kota Kinabalu berpenduduk 452.058 jiwa menurut sensus 2010; jika distrik Penampang dan Putatan yang berdekatan dimasukkan, wilayah metro memiliki jumlah penduduk gabungan sebesar 628.725 jiwa. Sensus 2020 menunjukkan peningkatan jumlah penduduk kota menjadi 500.421 jiwa, sedangkan wilayah yang lebih luas termasuk Kecamatan Penampang dan Putatan berpenduduk 731.406 jiwa. Pada abad ke-15, wilayah Kota Kinabalu berada di bawah pengaruh Kerajaan Brunei. Pada abad ke-19, British North Borneo Company (BNBC) pertama kali mendirikan pemukiman di dekat Pulau Gaya. Namun, pada tahun 1897, bangunan tersebut dihancurkan oleh seorang pemimpin lokal bernama Mat Salleh. Pada bulan Juli 1899, tempat yang terletak di seberang Pulau Gaya diidentifikasi sebagai tempat yang cocok untuk pemukiman. Pembangunan di daerah tersebut dimulai segera setelah itu; dan tempat itu diberi nama "Api-api" sebelum diganti namanya menurut Sir Charles Jessel, wakil ketua BNBC, menjadi "Jesselton". Jesselton menjadi pelabuhan perdagangan utama di wilayah tersebut, dan terhubung dengan Jalur Kereta Api Kalimantan Utara. Jesselton sebagian besar hancur selama Perang Dunia II. Pendudukan Jepang di Jesselton memicu beberapa pemberontakan lokal, terutama Pemberontakan Jesselton, namun mereka akhirnya dikalahkan oleh Jepang. Setelah perang, BNBC tidak mampu membiayai tingginya biaya rekonstruksi dan tempat tersebut diserahkan kepada Koloni Kerajaan Inggris. Kerajaan Inggris mendeklarasikan Jesselton sebagai ibu kota baru Kalimantan Utara pada tahun 1946 dan mulai membangun kembali kota tersebut. Setelah terbentuknya Malaysia, Kalimantan Utara berganti nama menjadi Sabah. Pada tahun 1967, Jesselton diubah namanya menjadi Kota Kinabalu, Kota menjadi kata Melayu untuk Kota dan Kinabalu diambil dari nama Gunung Kinabalu di dekatnya. Kota Kinabalu diberikan status kota pada tahun 2000. Kota Kinabalu sering dikenal sebagai KK baik di Malaysia maupun internasional. Ini adalah tujuan wisata utama dan pintu gerbang bagi wisatawan yang mengunjungi Sabah dan Kalimantan. Taman Kinabalu terletak sekitar 90 kilometer dari kota dan terdapat banyak tempat wisata lainnya di dalam dan sekitar kota. Kota Kinabalu juga merupakan salah satu pusat industri dan komersial utama di Malaysia Timur. Kombinasi kedua faktor ini menjadikan Kota Kinabalu salah satu kota dengan pertumbuhan tercepat di Malaysia.
+        </city:abstract>
+        <city:areaTotalKm>3.277 km2 </city:areaTotalKm>
+        <city:populationTotal>500.421</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kota_Kinabalu"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Sungai_Petani">
+        <city:number>15</city:number>
+        <rdfs:label>Sungai Petani</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Sungai Petani (disingkat Sg. Petani atau SP; Jawi: سوڠاي ڤتاني) adalah sebuah kota di Distrik Kuala Muda, Kedah, Malaysia. Sungai Petani adalah kota terbesar di Kedah dan terletak sekitar 55 km selatan Alor Setar, ibu kota Kedah, dan 33 km timur laut George Town, ibu kota negara bagian tetangga Penang.
+        </city:abstract>
+        <city:areaTotalKm>143,5 km2 </city:areaTotalKm>
+        <city:populationTotal>....</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sungai_Petani"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Kuantan">
+        <city:number>16</city:number>
+        <rdfs:label>Kuantan</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Kuantan (Jawi: كوانتن‎) adalah sebuah kota dan ibu kota negara bagian Pahang, Malaysia. Letaknya di dekat muara Sungai Kuantan. Kuantan adalah kota terbesar ke-18 di Malaysia berdasarkan jumlah penduduk tahun 2010, dan kota terbesar di Pantai Timur Semenanjung Malaysia. Pusat pemerintahan negara bagian Pahang secara resmi dipindahkan ke Kuantan pada tanggal 27 Agustus 1955 dari Kuala Lipis dan diresmikan oleh HRH Sultan Abu Bakar Ri'ayatuddin Al Muadzam Shah, Sultan Pahang.
+        </city:abstract>
+        <city:areaTotalKm>324 km2 </city:areaTotalKm>
+        <city:populationTotal>548.014</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kuantan"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Alor_Setar">
+        <city:number>17</city:number>
+        <rdfs:label>Alor Setar</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Alor Setar (Jawi: الور ستار, Kedahan: Loqstaq) adalah ibu kota negara bagian Kedah, Malaysia. Ini adalah kota terbesar kedua di negara bagian ini setelah Sungai Petani dan salah satu kota terpenting di pantai barat Semenanjung Malaysia. Ini adalah rumah bagi menara telekomunikasi tertinggi ketiga di Malaysia, Menara Alor Setar. Lokasinya di sepanjang koridor perjalanan utama dari Malaysia ke Thailand telah lama menjadikannya pusat transportasi utama di Semenanjung malaysiaa bagian utara. Alor Setar terletak di sepanjang jalan tol terpanjang di negara ini, terletak 430 km (270 mil) dari Kuala Lumpur dan 79 km (49 mil) di utara George Town, Penang. Dari Thailand, kota ini mudah diakses melalui Jalan Raya Padang Besar – Sadao, berjarak 51,8 km (32,2 mil) dari Sadao dan 106 km (66 mil) dari Hat Yai. Kota ini awalnya didirikan sebagai Kota Setar pada tahun 1785. Karena statusnya yang lama sebagai ibu kota Kedah, Alor Setar dianggap sebagai salah satu pusat kebudayaan inti masyarakat Melayu Kedahan. Alor Setar juga merupakan salah satu pelopor utama dalam sejarah transportasi malaysiaa, stasiun kereta api diresmikan pada tahun 1915 diikuti oleh bandaranya pada tahun 1929. Alor Setar adalah rumah bagi Pusat Administrasi Negara dan merupakan pusat administrasi Distrik Kota Setar. Saat ini, kota ini mencakup wilayah seluas 666 km2 (257 mil persegi), yang dihuni oleh lebih dari 300.000 jiwa (menurut sensus 2010). Di tingkat pemerintah daerah, Alor Setar dikelola oleh Dewan Kota Alor Setar. Ini adalah tempat kelahiran dua perdana menteri penting Malaysia; yaitu Tunku Abdul Rahman, bapak pendiri negara (menjabat dari tahun 1957 hingga 1970) dan Mahathir bin Mohamad, perdana menteri yang paling lama menjabat selama 24 tahun (menjabat dari tahun 1981 hingga 2003, dari 2018 hingga 2020)
+        </city:abstract>
+        <city:areaTotalKm>665,98 km2 </city:areaTotalKm>
+        <city:populationTotal>405.523</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Alor_Setar"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Tawau">
+        <city:number>18</city:number>
+        <rdfs:label>Tawau</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Tawau (Pengucapan Malaysia: [ˈta wau], Jawi, Cina: 斗湖; pinyin: dǒu hú), sebelumnya dikenal sebagai Tawao, adalah ibu kota Distrik Tawau di Sabah, Malaysia. Ini adalah kota terbesar ketiga di Sabah, setelah Kota Kinabalu dan Sandakan. Terletak di Semenanjung Semporna di pantai tenggara negara bagian di pusat administrasi Divisi Tawau, yang berbatasan dengan Laut Sulu di timur, Laut Sulawesi di selatan di Teluk Cowie dan berbatasan dengan Kalimantan Utara, Indonesia. Kota ini memiliki perkiraan populasi pada tahun 2010, sebanyak 113.809 jiwa, sedangkan seluruh wilayah kotamadya memiliki populasi 397.673 jiwa (termasuk 47.466 jiwa di Kalabakan, yang kemudian dipecah menjadi distrik terpisah). Wilayah kotamadya memiliki populasi 372.615 jiwa pada Sensus 2020. Sebelum berdirinya Tawau, wilayah di sekitarnya merupakan subyek perselisihan antara wilayah pengaruh Inggris dan Belanda. Pada tahun 1893, kapal dagang Inggris pertama berlayar ke Tawau, menandai dibukanya pelabuhan kota tersebut. Pada tahun 1898, Inggris mendirikan pemukiman di Tawau. North Borneo Chartered Company (BNBC) mempercepat pertumbuhan populasi pemukiman dengan mendorong imigrasi orang Tionghoa. Akibat pendudukan Jepang di Kalimantan Utara, pasukan Sekutu mengebom kota tersebut pada pertengahan tahun 1944, hingga rata dengan tanah. Setelah Jepang menyerah pada tahun 1945, 2.900 tentara Jepang di Tawau menjadi tawanan perang dan dipindahkan ke Jesselton. Tawau dibangun kembali setelah perang, dan pada akhir tahun 1947, perekonomian dikembalikan ke status sebelum perang. Tawau juga merupakan titik utama konflik selama konfrontasi Indonesia-Malaysia dari tahun 1963 hingga 1966. Selama periode tersebut, Tawau ditempatkan oleh Bagian Kapal Khusus Inggris, dan dijaga oleh Kapal Perusak Australia dan pesawat tempur. Pada bulan Desember 1963, Tawau dibom dua kali oleh Indonesia dan penembakan terjadi di perbatasan internasional Pulau Tawau-Sebatik. Warga Indonesia ditemukan mencoba meracuni pasokan air kota. Pada bulan Januari 1965, jam malam diberlakukan untuk mencegah penyerang asal Indonesia melakukan kontak dengan warga Indonesia yang tinggal di kota tersebut. Sementara pada bulan Juni 1965, upaya invasi lain yang dilakukan pasukan Indonesia berhasil digagalkan dengan pemboman yang dilakukan oleh kapal perusak Australia. Konflik militer akhirnya berakhir pada bulan Desember 1966. Di antara tempat wisata di Tawau adalah: Tawau International Cultural Festival, Menara Lonceng Tawau, Pemakaman Perang Jepang, Confrontation Memorial, Museum Kakao Teck Guan, Taman Nasional Perbukitan Tawau, Bukit Gemok, dan Pasar Tanjung Tawau . Kegiatan ekonomi utama kota ini adalah: perkayuan, kakao, perkebunan kelapa sawit, dan budidaya udang.
+        </city:abstract>
+        <city:areaTotalKm>55,9 km2 </city:areaTotalKm>
+        <city:populationTotal>372.615</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Tawau"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Sandakan">
+        <city:number>19</city:number>
+        <rdfs:label>Sandakan</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Sandakan (Pengucapan Malaysia: [ˈsaan daˈkan], Jawi: سنداکن‎, Cina: 山打根; pinyin: Shāndǎgēn; Jyutping: saan1 daa2 gan1) sebelumnya dikenal di berbagai waktu sebagai Elopura, adalah ibu kota Distrik Sandakan di Sabah, Malaysia . Ini adalah kota terbesar kedua di Sabah setelah Kota Kinabalu. Terletak di Semenanjung Sandakan dan pantai timur negara bagian tersebut di pusat administrasi Divisi Sandakan dan merupakan bekas ibu kota British North Borneo. Pada tahun 2010, kota ini memiliki perkiraan populasi 157.330 jiwa sedangkan wilayah kota secara keseluruhan memiliki total populasi 396.290 jiwa. Populasi wilayah kota telah meningkat menjadi 439.050 pada Sensus 2020. Sebelum berdirinya Sandakan, Kepulauan Sulu merupakan sumber perselisihan antara Spanyol dan Kesultanan Sulu terkait dominasi ekonomi di wilayah tersebut. Pada tahun 1864, Spanyol telah memblokade kepemilikan Kesultanan di Kepulauan Sulu. Kesultanan Sulu menghadiahkan kepada mantan anggota konsuler Jerman sebidang tanah di Teluk Sandakan untuk mencari perlindungan dari Jerman. Pada tahun 1878, Kesultanan menjual wilayah timur laut Kalimantan kepada konsul Austria-Hongaria yang kemudian menyerahkan wilayah tersebut kepada pedagang kolonial Inggris. Kehadiran Jerman di wilayah tersebut menimbulkan kekhawatiran di kalangan Inggris. Hasilnya, sebuah protokol ditandatangani antara Inggris, Jerman dan Spanyol untuk mengakui kedaulatan Spanyol atas Kepulauan Sulu, dengan imbalan Spanyol tidak ikut campur dalam urusan Inggris di Kalimantan bagian utara. Sandakan mulai makmur ketika British North Borneo Company (BNBC) mulai membangun pemukiman baru pada tahun 1879, mengembangkannya menjadi pusat komersial dan perdagangan yang aktif serta menjadikannya pusat administrasi utama Kalimantan Utara. Inggris juga mendorong migrasi orang Tionghoa dari Hong Kong milik Inggris untuk mengembangkan perekonomian Sandakan. Namun, kemakmuran terhenti ketika Jepang menduduki wilayah tersebut. Ketika perang berlanjut dan pemboman Sekutu dimulai pada tahun 1944, kota ini hancur total. Karena tidak mampu mendanai biaya rekonstruksi, kekuasaan administratif Kalimantan Utara diserahkan kepada pemerintah Koloni Mahkota. Selanjutnya ibu kota administratif Kalimantan Utara dipindahkan ke Jesselton. Sebagai bagian dari Rencana Rekonstruksi dan Pembangunan Kantor Kolonial tahun 1948–1955, pemerintah koloni mahkota mulai mengembangkan industri perikanan di Sandakan. Sandakan merupakan salah satu pelabuhan utama ekspor minyak, tembakau, kopi, sagu, dan kayu. Kegiatan ekonomi lainnya termasuk perikanan, pembuatan kapal, ekowisata, dan manufaktur. Tempat wisata di Sandakan antara lain adalah Sandakan Heritage Museum, Sandakan Cultural Festival, Sandakan War Memorial, Sepilok Orang Utan Sanctuary, Turtle Islands National Park, dan Gomantong Caves.
+        </city:abstract>
+        <city:areaTotalKm>2.266 km2 </city:areaTotalKm>
+        <city:populationTotal>439.050</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sandakan"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Kuala_Terengganu">
+        <city:number>20</city:number>
+        <rdfs:label>Kuala Terengganu</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+       Kuala Terengganu (Pengucapan Malaysia: [ˈkuˈala ˈtəˈrəŋˈganu]; Melayu Terengganu: Kole Tranung), bahasa sehari-hari disebut sebagai KT, adalah ibu kota administratif, ekonomi, dan kerajaan negara bagian Terengganu, Malaysia. Kuala Terengganu juga merupakan ibu kota Kabupaten Kuala Terengganu. Kota ini juga merupakan satu-satunya ibu kota kerajaan di antara sembilan negara bagian kerajaan yang menggunakan nama negara bagian tersebut. Kuala Terengganu terletak sekitar 440 kilometer timur laut Kuala Lumpur di Pantai Timur Semenanjung Malaysia. Kota ini terletak di muara Sungai Terengganu, menghadap ke Laut Cina Selatan. Sebagai sebuah distrik, Kuala Terengganu merupakan wilayah terkecil, namun (bersama dengan Distrik Kuala Nerus yang membentuk wilayah kota) memiliki jumlah penduduk terbesar di Terengganu. Jumlah penduduknya sebanyak 406.317 jiwa pada tahun 2010 dan bertambah menjadi 426.500 jiwa pada tahun 2020. Status kota diberikan kepada Kuala Terengganu dengan gelar Bandaraya Warisan Pesisir Air (Bahasa Inggris: Waterfront Heritage City) pada tanggal 1 Januari 2008. Selain menjadi pusat politik dan ekonomi utama negara , kota ini juga merupakan pintu gerbang utama ke banyak tujuan wisata negara bagian. Tempat-tempat wisata di dalam dan sekitar kota antara lain Kampung Cina, Pasar Besar Kedai Payang, Museum Negeri Terengganu, dan Pantai Batu Buruk. Meski tak luput dari modernitas dan perkembangan kota, Kuala Terengganu tetap mempertahankan pengaruh Melayu yang kental bercampur dengan budaya lain dari sejarah panjangnya sebagai pelabuhan.
+        </city:abstract>
+        <city:areaTotalKm>605 km2 </city:areaTotalKm>
+        <city:populationTotal>337.553</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kuala_Terengganu"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Kuching">
+        <city:number>21</city:number>
+        <rdfs:label>Kuching</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Kuching (/ˈkuːtʃɪŋ/), secara resmi Kota Kuching, adalah ibu kota dan kota terpadat di negara bagian Sarawak di Malaysia. Kota ini juga merupakan ibu kota Divisi Kuching. Kota ini terletak di Sungai Sarawak di ujung barat daya negara bagian Sarawak di pulau Kalimantan dan mencakup area seluas 431 kilometer persegi (166 mil persegi) dengan populasi sekitar 165.642 di wilayah administratif Kuching Utara dan 159.490 di Kuching. Wilayah administratif selatan—total 325.132 jiwa. Kuching adalah ibu kota ketiga Sarawak pada tahun 1827 pada masa pemerintahan Kekaisaran Brunei. Pada tahun 1841, Kuching menjadi ibu kota Kerajaan Sarawak setelah wilayah di wilayah tersebut diserahkan kepada James Brooke karena membantu kerajaan Brunei dalam menumpas pemberontakan khususnya oleh masyarakat Dayak Tanah yang tinggal di pedalaman Kalimantan yang kemudian menjadi pengikut setianya setelah sebagian besar mereka diampuni olehnya dan bergabung di sisinya. Kota ini terus mendapat perhatian dan pembangunan pada masa pemerintahan Charles Brooke seperti pembangunan sistem sanitasi, rumah sakit, penjara, benteng, dan pasar. Pada tahun 1941, pemerintahan Brooke mengadakan Perayaan Seratus Tahun di Kuching. Selama Perang Dunia II, Kuching diduduki oleh pasukan Jepang dari tahun 1942 hingga 1945. Pemerintah Jepang mendirikan kamp Batu Lintang di dekat Kuching untuk menampung tawanan perang dan interniran sipil. Setelah perang, kota itu tetap bertahan. Namun, Raja terakhir Sarawak, Sir Charles Vyner Brooke memutuskan untuk menyerahkan Sarawak sebagai bagian dari Koloni Kerajaan Inggris pada tahun 1946. Kuching tetap menjadi ibu kota selama periode Koloni Mahkota. Setelah terbentuknya Malaysia pada tahun 1963, Kuching mempertahankan statusnya sebagai ibu kota negara bagian dan diberikan status kota pada tahun 1988. Sejak itu, kota Kuching dibagi menjadi dua wilayah administratif yang dikelola oleh dua otoritas lokal yang terpisah. Pusat administrasi pemerintahan negara bagian Sarawak terletak di Wisma Bapa Malaysia, Kuching. Kuching adalah destinasi kuliner utama dan merupakan anggota Jaringan Kota Kreatif UNESCO di bidang gastronomi. Kuching juga menjadi pintu gerbang utama bagi wisatawan yang berkunjung ke Sarawak dan Kalimantan. Taman Nasional Lahan Basah Kuching terletak sekitar 30 kilometer (19 mil) dari kota dan terdapat banyak tempat wisata lainnya di dalam dan sekitar Kuching seperti Taman Nasional Bako, Pusat Margasatwa Semenggoh, Festival Musik Dunia Hutan Hujan (RWMF), gedung majelis negara, The Astana, Benteng Margherita, Museum Kucing Kuching, dan Museum Negara Sarawak. Kota ini telah menjadi salah satu pusat industri dan komersial utama di Malaysia Timur.
+        </city:abstract>
+        <city:areaTotalKm>450,02 km2 </city:areaTotalKm>
+        <city:populationTotal>325.132</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kuching"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Kota_Bharu">
+        <city:number>22</city:number>
+        <rdfs:label>Kota Bharu</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Kota Bharu, dalam bahasa sehari-hari disebut sebagai KB, adalah sebuah kota di Malaysia yang berfungsi sebagai ibu kota negara bagian dan pusat pemerintahan Kelantan. Terletak di bagian timur laut Semenanjung Malaysia dan terletak di dekat muara Sungai Kelantan. Kota ini adalah rumah bagi banyak masjid, berbagai museum, arsitektur unik istana kerajaan kuno (masih ditempati oleh sultan dan sultanah dan terlarang bagi pengunjung tetapi dapat dilihat dari luar) dan bekas bangunan kerajaan (yang dapat dikunjungi). Dilayani oleh Jalur Pantai Timur Keretapi Tanah Melayu di dekat Stasiun Terminal Wakaf Bharu, di kota Wakaf Bharu di seberang Sungai Kelantan dan Bandara Sultan Ismail Petra, yang terletak di Pengkalan Chepa.
+        </city:abstract>
+        <city:areaTotalKm>195,42 km2 </city:areaTotalKm>
+        <city:populationTotal>314.964</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kota_Bharu"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Seremban">
+        <city:number>23</city:number>
+        <rdfs:label>Seremban</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Seremban (Negeri Sembilan Melayu: Soghomban, Somban; Jawi: سرمبن) adalah sebuah kota di Distrik Seremban dan ibu kota negara bagian Negeri Sembilan di Semenanjung Malaysia. Administrasi kota dijalankan oleh Dewan Kota Seremban. Seremban memperoleh status kotanya pada 20 Januari 2020.
+        </city:abstract>
+        <city:areaTotalKm>959 km2 </city:areaTotalKm>
+        <city:populationTotal>620.100</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Seremban"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Kulim_District">
+        <city:number>24</city:number>
+        <rdfs:label>Kulim District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+       Distrik Kulim adalah sebuah distrik dan kota di negara bagian Kedah, Malaysia. Letaknya di sebelah tenggara Kedah, berbatasan dengan Penang. Kota Kulim, hanya 27 km (17 mil) di sebelah timur ibu kota Penang, George Town, juga merupakan bagian dari Penang Raya, konurbasi terbesar kedua di Malaysia.
+        </city:abstract>
+        <city:areaTotalKm>765 km2 </city:areaTotalKm>
+        <city:populationTotal>272.024</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kulim_District"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Miri">
+        <city:number>25</city:number>
+        <rdfs:label>Miri</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Miri /ˈmɪriː/ (Jawi: ميري‎; Hanzi: 美里; pinyin: Méilǐ) adalah sebuah kota pesisir di timur laut Sarawak, Malaysia, yang terletak di dekat perbatasan Brunei, di pulau Kalimantan. Kota ini mencakup area seluas 997,43 kilometer persegi (385,11 mil persegi), terletak 798 kilometer (496 mil) timur laut Kuching dan 329 kilometer (204 mil) barat daya Kota Kinabalu. Miri adalah kota terbesar kedua di Sarawak, dengan jumlah penduduk 300.543 jiwa pada tahun 2020. Kota ini juga merupakan ibu kota Distrik Miri Divisi Miri. Sebelum Miri didirikan, Marudi adalah pusat administrasi wilayah utara Sarawak. Miri didirikan pada tahun 1910 ketika sumur minyak pertama dibor oleh Royal Dutch Shell. Penemuan ladang minyak di Miri telah menyebabkan perkembangan pesat kota Miri. Miri menjadi pusat administrasi wilayah utara Sarawak pada tahun 1929. Selama Perang Dunia II, ladang minyak Miri dihancurkan oleh pemerintah Brooke untuk menyabotase operasi Jepang di Asia Tenggara tetapi tidak berhasil; Kota Miri merupakan tempat pendaratan pertama pasukan Jepang di Kalimantan. Pendudukan Jepang selanjutnya membuat Miri menjadi sasaran serangan udara Sekutu yang menyebabkan hancurnya fasilitas kilang minyak di Miri. Industri perminyakan terus menjadi pemain utama dalam perekonomian kota setelah perang. Eksplorasi minyak telah berpindah ke lepas pantai sejak tahun 1950-an, namun kemudian ditemukan ladang minyak baru di daratan pada tahun 1989 dan 2011. Pada tahun 1974, pembentukan perusahaan minyak dan gas Malaysia, Petronas, menghasilkan kerja sama antara Petronas dan Shell dalam eksplorasi minyak di wilayah Miri. . Pada tahun 2005, Miri menjadi kota ke-10 di Malaysia yang diberikan status kota resmi, dan ibu kota non-negara bagian pertama yang diberikan status tersebut. Miri adalah pintu gerbang wisata utama ke Situs Warisan Dunia UNESCO yang terkenal di dunia, Taman Nasional Gunung Mulu; Taman Nasional Loagan Bunut; Taman Nasional Perbukitan Lambir; Taman Nasional Niah dan Taman Nasional Terumbu Karang Miri-Sibuti. Taman Nasional Gunung Mulu dengan Kamar Sarawaknya, yang merupakan ruang gua terbesar di dunia berdasarkan luasnya, tetap menjadi salah satu tujuan ekowisata favorit di Miri. Miri juga merupakan tempat kelahiran industri perminyakan Malaysia. Industri besar lainnya di kota ini termasuk kayu, kelapa sawit, dan pariwisata.
+        </city:abstract>
+        <city:areaTotalKm>997,43 km2 </city:areaTotalKm>
+        <city:populationTotal>300.543</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Miri"/>
+    </city:malaysia>
+
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Kulai">
+        <city:number>26</city:number>
+        <rdfs:label>Kulai</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Kajang adalah sebuah kota di Distrik Hulu Langat, Selangor, Malaysia. Kajang, bersama dengan sebagian besar Kabupaten Hulu Langat, diatur oleh Dewan Kota Kajang. Kota Kajang terletak di tepi timur Sungai Langat. Dikelilingi oleh Cheras, Semenyih, Bangi, Putrajaya dan Serdang. Nama Kajang diyakini berasal dari bahasa suku Temuan (Orang Asli) yang mendiami lembah Langat pada abad 17-18. Dalam bahasa mereka, kajang mengacu pada seni menenun daun ulir atau pandan, yang lazim di sebagian besar negara. Teori serupa menyatakan bahwa pemukim dari wilayah tetangga Sungai Ujong (Negeri Sembilan) pernah membangun gubuk (pondok) di daerah tersebut dengan atap jerami yang terbuat dari daun ulir yang dilipat (lipat kajang).
+        </city:abstract>
+        <city:areaTotalKm>.....</city:areaTotalKm>
+        <city:populationTotal>230.000</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kulai"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Kangar">
+        <city:number>27</city:number>
+        <rdfs:label>Kangar</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Kangar (Melayu Utara: Kangaq; Jawi: كڠار) adalah ibu kota negara bagian dan kota terbesar di Perlis, Malaysia. Kota ini berpenduduk 48.898 jiwa dan luas wilayah 2.619,4 ha. Letaknya di sebelah perbatasan Thailand, di titik paling utara Semenanjung Malaysia. Itu terletak di tepi Sungai Perlis. Kota ini juga merupakan pusat berkumpulnya produksi padi di kabupaten sekitarnya. Pemerintah kotanya bersatu dengan komunitas tetangga Arau dan Kaki Bukit. Pusat Kangar adalah Provinsi Sena. Kota ini merupakan ibu kota negara bagian terkecil di Malaysia dan penduduknya sebagian besar adalah petani dan pegawai negeri. Industrinya meliputi semen, penggilingan gergaji, karet, kertas, serta pengolahan gula dan udang.
+        </city:abstract>
+        <city:areaTotalKm>29,84 km2 </city:areaTotalKm>
+        <city:populationTotal>48.898</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kangar"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Kuala_Langat_District">
+        <city:number>28</city:number>
+        <rdfs:label>Kuala Langat District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Distrik Kuala Langat adalah sebuah distrik di Selangor, Malaysia. Terletak di bagian barat daya Selangor. Luas wilayahnya adalah 858 kilometer persegi, dan berpenduduk 307.787 jiwa menurut Sensus 2020 (tidak termasuk warga asing). Berbatasan dengan Kabupaten Klang dan Petaling di utara dan Sepang di timur. Selat Malaka menjadi perbatasan baratnya. Di antara kota-kota besar di Kuala Langat adalah Banting, Jugra, Teluk Datok, Morib dan sebuah pulau Pulau Carey.
+        </city:abstract>
+        <city:areaTotalKm>858 km2 </city:areaTotalKm>
+        <city:populationTotal>307.787</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kuala_Langat_District"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Bintulu">
+        <city:number>29</city:number>
+        <rdfs:label>Bintulu</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+       Bintulu adalah kota pesisir di pulau Kalimantan di wilayah tengah Sarawak, Malaysia. Bintulu terletak 610 kilometer (380 mil) timur laut Kuching, 216 kilometer (134 mil) timur laut Sibu, dan 200 kilometer (120 mil) barat daya Miri. Dengan jumlah penduduk 114.058 jiwa pada tahun 2010, Bintulu adalah ibu kota Distrik Bintulu Divisi Bintulu di Sarawak, Malaysia. Nama Bintulu diambil dari bahasa asli setempat “Mentu Ulau” (memetik kepala). Bintulu adalah sebuah desa nelayan kecil ketika Rajah James Brooke mengakuisisinya pada tahun 1861. Brooke kemudian membangun benteng di sana pada tahun 1862. Pada tahun 1867, pertemuan Dewan Umum pertama (sekarang Dewan Legislatif Negara Bagian Sarawak) diadakan di Bintulu. Ini adalah sistem legislatif negara bagian paling awal di Malaysia. Pembangunan landasan terbang paling awal di Bintulu dimulai pada tahun 1934 namun dihentikan pada tahun 1938 karena kesulitan keuangan. Selama Perang Dunia II, landasan udara tersebut dibom secara besar-besaran oleh pasukan Sekutu. Inggris kemudian membangun kembali landasan udara tersebut, dan mulai beroperasi penuh pada tahun 1955. Bandara lama digantikan oleh bandara baru pada tahun 2002. Bintulu tetap menjadi desa nelayan hingga tahun 1969 ketika cadangan minyak dan gas ditemukan di lepas pantai. Sejak itu, Bintulu telah menjadi pusat industri padat energi seperti kilang LNG Malaysia, kilang Sintesis Distilasi Tengah Shell, dan pembangkit listrik siklus gabungan Bintulu. Perekonomian juga meluas ke perkebunan kelapa sawit dan hutan, pengolahan minyak sawit, pengolahan limbah kayu, dan manufaktur semen. Pelabuhan Bintulu adalah yang tersibuk di Sarawak. Kota ini juga merupakan pintu gerbang ke Samalajau Industrial Park. Tempat wisata di Bintulu antara lain adalah Taman Nasional Similajau, Taman Tumbina, Pantai Tanjung Batu, Desa Jepak, Pura Kuan Yin Tong, Masjid Assyakirin, Tugu Dewan Negri, Tamu Bintulu, dan Pasar Pasar Utama. Festival Layang-layang Internasional Kalimantan diadakan setiap tahun di kota ini.
+        </city:abstract>
+        <city:areaTotalKm> ...... </city:areaTotalKm>
+        <city:populationTotal>114.058</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bintulu"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Manjung_District">
+        <city:number>30</city:number>
+        <rdfs:label>Manjung District </rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Distrik Manjung, sebelumnya bernama Dindings, adalah sebuah distrik di bagian barat daya negara bagian Perak, Malaysia. Distrik ini terkenal dengan Pulau Pangkor, sebuah atraksi di Perak dan markas Angkatan Laut Kerajaan Malaysia (TLDM), Pangkalan Angkatan Laut Lumut, dan galangan kapal. Dinding pernah menjadi bagian dari koloni British Straits Settlements. Seri Manjung adalah pusat kota utama di kabupaten ini, sedangkan kota-kota kecilnya meliputi Kota Lumut, Kota Sitiawan, Ayer Tawar, Pantai Remis dan Beruas.
+        </city:abstract>
+        <city:areaTotalKm> 1.113,58 km2 </city:areaTotalKm>
+        <city:populationTotal>224.331</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Manjung_District"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Batu_Pahat_District">
+        <city:number>31</city:number>
+        <rdfs:label>Batu Pahat District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Distrik Batu Pahat adalah sebuah distrik di negara bagian Johor, Malaysia. Letaknya di tenggara Muar, barat daya Kluang, barat laut Pontian, selatan Segamat dan Kabupaten Tangkak. Ibukota kabupaten ini adalah Bandar Penggaram.
+        </city:abstract>
+        <city:areaTotalKm>1.872,58 km2 </city:areaTotalKm>
+        <city:populationTotal>443.600</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Batu_Pahat_District"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Sepang_District">
+        <city:number>31</city:number>
+        <rdfs:label>Sepang District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Distrik Sepang adalah sebuah distrik yang terletak di bagian selatan negara bagian Selangor di Malaysia. Kabupaten Sepang memiliki luas sekitar 600 kilometer persegi, dan mempunyai populasi 190.889 jiwa berdasarkan Sensus 2010 (tidak termasuk orang asing). Distrik Sepang juga terkenal dengan kota Cyberjaya, yang juga dikenal sebagai Silicon Valley Malaysia karena hubungannya dengan MSC Malaysia. Ibu kota kabupaten Sepang adalah Salak Tinggi yang mengambil alih kota Sepang. Kawasan Puchong yang tersisa, seperti Bukit Puchong 2, Pulau Meranti, Bandar Nusaputra, Taman Putra Perdana, Taman Putra Prima, Taman Meranti Jaya dan Taman Mas, terletak di distrik ini.
+        </city:abstract>
+        <city:areaTotalKm> 599,66 km2 </city:areaTotalKm>
+        <city:populationTotal>190.889</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sepang_District"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Kuala_Selangor_District">
+        <city:number>32</city:number>
+        <rdfs:label>Kuala Selangor District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+       Distrik Kuala Selangor adalah sebuah distrik di Selangor, Malaysia. Ia memiliki total daratan 1.194,52 kilometer persegi (461 mil persegi) yang dipisahkan oleh Sungai Selangor menjadi dua bagian, Tanjung Karang dan Kuala Selangor. Batas kabupaten ini berbatasan dengan Sabak Bernam di utara, Hulu Selangor dan Gombak di barat, Petaling di barat daya, dan Klang di selatan.
+        </city:abstract>
+        <city:areaTotalKm> 1.194,52 km2 </city:areaTotalKm>
+        <city:populationTotal>273.728</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kuala_Selangor_District"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Muar_District">
+        <city:number>33</city:number>
+        <rdfs:label>Muar District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+       Distrik Muar adalah sebuah distrik di Johor, Malaysia. Muar terletak di muara Sungai Muar, di pesisir Selat Malaka. Distrik Muar mencakup 1.354 km2 (523 mil persegi), dengan jumlah penduduk 233.779 jiwa.
+        </city:abstract>
+        <city:areaTotalKm> 1.354 km2 </city:areaTotalKm>
+        <city:populationTotal>233.779</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Muar_District"/>
+    </city:malaysia>
+
+<city:malaysia rdf:about="https://dbpedia.org/page/Nilai">
+        <city:number>34</city:number>
+        <rdfs:label>Nilai</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Nilai adalah sebuah kota yang terletak di Distrik Seremban, Negeri Sembilan, Malaysia, dekat perbatasan dengan Selangor. Ini adalah pinggiran utara wilayah metropolitan Seremban. Karena kedekatannya dengan Bandara Internasional Kuala Lumpur, kota ini berkembang pesat. Nilai hampir berada di tengah-tengah antara ibu kota negara bagian Seremban dan Kajang, Selangor, dan terletak di jalur kereta api yang menghubungkan kedua kota ini. Itu juga merupakan ujung selatan MSC Malaysia. Proyek pembangunan dapat dilihat sebagai one drive around Nilai. Beberapa perguruan tinggi dan dua universitas paling terkenal di Malaysia berlokasi di Nilai: Universitas Nilai, Universitas Internasional INTI, Universitas Internasional Manipal, Universiti Sains Islam Malaysia dan Perguruan Tinggi Universitas Islam Malaysia. Akibatnya, kota ini dihuni oleh pelajar dari seluruh dunia. Siswa dari lebih dari 30 negara dapat dilihat di Nilai. Nilai telah menjadi kota perbelanjaan yang populer dengan berdirinya beberapa pusat perbelanjaan besar seperti Pusat Grosir Nilai 3, Nilai Square, AEON Mall, Mydin, Giant Hypermarket dan Lotus's. MesaMall adalah tambahan terbaru yang dibuka pada tahun 2017.
+        </city:abstract>
+        <city:areaTotalKm>....</city:areaTotalKm>
+        <city:populationTotal>38.612</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Nilai"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Lahad_Datu">
+        <city:number>35</city:number>
+        <rdfs:label>Lahad Datu</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Lahad Datu (Melayu: Bandar Lahad Datu) adalah ibu kota Distrik Lahad Datu di Semenanjung Dent di Divisi Tawau Sabah, Malaysia. Populasinya diperkirakan sekitar 27.887 jiwa pada tahun 2010. Kota ini dikelilingi oleh hamparan perkebunan kakao dan kelapa sawit. Ini juga merupakan pelabuhan ekspor kayu yang penting. Kota ini memiliki bandara untuk penerbangan domestik.
+        </city:abstract>
+        <city:areaTotalKm>......</city:areaTotalKm>
+        <city:populationTotal>27.887</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Lahad_Datu"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Hulu_Selangor_District">
+        <city:number>36</city:number>
+        <rdfs:label>Hulu Selangor District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Hulu Selangor adalah sebuah distrik di Selangor, Malaysia. Ini berisi kota Serendah, Batang Kali dan Kuala Kubu Bharu. Kota utamanya adalah Kuala Kubu Bharu. Distrik ini terletak di bagian timur laut Selangor dan berbatasan dengan negara bagian Perak di utara, Pahang di timur, Kabupaten Sabak Bernam di barat laut, Kabupaten Kuala Selangor di barat daya, dan Kabupaten Gombak di selatan. Sungai Selangor bersumber dari daerah ini, sehingga menjadi nama distrik tersebut.
+        </city:abstract>
+        <city:areaTotalKm>1.756,3 km2 </city:areaTotalKm>
+        <city:populationTotal>239.978</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Hulu_Selangor_District"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Kinabatangan">
+        <city:number>37</city:number>
+        <rdfs:label>Kinabatangan</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Kinabatangan (Melayu: Pekan Kinabatangan) adalah ibu kota Distrik Kinabatangan di Divisi Sandakan Sabah, Malaysia. Populasinya diperkirakan sekitar 10.256 jiwa pada tahun 2010. Kinabatangan sebagian besar dihuni oleh suku Orang Sungai, salah satu kelompok penduduk asli Sabah.
+        </city:abstract>
+        <city:areaTotalKm>......</city:areaTotalKm>
+        <city:populationTotal>10.256</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kinabatangan"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Pasir_Mas_(town)">
+        <city:number>38</city:number>
+        <rdfs:label>Pasir Mas (town)</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Pasir Mas (Jawi: ڤاسير مس, Kelantan: Pasey Mah) adalah sebuah kota di Distrik Pasir Mas, di barat laut Kelantan, Malaysia. Pasir Mas adalah kota terbesar kedua di Kelantan berdasarkan jumlah penduduk (230.424 jiwa pada sensus 2020).
+        </city:abstract>
+        <city:areaTotalKm>139 km2 </city:areaTotalKm>
+        <city:populationTotal>230.424</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pasir_Mas_(town)"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Penampang_District">
+        <city:number>39</city:number>
+        <rdfs:label>Penampang District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Distrik Penampang (Melayu: Daerah Penampang) adalah sebuah distrik administratif di negara bagian Sabah, Malaysia, bagian dari Divisi Pantai Barat yang meliputi distrik Kota Belud, Kota Kinabalu, Papar, Penampang, Putatan, Ranau dan Tuaran. Ibukota kabupaten ini berada di Kota Penampang.
+        </city:abstract>
+        <city:areaTotalKm>466 km2 </city:areaTotalKm>
+        <city:populationTotal>121.934</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Penampang_District"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Alor_Gajah_District">
+        <city:number>40</city:number>
+        <rdfs:label>Alor Gajah District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Distrik Alor Gajah adalah salah satu dari tiga distrik administratif di Malaka, Malaysia. Berbatasan dengan Kabupaten Tampin, Kabupaten Rembau dan Kabupaten Port Dickson (termasuk eksklave Tanjung Tuan) di Negeri Sembilan di utara dan berbatasan dengan Kabupaten Jasin dan Kabupaten Melaka Tengah di timur dan selatan.
+        </city:abstract>
+        <city:areaTotalKm>660 km2 </city:areaTotalKm>
+        <city:populationTotal>212.000</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Alor_Gajah_District"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Keningau_District">
+        <city:number>41</city:number>
+        <rdfs:label>Keningau District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+       Distrik Keningau (Melayu: Daerah Keningau) adalah sebuah distrik administratif di negara bagian Sabah, Malaysia, bagian dari Divisi Dalam Negeri yang meliputi distrik Beaufort, Keningau, Kuala Penyu, Nabawan, Sipitang, Tambunan dan Tenom. Ibu kota kabupaten ini berada di Kota Keningau.
+        </city:abstract>
+        <city:areaTotalKm>3.533 km2 </city:areaTotalKm>
+        <city:populationTotal>173.103</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Keningau_District"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Kluang_District">
+        <city:number>42</city:number>
+        <rdfs:label>Kluang District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Distrik Kluang (Hanzi sederhana: 居銮县; Hanzi tradisional: 居鑾縣) adalah sebuah distrik di Johor, Malaysia. Ibu kota distriknya adalah Kota Kluang. Distrik Kluang adalah salah satu dari tiga distrik terkurung daratan di Johor, selain Segamat dan Kulai.
+        </city:abstract>
+        <city:areaTotalKm>2.864,53 km2 </city:areaTotalKm>
+        <city:populationTotal>262.398</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kluang_District"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Kemaman_District">
+        <city:number>43</city:number>
+        <rdfs:label>Kemaman District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Kemaman adalah sebuah distrik di Terengganu, Malaysia. Kecamatan Kemaman berbatasan dengan Kecamatan Dungun di utara dan negara bagian Pahang di selatan dan barat. Ini adalah pintu gerbang selatan ke negara bagian Terengganu. Pusat pemerintahan distrik dan pusat perekonomian utama Kemaman adalah kota Chukai, dekat perbatasan negara bagian Terengganu-Pahang. Kota penting lainnya di kabupaten ini adalah Kijal, Kerteh, dan Kemasik. Distrik ini dikelola oleh Dewan Kota. Dengan luas wilayah hampir 1000 mil persegi, kabupaten ini merupakan kabupaten terluas ketiga setelah Hulu Terengganu dan Dungun yang berbatasan dengan Laut Cina Selatan.
+        </city:abstract>
+        <city:areaTotalKm>2.535,6 km2 </city:areaTotalKm>
+        <city:populationTotal>166.434</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Kemaman_District"/>
+    </city:malaysia>
+
+        <city:malaysia rdf:about="https://dbpedia.org/page/Sibu_District">
+        <city:number>44</city:number>
+        <rdfs:label>Sibu District</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Distrik Sibu adalah sebuah distrik administratif di Divisi Sibu, Sarawak, Malaysia dengan luas wilayah 2.229,8 km2. Dapat dibagi menjadi wilayah Kota Sibu (129,5 km2) dan wilayah pedesaan (2.100,3 km2). Kota satelit Sibu Jaya (26 km dari kota Sibu) termasuk dalam wilayah pedesaan. Distrik Sibu berada di bawah lingkup Kantor Distrik Sibu yang terletak di Kompleks Islam Sibu, Kota Sibu. Saat ini terdapat dua otoritas lokal yaitu Dewan Kota Sibu (SMC) dan Dewan Distrik Pedesaan Sibu (SRDC) yang masing-masing mengelola wilayah pedesaan Kota Sibu dan Sibu.
+        </city:abstract>
+        <city:areaTotalKm>2.229,8 km2 </city:areaTotalKm>
+        <city:populationTotal>240.165</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sibu_District"/>
+    </city:malaysia>
+
+    <city:malaysia rdf:about="https://dbpedia.org/page/Temerloh">
+        <city:number>45</city:number>
+        <rdfs:label>Temerloh</rdfs:label>
+        <city:country>Malaysia</city:country>
+        <city:abstract>
+        Temerloh adalah sebuah kotamadya di tengah Pahang, Malaysia. Temerloh telah terbukti menjadi "pusat Semenanjung Malaysia" (Melayu: Titik Tengah Semenanjung Malaysia) 3TS, yang terletak di Kampung Paya Siput, Lanchang. Terletak sekitar 130 kilometer (81 mil) dari Kuala Lumpur sepanjang Kuantan – Kuala Lumpur jalan utama, Temerloh adalah kota terbesar kedua di Pahang setelah Kuantan, ibu kota negara bagian. Terletak di persimpangan Sungai Pahang dan Sungai Pahang. Saat ini, Temerloh biasanya mengacu pada wilayah di bawah administrasi Dewan Kota Temerloh yang meliputi Mentakab, Lanchang, Kuala Krau dan Kerdau. Sebuah kota tua dengan beberapa bangunan kolonial dan ruko, kota ini telah berkembang pesat dalam beberapa tahun terakhir sebagai pusat transportasi dan pusat industri baru. Ada banyak pusat komersial dan industri baru yang dibangun di Temerloh dalam beberapa tahun terakhir. Memotong separuh waktu perjalanan, East Coast Expressway yang baru selesai dibangun menghubungkan kota ini dengan Kuala Lumpur dan Kuantan serta menambah pertumbuhan Temerloh.
+        </city:abstract>
+        <city:areaTotalKm>2.251 km2 </city:areaTotalKm>
+        <city:populationTotal>158.724</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Temerloh"/>
+    </city:malaysia>
+
+    </rdf:RDF>

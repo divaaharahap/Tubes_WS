@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:city="http://example.org/schema/city"
+    xmlns:dc="http://purl.org/dc/terms/">
+
+<city:thailand rdf:about="https://dbpedia.org/page/Bangkok">
+        <city:number>1</city:number>
+        <rdfs:label>Bangkok</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Bangkok adalah ibukota dan kota terpadat di Thailand. Bangkok pada tahun 1972, 
+        berkembang pesat selama tahun 1960an hingga kini memberikan dampak yang signifikan 
+        terhadap politik, ekonomi, pendidikan, media dan masyarakat modern Thailand.
+        </city:abstract>
+        <city:areaTotalKm>1,568.737 km2 </city:areaTotalKm>
+        <city:populationTotal>8,305,218 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Bangkok"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Nonthaburi">
+        <city:number>2</city:number>
+        <rdfs:label>Nonthaburi</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Nonthaburi adalah kota utama di distrik dan provinsi dengan nama 
+        yang sama di Thailand. Karena kedekatannya dengan Bangkok, kota 
+        ini dianggap sebagai pinggiran kota Bangkok, bagian dari wilayah 
+        Metropolitan Bangkok, atau Bangkok Raya.
+        </city:abstract>
+        <city:areaTotalKm>38.90km2 </city:areaTotalKm>
+        <city:populationTotal>254,375 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Nonthaburi"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Nakhon_Ratchasima">
+        <city:number>3</city:number>
+        <rdfs:label>Nakhon Ratchasima</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Nakhon Ratchasima adalah ibu kota provinsi Nakhon Ratchasima
+        dan kota terbesar ketiga di Thailand. Kota ini umumnya dikenal 
+        sebagai Korat. Ini adalah pintu gerbang ke Timur laut Thailand yang berbahasa Laos. 
+        </city:abstract>
+        <city:areaTotalKm>37.5 km2 </city:areaTotalKm>
+        <city:populationTotal>126,391 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Nakhon_Ratchasima"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Chiang_Mai">
+        <city:number>4</city:number>
+        <rdfs:label>Chiang Mai</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Chiang Mai adalah kota terbesar di Thailand Utara, ibu kota Thailand provinsi Chiang Mai 
+        dan kota terbesar kedua di Thailand.
+        </city:abstract>
+        <city:areaTotalKm>40.216 km2 </city:areaTotalKm>
+        <city:populationTotal>127,24 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Chiang_Mai"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Hat_Yai">
+        <city:number>5</city:number>
+        <rdfs:label>Hat Yai</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Hat Yai adalah sebuah kota di Thailand selatan dekat perbatasan Malaysia 
+        dan kota terbesar kelima di Thailand. Hat Yai juga merupakan kota terbesar
+        di provinsi Songkhla dan merupakan bagian dari wilayah Metropolitan Greater Hat Yai-Songkhla.
+        </city:abstract>
+        <city:areaTotalKm>21.00 km2 </city:areaTotalKm>
+        <city:populationTotal>156,802 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Hat_Yai"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Udon_Thani">
+        <city:number>6</city:number>
+        <rdfs:label>Udon Thani</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Udon Thani adalah salah satu dari empat kota besar di Isan, 
+        selain Nakhon Ratchasima, Ubon Ratchathani, dan Khon Kaen.
+        Bersama-sama mereka dikenal sebagai "empat besar Isan".
+        </city:abstract>
+        <city:areaTotalKm>47.7 km2 </city:areaTotalKm>
+        <city:populationTotal>130,531 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Udon_Thani"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Pak_Kret">
+        <city:number>7</city:number>
+        <rdfs:label>Pak Kret</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Pak Kret adalah sebuah kota di provinsi Nonthaburi, Thailand. Kota ini terletak
+        di daratan Thailand Tengah di tepi timur hilir sungai Chao Phraya, dan
+        merupakan kotamadya terpadat ketiga(thesaban nakhon) di Thailand. 
+        </city:abstract>
+        <city:areaTotalKm>89.023 km2 </city:areaTotalKm>
+        <city:populationTotal>246,212 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pak_Kret"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Khon_Kaen">
+        <city:number>8</city:number>
+        <rdfs:label>Khon Kaen</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Khon Kaen adalah ibu kota provinsi Khon Kaen dan kota terbesar keempat di Thailand.
+        Ini adalah salah satu dari empat kota besar di Isan. Kotamadya Khon Kaen bertindak
+        sebagai pusat pemerintahan provinsi tersebut.
+        </city:abstract>
+        <city:areaTotalKm>46 km2 </city:areaTotalKm>
+        <city:populationTotal>114,459 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Khon_Kaen"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Chaophraya_Surasak">
+        <city:number>9</city:number>
+        <rdfs:label>Chaophraya Surasak</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Chaophraya Surasak adalah sebuah kota di Provinsi Chonburi, Thailand.
+        Kabupaten ini ditetapkan sebagai kabupaten sanitasi pada tahun 1967.
+        </city:abstract>
+        <city:areaTotalKm>276.98 km2 </city:areaTotalKm>
+        <city:populationTotal>153,687 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Chaophraya_Surasak"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Ubon_Ratchathani">
+        <city:number>10</city:number>
+        <rdfs:label>Ubon Ratchathani</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Ubon Ratchathani merupakan sebuah kota yang terletak di Sungai Mun di Tenggara
+        wilayah Isan di Thailand. Namanya berarti "kota teratai kerajaan". dan juga merupakan 
+        pusat administrasi Provinsi Ubon Ubon Ratchathani.
+        </city:abstract>
+        <city:areaTotalKm>29.04 km2 </city:areaTotalKm>
+        <city:populationTotal>106,6022 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Ubon_Ratchathani"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Nakhon_Si_Thammarat">
+        <city:number>11</city:number>
+        <rdfs:label>Nakhon Si Thammarat</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Nakhon Si Thammarat adalah sebuah kotamadya yang terletak di Mueang Nakhon Si Thammarat, 
+        ibu kota Provinsi Nakhon Si Thammarat. Provinsi Nakhon Si Thammarat terletak di Thailand Selatan.
+        Kota ini merupakan pusat administrasi Thailand Selatan selama sebagian besar sejarahnya.
+        </city:abstract>
+        <city:areaTotalKm>22.56 km2 </city:areaTotalKm>
+        <city:populationTotal>102,152 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Nakhon_Si_Thammarat"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Nakhon_Sawan">
+        <city:number>12</city:number>
+        <rdfs:label>Nakhon Sawan</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Nakhon Sawan adalah sebuah kota di Thailand, namanya berarti "Kota Surgawi". Kota ini
+        adalah ibu kota Provinsi Nakhon Sawan, dan meliputi seluruh kecamatan Pak Nam Pho dan sebagian
+        Khwae Yai.
+        </city:abstract>
+        <city:areaTotalKm>27.87 km2 </city:areaTotalKm>
+        <city:populationTotal>82,305 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Nakhon_Sawan"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Nakhon_Pathom">
+        <city:number>13</city:number>
+        <rdfs:label>Nakhon Pathom</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Nakhon Pathom adalah sebuah kota di Thailand tengah, yang terletak di 57 km
+        sebelah Barat Bangkok. dan Nakhon Pathom juga merupakan pusat Dvaravati terbesar.
+        </city:abstract>
+        <city:areaTotalKm>19.85 km2 </city:areaTotalKm>
+        <city:populationTotal>120,657 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Nakhon_Pathom"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Phitsanulok">
+        <city:number>14</city:number>
+        <rdfs:label>Phitsanulok</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Phitsanulok adalah sebuah kota di Thailand yang merupakan salah satu pusat industri
+        pariwisata Thailand, dan merupakan kota bersejarah di negara tersebut.
+        </city:abstract>
+        <city:areaTotalKm>18.26 km2 </city:areaTotalKm>
+        <city:populationTotal>62,584 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Phitsanulok"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Pattaya">
+        <city:number>15</city:number>
+        <rdfs:label>Pattaya</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Pattaya adalah kotamadya di Thailand yang memiliki pemerintahan sendiri di dalam
+        Pattaya berada di pusat Wilayah Metropolitan terbesar ketiga di Thailand. 
+        </city:abstract>
+        <city:areaTotalKm>53.4 km2 </city:areaTotalKm>
+        <city:populationTotal>999,092 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pattaya"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Songkhla">
+        <city:number>16</city:number>
+        <rdfs:label>Songkhla</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Songkhla adalah bagian dari Wilayah Metropolitan Greater Hat Yai-Songkhla 
+        wilayah metropolitan terbesar ketiga di Thailand. dan juga merupakan kota nelayan 
+        dan juga pelabuhan penting. Ini adalah pelabuhan utama di sisi Timur Tanah Genting Kra.
+        </city:abstract>
+        <city:areaTotalKm>9.27 km2 </city:areaTotalKm>
+        <city:populationTotal>61,758 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Songkhla"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Surat_Thani">
+        <city:number>17</city:number>
+        <rdfs:label>Surat Thani</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Surat Thani adalah sebuah kota di Amphoe Mueang Surat Thani, 
+        Provinsi Surat Thani, Thailand selatan. Kota ini tidak menawarkan tempat wisata utama, 
+        dan dikenal oleh wisatawan sebagai titik awal menuju Ko Samui, Ko Tao, dan Ko Pha Ngan. 
+        Ini adalah pusat komersial regional, dengan pelabuhan yang menjual produk utama provinsi, karet dan kelapa.
+        </city:abstract>
+        <city:areaTotalKm>68.97 km2 </city:areaTotalKm>
+        <city:populationTotal>132,04 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Surat_Thani"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Rangsit">
+        <city:number>18</city:number>
+        <rdfs:label>Rangsit</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Rangsit merupakan kota metropolitan yang mendukung perluasan Bangkok di utara. 
+        Rangsit telah menjadi titik keberangkatan perjalanan ke provinsi-provinsi di utara, 
+        timur laut, dan timur Thailand.
+        </city:abstract>
+        <city:areaTotalKm>20.80 km2 </city:areaTotalKm>
+        <city:populationTotal>79,319 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Rangsit"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Phuket_province">
+        <city:number>19</city:number>
+        <rdfs:label>Phuket</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Phuket merupakan provinsi terkecil kedua di Thailand. Pulau ini berada di salah satu 
+        jalur perdagangan utama antara India dan Tiongkok, dan sering disebutkan dalam catatan 
+        kapal asing para pedagang Portugis, Prancis, Belanda, dan Inggris, 
+        namun tidak pernah dijajah oleh kekuatan Eropa. Dahulu kekayaannya diperoleh 
+        dari timah dan karet, dan sekarang dari pariwisata.
+        </city:abstract>
+        <city:areaTotalKm>543 km2 </city:areaTotalKm>
+        <city:populationTotal>416,582 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Phuket_province"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Samut_Prakan_province">
+        <city:number>20</city:number>
+        <rdfs:label>Samut Prakan</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Samut Prakan adalah salah satu provinsi tengah (changwat) Thailand, 
+        yang didirikan berdasarkan Undang-Undang Pendirian Changwat Sam ut Prakan. 
+        Ini adalah bagian dari Wilayah Metropolitan Bangkok. 
+        Provinsi tetangganya adalah Bangkok, di utara dan barat, dan Chachoengsao di timur.
+        </city:abstract>
+        <city:areaTotalKm>1.004 km2 </city:areaTotalKm>
+        <city:populationTotal>1,344,875 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Samut_Prakan_province"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Lampang">
+        <city:number>21</city:number>
+        <rdfs:label>Lampang</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Lampang adalah kota terbesar ketiga di Thailand utara dan ibu kota provinsi Lampang 
+        dan distrik Mueang Lampang. Nama tradisional Lampang antara lain Wiang Lakon dan Khelang Nakhon. 
+        Kota ini merupakan pusat perdagangan dan transportasi.
+        </city:abstract>
+        <city:areaTotalKm>22.17 km2 </city:areaTotalKm>
+        <city:populationTotal>58,074 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Lampang"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Laem_Chabang">
+        <city:number>22</city:number>
+        <rdfs:label>Laem Chabang</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Laem Chabang adalah kotamadya kota pelabuhan (thesaban nakhon) di distrik 
+        Si Racha dan Bang Lamung di Provinsi Chonburi, Thailand.
+        Kota ini berkembang di sekitar pelabuhan, namun juga berfungsi sebagai perhentian utama 
+        di jalan raya pesisir yang menghubungkan Pattaya dan Bangkok melalui Jalan Sukhumvit.
+        </city:abstract>
+        <city:areaTotalKm>88.59 km2 </city:areaTotalKm>
+        <city:populationTotal>88,271 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Laem_Chabang"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Chiang_Rai">
+        <city:number>23</city:number>
+        <rdfs:label>Chiang Rai</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Chiang Rai adalah kota besar paling utara di Thailand, dengan populasi sekitar 
+        200.000 orang. Terletak di Distrik Mueang Chiang Rai, Provinsi Chiang Rai. 
+        Chiang Rai didirikan sebagai ibu kota pada masa pemerintahan Raja Mangrai, pada tahun 1262 M.
+        </city:abstract>
+        <city:areaTotalKm>60.85 km2 </city:areaTotalKm>
+        <city:populationTotal>69,888 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Chiang_Rai"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Ko_Samui">
+        <city:number>24</city:number>
+        <rdfs:label>Ko Samui</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Ko Samui adalah sebuah pulau di lepas pantai timur Thailand. Dan 
+        merupakan status kotamadya dan kini mempunyai pemerintahan
+        sendiri secara lokal. Kota ini juga merupakan kota dengan pulau 
+        terbesar kedua di Thailand setelah Phuket.
+        </city:abstract>
+        <city:areaTotalKm>228.7 km2 </city:areaTotalKm>
+        <city:populationTotal>70,059 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Ko_Samui"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Rayong">
+        <city:number>25</city:number>
+        <rdfs:label>Rayong</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Rayong adalah sebuah kota di pantai Timur Teluk Thailand dan
+        ibu kota provinsi Rayong. Industri utamanya adalah perikanan, 
+        dan juga merupakan produsen utama kecap ikan Thailand. 
+        </city:abstract>
+        <city:areaTotalKm>16.95 km2 </city:areaTotalKm>
+        <city:populationTotal>64,256 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Rayong"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Mae_Sot">
+        <city:number>26</city:number>
+        <rdfs:label>Mae Sot</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Mae Sot adalah sebuah kota di Thailand Barat yang berbatasan 
+        dengan Myanmar di Barat. Kota ini terkenal sebagai pusat perdagangan 
+        dan memiliki populasi migran dan pengungsi Burma yang besar.
+        </city:abstract>
+        <city:areaTotalKm>27.2 km2 </city:areaTotalKm>
+        <city:populationTotal>52,35 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Mae_Sot"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Om_Noi">
+        <city:number>27</city:number>
+        <rdfs:label>Om Noi</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Om Noi adalah sebuah munisipalitas di Samut Sakhon, Thailand. 
+        Letaknya 13 km sebelah barat Bangkok.
+        </city:abstract>
+        <city:areaTotalKm>30.40 km2 </city:areaTotalKm>
+        <city:populationTotal>52,457 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Om_Noi"/>
+    </city:thailand>
+<city:thailand rdf:about="https://dbpedia.org/page/Sakon_Nakhon">
+        <city:number>28</city:number>
+        <rdfs:label>Sakon Nakhon</rdfs:label>
+        <city:country>Thailand</city:country>
+        <city:abstract>
+        Sakon Nakhon adalah sebuah kota di Thailand di wilayah Isan, dan ibu kota provinsi 
+        Sakon Nakhon serta Mueang Distrik. Sakhon Nakhon memiliki iklim sabana tropis.
+        </city:abstract>
+        <city:areaTotalKm>54.54 km2 </city:areaTotalKm>
+        <city:populationTotal>76,000 jiwa</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sakon_Nakhon"/>
+    </city:thailand>
+</rdf:RDF>

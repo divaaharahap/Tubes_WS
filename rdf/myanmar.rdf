@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:city="http://example.org/schema/city"
+    xmlns:dc="http://purl.org/dc/terms/">
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Bago_Region">
+        <city:number>1</city:number>
+        <rdfs:label>Wilayah Bago</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Wilayah Bago (Burma: ပဲခူးတိုင်းဒေသကြီး, diucapkan [bəɡó táɪɰ̃ dèθa̰ dʑí]; sebelumnya Divisi Pegu dan Divisi Bago) adalah 
+        wilayah administratif Myanmar, yang terletak di bagian tengah selatan negara itu. Berbatasan dengan Wilayah Magway 
+        dan Wilayah Mandalay di utara; Negara Bagian Kayin, Negara Bagian Mon dan Teluk Martaban di sebelah timur; Wilayah 
+        Yangon di selatan dan Wilayah Ayeyarwady dan Negara Bagian Rakhine di barat. Letaknya antara 46°45'LU dan 19°20'LU 
+        dan 94°35'BT dan 97°10'BT. Kota ini mempunyai jumlah penduduk sebanyak 4.867.373 jiwa (2014).
+        </city:abstract>
+        <city:areaTotalKm>39.402,3 km2 </city:areaTotalKm>
+        <city:populationTotal>4.867.373</city:populationTotal>
+        <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Bago_(kota)"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Chauk">
+        <city:number>2</city:number>
+        <rdfs:label>Chauk</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Chauk (Burmese: ချောက်) adalah sebuah kota dan pelabuhan sungai di Region Magway, Myanmar bagian tengah-utara, di 
+        tepi Sungai Irrawaddy. Kota ini terletak di seberang sungai dari Seikphyu (ဆိပ်ဖြူ) dan terhubung oleh sebuah jembatan.
+        </city:abstract>
+        <city:areaTotalKm>.....</city:areaTotalKm>
+        <city:populationTotal>44.289</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Chauk"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Dawei_District">
+        <city:number>3</city:number>
+        <rdfs:label>Distrik Dawei</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Distrik Dawei (Burma: ထားဝယ်ခရိုင်) adalah sebuah distrik di Divisi Taninthayi Myanmar. Kabupaten ini mencakup wilayah 
+        seluas 13.792 km2, dan berpenduduk 493.576 jiwa berdasarkan Sensus 2014.
+        </city:abstract>
+        <city:areaTotalKm>13.792 km2</city:areaTotalKm>
+        <city:populationTotal>493.576</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Dawei_District"/>
+    </city:Myanmar>
+
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Hakha">
+        <city:number>4</city:number>
+        <rdfs:label>Hakha</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Hakha (bahasa Burma: ဟားခါးမြို့; MLCTS: ha: hka: mrui., diucapkan [hákʰá mjo̰]; dulu dieja Haka) adalah ibu kota Negara Bagian Chin di Myanmar.
+        Kota Hakha terletak di timur laut Negara Bagian Chin, dengan luas total sekitar 12,50 mil persegi (32,4 km2). Kota Hakha terletak pada ketinggian lebih dari 1.867 meter (6.125 kaki) di atas permukaan laut, di kawasan dataran tinggi kecil. 
+        Meskipun luas datarannya relatif kecil, ini adalah kota terbesar di Negara Bagian Chin, di mana tanah datarnya jauh lebih luas dibanding kota-kota lain di negara bagian.
+        Karena Negara Bagian Chin merupakan kawasan berbukit, Hakha dibangun di lereng gunung besar, berbentuk U. Hanya ada satu jalan utama yang membentang di tengah kota, dalam bentuk U yang melengkung. Kota Hakha terhubung dengan kota-kota lain di Chin seperti Yangon, Falam, Gangaw, dan Matupi.
+        </city:abstract>
+        <city:areaTotalKm>32,4 km2</city:areaTotalKm>
+        <city:populationTotal>29.800</city:populationTotal>
+        <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Hakha"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Hpa-an">
+        <city:number>5</city:number>
+        <rdfs:label>Hpa-an</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Hpa-an (Burma: ဘားအံမြို့, [pʰə ʔàɰ̃ mjo̰]; Pwo Timur: ဍုံထ်ုအင်; S'gaw Karen: ဖၣ်အၣ်ဝ ့ၢ်ဖိ, juga dieja Pa-an) adalah ibu kota dan kota terbesar di Negara Bagian Kayin (Negara Bagian Karen), Myanmar (Burma) . Jumlah penduduk Hpa-an pada sensus 2014 adalah 421.575 jiwa. Sebagian besar penduduk Hpa-an berasal dari kelompok etnis Karen.
+        </city:abstract>
+        <city:areaTotalKm>30.164 km2</city:areaTotalKm>
+        <city:populationTotal>421.525</city:populationTotal>
+        <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Hpa-an"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Laukkai">
+        <city:number>6</city:number>
+        <rdfs:label>Laukkai</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Laukkai (juga dikenal sebagai Laukkaing atau Laogai atau 'Laokai; bahasa Burma: လောက်ကိုင်မြို့; Hanzi: 老街; Pinyin: Lǎojiē) adalah ibu kota Zona Otonom Kokang di utara Negara Bagian Shan, Myanmar. Kota ini terletak di tepi Sungai Salween yang merupakan perbatasan Myanmar dengan Republik Rakyat Tiongkok. Di kota ini, mata uang Renminbi, bahasa Mandarin dan aksara Han digunakan oleh penduduknya. Kota ini dihuni oleh 23.435 jiwa.
+        Laukkai menjadi lokasi pertempuran terbesar dalam insiden Kokang pada Agustus 2009; pada tanggal 24 Agustus, kota ini berhasil diduduki oleh pasukan Tatmadaw (junta militer Myanmar).
+        Pada 17 Februari 2015 Presiden Myanmar Thein Sein mendeklarasikan keadaan darurat darurat selama tiga bulan di Kokang sebagai tanggapan atas pertempuran antara pasukan pemerintah melawan Tentara Aliansi Demokratis Nasional Myanmar, suatu kelompok pemberontak.
+        </city:abstract>
+        <city:areaTotalKm>1.895 km2</city:areaTotalKm>
+        <city:populationTotal>23.435</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Laukkai"/>
+    </city:Myanmar>
+
+        <city:Myanmar rdf:about="https://dbpedia.org/page/Loikaw">
+        <city:number>7</city:number>
+        <rdfs:label>Loikaw</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Loikaw (bahasa Burma: လွိုင်ကော်မြို့; MLCTS: lwuing kau mrui., diucapkan [lwàɪ(ŋ)kɔ̀ mjo̰]) adalah ibu kota Negara Bagian Kayah di Myanmar. Letaknya di Perbukitan Karen, di ujung utara Negara Bagian Kayah, dekat Sungai Pilu. Mayoritas penduduknya adalah suku Kayah (Karenni). Pembangkit listrik tenaga air terbesar di Myanmar (dibangun oleh Jepang sebagai pampasan perang) terletak sekitar 20 km di sebelah timur Loikaw di Air Terjun Lawpita.
+        Kota Loikaw terdiri dari 13 distrik kota: Naungya, Daw-ukhu, Mainglon, Mingala, Dhammayon, Zaypaing, Shwetaung, Landama, Dawtanma, Dawnoeku, Shansu, dan Minsu.
+        </city:abstract>
+        <city:areaTotalKm>11.670 km2  </city:areaTotalKm>
+        <city:populationTotal>289.247</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Loikaw"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Magway">
+        <city:number>8</city:number>
+        <rdfs:label>Magway</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Magway atau Magwe (Burma: မကွေးမြို့; MLCTS: ma. Kwe: mrui., Diucapkan [məɡwé mjo̰]) adalah ibu kota Wilayah Magway (sebelumnya Divisi Magway) di Myanmar. Kota ini terletak di tepi Sungai Irrawaddy. Pagoda Myathalun yang terletak di utara kota adalah tengaran kota Magway. Kota ini merupakan kota terbesar kedua di Wilayah Magway dan menjadi lokasi Bandara Magway.
+        </city:abstract>
+        <city:areaTotalKm> 44.821 km2 </city:areaTotalKm>
+        <city:populationTotal>96.954</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Magway"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Mandalay">
+        <city:number>9</city:number>
+        <rdfs:label>Mandalay</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Mandalay (/ˌmændəˈleɪ/ atau /ˈmændəleɪ/; Burma: မန္တလေး; MLCTS: manta.le: [mándəlé]) adalah kota terbesar kedua di Myanmar, setelah Yangon. Terletak di tepi timur Sungai Irrawaddy, 631km (392 mil) (Jarak Jalan) di utara Yangon, kota ini memiliki populasi 1.225.553 jiwa (sensus 2014). Mandalay didirikan pada tahun 1857 oleh Raja Mindon, menggantikan Amarapura sebagai ibu kota kerajaan baru dinasti Konbaung. Ini adalah ibu kota kerajaan terakhir Burma sebelum kerajaan tersebut dianeksasi oleh Kerajaan Inggris pada tahun 1885. Di bawah pemerintahan Inggris, Mandalay tetap penting secara komersial dan budaya meskipun ada kebangkitan Yangon, ibu kota baru Burma Britania. Kota ini mengalami kehancuran besar selama penaklukan Jepang atas Burma pada Perang Dunia Kedua. Pada tahun 1948, Mandalay menjadi bagian dari Persatuan Burma yang baru merdeka. Saat ini, Mandalay adalah pusat ekonomi Myanmar Atas dan dianggap sebagai pusat kebudayaan Burma. Masuknya imigran ilegal Tiongkok yang terus berlanjut, sebagian besar dari Yunnan, sejak akhir abad ke-20, telah mengubah susunan etnis kota tersebut dan meningkatkan perdagangan dengan Tiongkok. Meskipun Naypyidaw mengalami kemajuan baru-baru ini, Mandalay tetap menjadi pusat komersial, pendidikan, dan kesehatan utama di Myanmar Atas.
+        </city:abstract>
+        <city:areaTotalKm>163.84 km2</city:areaTotalKm>
+        <city:populationTotal>1.208.099</city:populationTotal>
+        <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Mandalay"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Mergui">
+        <city:number>10</city:number>
+        <rdfs:label>Myeik</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Myeik (Burma: မြိတ်; MLCTS: mrit, diucapkan [mjeɪʔ] atau [beɪʔ]; Sen: ဗိက်, [pòik]; Thai: มะริด, RTGS: Marit, [má(ʔ).rít]; sebelumnya Mergui, /mɜːr ˈɡwiː/ ) adalah sebuah kota pedesaan di Wilayah Tanintharyi di Myanmar (Burma), terletak di ujung selatan negara itu di pesisir sebuah pulau di Laut Andaman. Pada tahun 2010, perkiraan populasinya mencapai lebih dari 209.000 jiwa. Myeik adalah kota terbesar di Wilayah Tanintharyi, dan berfungsi sebagai markas besar regional Komando Regional Tanintharyi Angkatan Laut Myanmar. Daerah pedalaman dari kota merupakan koridor penyelundupan utama ke Thailand. Singkhon Pass, juga dikenal sebagai Maw-daung Pass, memiliki pos pemeriksaan lintas batas internasional.
+        </city:abstract>
+        <city:areaTotalKm>8,7 km2</city:areaTotalKm>
+        <city:populationTotal>284.498</city:populationTotal>
+        <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Mergui"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Naypyidaw">
+        <city:number>11</city:number>
+        <rdfs:label>Naypyidaw</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Naypyidaw, secara resmi dieja Nay Pyi Taw (Burma: နေပြည်တော်; MLCTS: Nepranytau; diucapkan [nèpjìdɔ̀] menyala. 'Ibukota Kerajaan'), adalah ibu kota dan kota terbesar ketiga di Myanmar. Kota ini terletak di tengah Wilayah Persatuan Naypyidaw. Hal ini tidak biasa terjadi di kota-kota lain di Myanmar, karena ini adalah kota yang sepenuhnya terencana di luar negara bagian atau wilayah mana pun. Kota yang saat itu hanya dikenal sebagai Distrik Pyinmana ini secara resmi menggantikan Yangon sebagai ibu kota administratif Myanmar pada 6 November 2005; nama resminya diumumkan ke publik pada Hari Angkatan Bersenjata, 27 Maret 2006. Sebagai pusat pemerintahan Myanmar, Naypyidaw adalah tempat Parlemen Persatuan, Mahkamah Agung, Istana Kepresidenan, dan kediaman resmi Kabinet Myanmar. Myanmar dan markas besar kementerian pemerintah dan militer. Naypyidaw terkenal karena kombinasi yang tidak biasa antara ukurannya yang besar dan kepadatan penduduk yang sangat rendah. Kota ini menjadi tuan rumah KTT ASEAN ke-24 dan ke-25, KTT BIMSTEC ke-3, KTT Asia Timur Kesembilan, Pesta Olahraga Asia Tenggara 2013, dan Kejuaraan AFC U-19 2014.
+        </city:abstract>
+        <city:areaTotalKm> 7.054,37 km2 </city:areaTotalKm>
+        <city:populationTotal>924.608</city:populationTotal>
+        <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Naypyidaw"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Pathein">
+        <city:number>12</city:number>
+        <rdfs:label>Pathein</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Pathein (Burma: ပုသိမ်မြို့; MLCTS: pu.sim mrui., Pengucapan Burma: [pəθèɪ̯ɰ̃ mjo̰]; Senin: ဖာသီ, [pʰasɛm]), sebelumnya bernama Bassein, adalah kota terbesar dan ibu kota negara Wilayah Ayeyarwady, Myanmar (Burma ). Terletak 190 km (120 mil) sebelah barat Yangon di dalam Kotapraja Pathein di tepi Sungai Pathein (Pathein), yang merupakan cabang barat Sungai Irrawaddy, kota ini berpenduduk 237.089 jiwa (sensus 2017). Meskipun pernah menjadi bagian dari kerajaan Mon, Pathein hanya memiliki sedikit penduduk etnis Mon saat ini. Mayoritasnya adalah suku Bamar dengan populasi suku Karen, Indian Burma, Rakhine, dan Tionghoa Burma yang signifikan. 
+        </city:abstract>
+        <city:areaTotalKm> 10.899,8 km2 </city:areaTotalKm>
+        <city:populationTotal>237.089</city:populationTotal>
+        <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Pathein"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Pyinmana">
+        <city:number>13</city:number>
+        <rdfs:label>Pyinmana</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Pyinmana (Burma: ပျဉ်းမနားမြို့; MLCTS: Khit _Sem, IPA: [pjɪ̀ɰ̃məná mjo̰]; populasi: 100.000 (perkiraan tahun 2006)) adalah kota penebangan kayu dan pusat penyulingan tebu di Nay Wilayah Persatuan pyidaw Myanmar. Ibu kota administratif Myanmar secara resmi dipindahkan ke lokasi lahan hijau yang dimiliterisasi (yang oleh pemimpinnya, Than Shwe, dijuluki Naypyidaw, atau Kota Kerajaan) dua mil (3,2 km) sebelah barat Pyinmana pada tanggal 6 November 2005. Pada tahun 2014, kota ini telah populasi perkotaan 72.010. Selama Perang Dunia II, Pyinmana adalah basis Tentara Kemerdekaan Burma (kemudian diubah namanya dan direorganisasi menjadi Tentara Pertahanan Burma oleh Jepang).
+        </city:abstract>
+        <city:areaTotalKm>.....</city:areaTotalKm>
+        <city:populationTotal>100.001</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pyinmana"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Sagaing">
+        <city:number>14</city:number>
+        <rdfs:label>Sagaing</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Sagaing (Burma: စစ်ကိုင်းမြို့; MLCTS: cac kuing: mrui., diucapkan [zəɡáɪɰ̃ mjo̰]) adalah bekas ibu kota Wilayah Sagaing di Myanmar. Terletak di Sungai Irrawaddy, 20 km (12 mil) di barat daya Mandalay di seberang tepi sungai. Sagaing dengan banyak biara Buddha merupakan pusat keagamaan dan biara yang penting. Pagoda dan biara memenuhi banyak bukit di sepanjang punggung bukit yang sejajar dengan sungai. Pagoda pusat, Pagoda Soon U Ponya Shin, dihubungkan dengan serangkaian tangga tertutup yang mendaki bukit setinggi 240 m (790 kaki). Saat ini, dengan sekitar 70.000 penduduk, kota ini merupakan bagian dari kawasan pembangunan Mandalay dengan perkiraan lebih dari 1.022.000 penduduk pada tahun 2011. Kota ini sering menjadi tujuan wisata bagi para pelancong harian. Di dalam kota terdapat Institut Pendidikan Sagaing, Universitas Sagaing, Universitas Teknologi (Sagaing), dan universitas koperasi (Sagaing). Universitas Sagaing didirikan pada 11 Februari 2012. Berada di Kawasan Pakatoe, Kotapraja Sagaing, Wilayah Sagaing, Myanmar. Ini memiliki luas 300,35 hektar (121,55 ha). Hasilnya, kini terdapat lima perguruan tinggi/universitas di Sagaing.
+        </city:abstract>
+        <city:areaTotalKm>3.003,5 km2 </city:areaTotalKm>
+        <city:populationTotal>307.194</city:populationTotal>
+        <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Sagaing"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Shwebo">
+        <city:number>15</city:number>
+        <rdfs:label>Shwebo</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Shwebo (Burma: ရွှေဘိုမြို့ [ʃwèbò mjo̰]) adalah sebuah kota di Wilayah Sagaing, Burma, 110 km barat laut Mandalay antara sungai Irrawaddy dan sungai Mu. Kota ini merupakan cikal bakal Dinasti Konbaung yang didirikan oleh Raja Alaungpaya pada tahun 1752, yang merupakan kekuatan politik dominan di Burma setelah pertengahan abad ke-18. Kota ini menjadi ibu kota Alaungpaya dari tahun 1752 hingga 1760. Pada tahun 2021, kota ini mempunyai populasi sebesar 88.914 jiwa.
+        </city:abstract>
+        <city:areaTotalKm>.....</city:areaTotalKm>
+        <city:populationTotal>88.914</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Shwebo"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Sittwe">
+        <city:number>16</city:number>
+        <rdfs:label>Sittwe</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Sittwe (Burma: စစ်တွေမြို့; MLCTS: cac twe mrui.; Pengucapan Burma: [sɪʔtwè mjo̰]; sebelumnya Akyab) adalah ibu kota Negara Bagian Rakhine, Myanmar (Burma). Sittwe, diucapkan sait-tway dalam bahasa Rakhine, terletak di pulau muara yang tercipta di pertemuan sungai Kaladan, Mayu, dan Lay Mro yang bermuara di Teluk Benggala. Pada tahun 2006 kota ini mempunyai 181.000 penduduk. Ini adalah pusat administratif Kotapraja Sittwe dan Distrik Sittwe.
+        </city:abstract>
+        <city:areaTotalKm>231,6 km2 </city:areaTotalKm>
+        <city:populationTotal>147.899</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Sittwe"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Taunggyi">
+        <city:number>17</city:number>
+        <rdfs:label>Taunggyi</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Taunggyi (Burma: တောင်ကြီးမြို့; MLCTS: taung kri: mrui. [tàʊɰ̃dʑí mjo̰]; Shan: ဝဵင်းတူၼ်ႈတ ီး [weŋ˥ ton˧˧˨ ti˥]; Pa'O: ဝေင်ꩻတောင်းကီꩻ) adalah ibu kota dan kota terbesar di Negara Bagian Shan, Myanmar ( Burma) dan terletak di jalan Thazi-Kyaingtong pada ketinggian 4.712 kaki (1.436 m), di utara Shwenyaung dan Danau Inle di wilayah Myelat. Taunggyi adalah kota terbesar kelima di Myanmar, dan memiliki perkiraan populasi 380.665 jiwa pada tahun 2014. Kota ini terkenal dengan festival balon udara yang diadakan setiap tahun pada hari bulan purnama Tazaungmon.
+        </city:abstract>
+        <city:areaTotalKm>.....</city:areaTotalKm>
+        <city:populationTotal>381.639</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Taunggyi"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Taungoo">
+        <city:number>18</city:number>
+        <rdfs:label>Taungoo</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Taungoo Mingaung (Burma: တောင်ငူ မင်းခေါင် [tàʊɰ̃ŋù mɪ́ɰ̃ɡàʊɰ̃]) adalah salah satu dari Tiga Puluh Tujuh nat dalam jajaran resmi nat Burma. Ia digambarkan sedang duduk bersila di dipan sederhana dengan mengenakan pakaian kerajaan, memegang kipas angin di tangan kanannya dan tangan kirinya bertumpu pada lutut. Menurut penulis Hla Thamein, dia adalah representasi nat dari Minkhaung II, yang merupakan raja muda Taungoo (memerintah 1549–1551, 1552–1584) dan adik ketiga Raja Bayinnaung dari dinasti Taungoo. Namun, Minkhaung II meninggal karena sebab alamiah sedangkan Raja Muda Minkhaung I (memerintah 1446–1451) dibunuh secara brutal (berulang kali dibacok hingga mati dengan pedang). Karena kematian akibat pembunuhan dengan kekerasan adalah motif utama dari Tiga Puluh Tujuh nat, dan salah satu kriteria utama untuk dilantik ke dalam panteon, nat tersebut kemungkinan besar didasarkan pada Minkhaung I, bukan Minkhaung II.
+        </city:abstract>
+        <city:areaTotalKm>.....</city:areaTotalKm>
+        <city:populationTotal>106.945</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Taungoo"/>
+    </city:Myanmar>
+
+    <city:Myanmar rdf:about="https://dbpedia.org/page/Yangon">
+        <city:number>19</city:number>
+        <rdfs:label>Yangon</rdfs:label>
+        <city:country>Myanmar</city:country>
+        <city:abstract>
+        Yangon (Burma: ရန်ကုန်; diucapkan [jàɰ̃ɡòʊɰ̃ mjo̰]; menyala. 'End of Strife'), sebelumnya dieja sebagai Rangoon, adalah ibu kota Wilayah Yangon dan kota terbesar di Myanmar (juga dikenal sebagai Burma). Yangon menjabat sebagai ibu kota Myanmar hingga tahun 2006, ketika pemerintah militer memindahkan fungsi administratifnya ke ibu kota yang dibangun khusus, Naypyidaw, di utara tengah Myanmar. Dengan lebih dari 7 juta penduduk, Yangon adalah kota terpadat di Myanmar dan pusat komersial terpenting. Yangon memiliki jumlah bangunan era kolonial terbesar di Asia Tenggara, dan memiliki inti perkotaan unik era kolonial yang sangat utuh. Inti komersial era kolonial berpusat di sekitar Pagoda Sule, yang terkenal berusia lebih dari 2.000 tahun. Kota ini juga merupakan rumah bagi Pagoda Shwedagon berlapis emas – pagoda Buddha paling suci dan terkenal di Myanmar. Yangon mempunyai infrastruktur yang sangat tidak memadai, terutama dibandingkan dengan kota-kota besar lainnya di Asia Tenggara, seperti Jakarta, Bangkok atau Hanoi. Meskipun banyak bangunan perumahan dan komersial bersejarah telah direnovasi di seluruh pusat Yangon, sebagian besar kota-kota satelit yang mengelilingi kota ini masih sangat miskin dan kekurangan infrastruktur dasar.
+        </city:abstract>
+        <city:areaTotalKm>598.75 km2 </city:areaTotalKm>
+        <city:populationTotal>4.477.638</city:populationTotal>
+        <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Yangon"/>
+    </city:Myanmar>
+
+</rdf:RDF>
